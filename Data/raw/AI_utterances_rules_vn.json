@@ -1,0 +1,220 @@
+[
+  {
+    "intent": "ask_warranty",
+    "examples": [
+      "Sản phẩm có bảo hành không?",
+      "Bảo hành bao lâu?",
+      "Chính sách bảo hành thế nào?",
+      "Có bảo hành chính hãng không?",
+      "Thời gian bảo hành là bao lâu?",
+      "Nếu hư thì có được bảo hành không?",
+      "Bảo hành ở đâu vậy?",
+      "Có được đổi mới trong thời gian bảo hành không?",
+      "Có phiếu bảo hành kèm theo không?",
+      "Bảo hành sản phẩm này thế nào?",
+      "Mình cần biết thông tin bảo hành",
+      "Bảo hành mấy tháng?",
+      "Có hỗ trợ bảo hành không?",
+      "Sản phẩm bị lỗi thì xử lý sao?",
+      "Có trung tâm bảo hành ở TP.HCM không?",
+      "Hết bảo hành thì có sửa được không?",
+      "Máy mình còn trong thời gian bảo hành không?",
+      "Đem ra cửa hàng bảo hành được không?",
+      "Cần giấy tờ gì để bảo hành?",
+      "Có cần hóa đơn khi bảo hành không?",
+      "Nếu rơi vỡ thì có được bảo hành không?",
+      "Có thể gia hạn bảo hành không?",
+      "Bảo hành tính từ khi mua hay khi kích hoạt?",
+      "Có bảo hành quốc tế không?"
+    ],
+    "response": [
+      "Máy ảnh được bảo hành 24 tháng, còn ống kính bảo hành 12 tháng chính hãng. Bạn đang quan tâm đến sản phẩm nào?",
+      "Dạ, sản phẩm được bảo hành chính hãng 12 tháng trên toàn quốc bạn nhé!",
+      "Tùy sản phẩm sẽ có thời gian bảo hành khác nhau. Bạn cho mình biết mã sản phẩm để kiểm tra cụ thể nhé.",
+      "Bên mình cam kết bảo hành 1 đổi 1 trong 7 ngày nếu sản phẩm bị lỗi do nhà sản xuất.",
+      "Sản phẩm có phiếu bảo hành chính hãng kèm theo. Bạn có thể mang tới trung tâm hoặc bên mình đều được hỗ trợ.",
+      "Bảo hành áp dụng từ ngày mua hàng, vui lòng giữ lại hóa đơn hoặc thông tin đặt hàng để tiện xử lý bạn nha!",
+      "Bảo hành 12 tháng tại tất cả trung tâm ủy quyền của hãng. Cần mình gửi địa chỉ trung tâm gần bạn không ạ?",
+      "Máy ảnh và ống kính đều được bảo hành chính hãng. Một số phụ kiện như pin, sạc có bảo hành 3–6 tháng tuỳ loại.",
+      "Dạ, khi có sự cố kỹ thuật, bạn chỉ cần liên hệ bên mình hoặc đem máy tới trung tâm bảo hành để được hỗ trợ nhanh nhất.",
+      "Bạn có thể gia hạn bảo hành thêm 6–12 tháng với gói mở rộng. Có muốn mình tư vấn không ạ?",
+      "Bên mình hỗ trợ kiểm tra bảo hành theo số serial. Bạn có thể gửi mã máy để mình tra giúp nha!"
+    ]
+  },
+  {
+    "intent": "ask_compatibility",
+    "examples": [
+      "Máy Sony ZV-E10 dùng được ống kính nào?",
+      "Ống kính nào tương thích với máy này?",
+      "Có thể gắn lens Canon không?",
+      "Máy có hỗ trợ ống kính Sony không?",
+      "Tôi muốn biết máy này dùng được lens gì?",
+      "Máy có tương thích với ống kính ngàm E không?",
+      "Máy dùng được lens ngàm EF không?",
+      "Tôi có lens cũ, có xài được cho máy này không?",
+      "Có cần ngàm chuyển không khi dùng ống kính khác hãng?",
+      "Có hỗ trợ ống kính khẩu lớn không?",
+      "Dòng này có tương thích với ống kính góc rộng không?",
+      "Máy có tương thích với phụ kiện nào không?",
+      "Có hỗ trợ flash rời không?",
+      "Có gắn mic ngoài được không?",
+      "Máy này có kết nối bluetooth với thiết bị khác được không?",
+      "Gắn tripod loại nào cũng được à?",
+      "Ống kính của máy khác hãng có dùng được không?",
+      "Ngàm E khác gì ngàm EF? Có tương thích không?",
+      "Tôi đang dùng ống kính Sony, có cần mua ngàm chuyển không?",
+      "Phụ kiện cũ có xài chung với máy này được không?"
+    ],
+    "response": [
+      "Dạ, máy hỗ trợ ống kính ngàm E của Sony. Bạn đang dùng loại lens nào để mình kiểm tra giúp nhé?",
+      "Sản phẩm tương thích với hầu hết các lens ngàm E. Nếu dùng lens Canon hoặc Nikon, bạn cần thêm ngàm chuyển phù hợp ạ.",
+      "Bạn có thể dùng lens chính hãng hoặc bên thứ ba như Sigma, Tamron miễn là ngàm E. Mình có thể gợi ý vài mẫu nếu bạn cần.",
+      "Dạ có ạ! Máy hỗ trợ kết nối với nhiều phụ kiện như mic, flash, tripod thông dụng. Bạn muốn kết nối thiết bị gì cụ thể để mình kiểm tra nhé?",
+      "Nếu bạn đã có ống kính cũ, chỉ cần kiểm tra lại loại ngàm. Gửi mã lens để mình tra tương thích giúp bạn.",
+      "Máy dùng tốt với lens Sony ngàm E, ngàm FE đều được. Nếu bạn muốn dùng lens DSLR thì cần ngàm chuyển riêng nhé.",
+      "Máy này không hỗ trợ lens Canon ngàm EF trực tiếp, nhưng bạn có thể dùng ngàm chuyển để sử dụng được bình thường.",
+      "Dạ hiện máy chỉ tương thích với các lens ngàm E. Nếu bạn cần gợi ý lens phù hợp cho thể loại chụp cụ thể (chân dung, phong cảnh...), mình hỗ trợ liền nhé!",
+      "Máy có hỗ trợ Bluetooth, Wi-Fi để kết nối với smartphone và phụ kiện. Với mic ngoài, bạn chỉ cần jack 3.5mm là gắn được.",
+      "Bạn có thể dùng tripod chuẩn 1/4 inch là gắn vừa máy. Đây là loại phổ biến cho máy ảnh hiện nay."
+    ]
+  },
+  {
+    "intent": "ask_compare",
+    "examples": [
+      "So sánh ZV-E10 và ZV-1 giúp mình",
+      "ZV-E10 khác gì ZV-1 vậy?",
+      "ZV-E10 tốt hơn ZV-1 không?",
+      "Cho mình biết sự khác biệt giữa hai máy này",
+      "Máy nào chụp đẹp hơn, ZV-1 hay ZV-E10?",
+      "ZV-E10 có gì hơn ZV-1 không?",
+      "ZV-1 và ZV-E10 khác nhau chỗ nào?",
+      "Giữa ZV-E10 với ZV-1 nên chọn máy nào?",
+      "So sánh hai mẫu máy này giùm mình",
+      "Mình phân vân giữa ZV-E10 và ZV-1, bạn tư vấn giúp được không?",
+      "Cấu hình ZV-1 có thua ZV-E10 không?"
+    ],
+    "response": [
+      "ZV-E10 có thể thay được ống kính, cảm biến lớn hơn – phù hợp chụp chuyên sâu. Còn ZV-1 nhỏ gọn, tiện vlog nhanh.",
+      "Nếu bạn thích quay video chất lượng cao, hậu kỳ tốt – nên chọn ZV-E10. ZV-1 thì gọn nhẹ, phù hợp mang đi du lịch.",
+      "ZV-E10 có cổng mic, jack tai nghe, hỗ trợ lens rời nên linh hoạt hơn. Tuy nhiên ZV-1 lại dễ dùng cho người mới bắt đầu.",
+      "Tùy mục đích sử dụng bạn nhé. Nếu bạn cần máy linh hoạt, nâng cấp được – ZV-E10 là lựa chọn tốt hơn.",
+      "ZV-1 là máy compact, còn ZV-E10 là mirrorless – nên chất lượng hình ảnh, tùy chỉnh của ZV-E10 sẽ nhỉnh hơn."
+    ]
+  },
+  {
+    "intent": "ask_shooting_style",
+    "examples": [
+      "Máy này phù hợp chụp phong cách nào?",
+      "Loại máy này chụp chân dung có tốt không?",
+      "Máy ảnh này quay vlog được không?",
+      "Tôi muốn chụp phong cảnh, nên dùng máy nào?",
+      "Máy này có phù hợp chụp macro không?",
+      "Bạn tư vấn cho mình máy phù hợp chụp sự kiện được không?",
+      "Nên dùng lens nào để quay video chân dung?",
+      "Máy ảnh nào tốt cho chụp thể thao?",
+      "Máy này chụp đêm có ổn không?",
+      "Có máy nào quay phim chất lượng cao không?",
+      "Loại máy này có phù hợp quay vlog YouTube không?",
+      "Máy có hỗ trợ chụp ảnh chân dung xóa phông không?"
+    ],
+    "response": [
+      "Dòng máy này phù hợp với phong cách quay vlog, chụp chân dung và street photography.",
+      "Nếu bạn muốn chụp thể thao hoặc hành động nhanh, máy có tốc độ lấy nét và chụp liên tiếp rất tốt.",
+      "Máy ảnh này có chế độ chụp đêm và khả năng xử lý nhiễu ổn, phù hợp với chụp ảnh trong điều kiện ánh sáng yếu.",
+      "Bạn nên dùng lens macro để chụp cận cảnh, hoa lá hoặc vật thể nhỏ.",
+      "Máy rất thích hợp cho quay phim YouTube với khả năng ghi hình 4K và microphone ngoài.",
+      "Với máy này, bạn có thể thoải mái sáng tạo các phong cách chụp khác nhau nhờ nhiều chế độ hỗ trợ."
+    ]
+  },
+  {
+    "intent": "ask_price",
+    "examples": [
+      "Giá bao nhiêu vậy?",
+      "Máy này giá bao nhiêu?",
+      "Cho mình hỏi giá sản phẩm này?",
+      "Sản phẩm bán với giá bao nhiêu?",
+      "Cái này giá nhiêu?",
+      "Có giảm giá không?",
+      "Giá hiện tại là bao nhiêu?",
+      "Bán với giá thế nào?",
+      "Sản phẩm này bao nhiêu tiền?",
+      "Bạn cho biết giá máy ảnh này nhé",
+      "Giá đã gồm thuế chưa?",
+      "Có chương trình khuyến mãi nào không?",
+      "Mình muốn biết giá chi tiết"
+    ],
+    "response": [
+      "Xin lỗi, mình chưa rõ bạn hỏi gì. Bạn có thể hỏi về sản phẩm, bảo hành hoặc tương thích ống kính nhé!",
+      "Giá hiện tại của sản phẩm là 12.500.000₫, bạn có muốn mình gửi bảng giá chi tiết không?",
+      "Máy ảnh đang được bán với giá ưu đãi 12.500.000₫, bạn có muốn mình tư vấn thêm?",
+      "Giá này đã bao gồm VAT và phí vận chuyển trong khu vực Hà Nội rồi nhé!",
+      "Bạn có thể mua trả góp với lãi suất 0% trong 6 tháng nếu muốn.",
+      "Hiện tại bên mình đang có chương trình giảm giá 10% cho khách hàng mới.",
+      "Giá sản phẩm dao động tùy theo phụ kiện đi kèm và chính sách khuyến mãi tại từng thời điểm."
+    ]
+  },
+  {
+    "intent": "ask_technical",
+    "examples": [
+      "Máy này có cảm biến loại gì?",
+      "Thông số kỹ thuật của sản phẩm là gì?",
+      "Máy có chống rung không?",
+      "Độ phân giải ảnh của máy là bao nhiêu?",
+      "Thời lượng pin của máy là bao lâu?",
+      "Máy có quay video 4K được không?",
+      "Ống kính đi kèm có tiêu cự bao nhiêu?",
+      "Máy hỗ trợ thẻ nhớ loại nào?",
+      "Có thể kết nối Bluetooth hoặc Wi-Fi không?",
+      "Trọng lượng máy là bao nhiêu?",
+      "Máy có màn hình cảm ứng không?",
+      "Độ nhạy ISO tối đa là bao nhiêu?",
+      "Máy có micro ngoài được không?",
+      "Thời gian sạc pin mất bao lâu?",
+      "Máy có hỗ trợ lấy nét tự động không?"
+    ],
+    "response": [
+      "Sản phẩm này trang bị cảm biến CMOS APS-C, độ phân giải 24MP, hỗ trợ quay video 4K 30fps.",
+      "Máy có chống rung quang học tích hợp, giúp giảm mờ khi chụp hoặc quay.",
+      "Thời lượng pin trung bình khoảng 400-450 tấm ảnh hoặc 1.5 giờ quay video liên tục.",
+      "Máy hỗ trợ kết nối Wi-Fi, Bluetooth để chia sẻ ảnh nhanh chóng.",
+      "Màn hình cảm ứng xoay lật tiện lợi cho việc quay vlog và selfie.",
+      "Máy tương thích với thẻ nhớ SD, SDHC và SDXC với dung lượng tối đa 256GB.",
+      "Thời gian sạc pin khoảng 2 giờ để đạt 100% dung lượng.",
+      "Độ nhạy ISO từ 100 đến 32000, mở rộng lên đến 51200.",
+      "Máy hỗ trợ lấy nét tự động theo pha và tương phản, lấy nét nhanh và chính xác."
+    ]
+  },
+  {
+    "intent": "ask_promotion",
+    "examples": [
+      "Hiện có khuyến mãi gì không?",
+      "Có giảm giá cho sản phẩm này không?",
+      "Chương trình ưu đãi đang áp dụng là gì?",
+      "Có quà tặng khi mua hàng không?",
+      "Giảm giá trong dịp lễ như thế nào?",
+      "Mình có được giảm giá nếu mua nhiều không?",
+      "Có voucher hay mã giảm giá nào không?",
+      "Ưu đãi trả góp có áp dụng không?",
+      "Sản phẩm này có giá tốt hơn khi mua online không?",
+      "Có chương trình hoàn tiền hay tích điểm không?",
+      "Khuyến mãi có giới hạn thời gian không?",
+      "Mua sản phẩm này có được tặng phụ kiện không?"
+    ],
+    "response": [
+      "Chương trình khuyến mãi hiện tại kéo dài đến hết ngày 30/6 với ưu đãi giảm 15%.",
+      "Bạn sẽ được tặng kèm bộ phụ kiện trị giá 500.000₫ khi mua sản phẩm này.",
+      "Có mã giảm giá 5% áp dụng cho đơn hàng trên 5 triệu đồng.",
+      "Ưu đãi trả góp lãi suất 0% áp dụng cho thẻ tín dụng một số ngân hàng.",
+      "Khuyến mãi này chỉ áp dụng khi mua hàng trực tiếp tại cửa hàng.",
+      "Bạn có thể tích điểm để đổi quà hoặc giảm giá cho lần mua sau.",
+      "Chương trình hoàn tiền 3% khi thanh toán qua ví điện tử XYZ."
+    ]
+  },
+  {
+    "intent": "fallback",
+    "examples": [],
+    "response": [
+      "Xin lỗi, mình chưa rõ bạn hỏi gì. Bạn có thể hỏi về sản phẩm, bảo hành hoặc tương thích ống kính nhé!"
+    ]
+  }
+]

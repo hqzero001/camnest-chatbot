@@ -1,0 +1,1077 @@
+[
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Danh sách ống kính tương thích với [Electronic full-time MF] trên EOS-1D X Mark III?",
+        "Câu trả lời": "EF 400mm f/2.8L IS III USM (Firmware Ver 1.1.2 trở lên), EF 600mm f/4L IS III USM (Firmware Ver 1.1.2 trở lên), RF 70-200mm f/2.8L IS USM (Firmware Ver 1.1.0 trở lên), RF 100-500mm f/4.5-7.1L IS USM (Firmware Ver 1.0.9 trở lên)."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Làm thế nào để bật chế độ lấy nét liên tục trên PowerShot G9 X Mark II?",
+        "Câu trả lời": "Vào [Menu], chọn [AF operation], chọn [Continuous AF]."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Cách cập nhật firmware cho EOS R5?",
+        "Câu trả lời": "Tải firmware mới nhất từ trang web Canon, sao chép vào thẻ SD, đưa thẻ vào máy, vào [Menu] chọn [Firmware] để cập nhật. Đảm bảo pin đầy."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Thời lượng pin của PowerShot G7 X Mark III là bao lâu?",
+        "Câu trả lời": "Khoảng 265 ảnh (chế độ Eco: 320 ảnh) hoặc 55 phút quay video với pin NB-13L."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Cách vệ sinh cảm biến trên EOS-1D X Mark III?",
+        "Câu trả lời": "Vào [Menu], chọn [Sensor cleaning] để tự động vệ sinh. Nếu vệ sinh thủ công, dùng ống thổi khí sạch, tránh khí nén."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Làm thế nào để khắc phục lỗi kết nối EOS Utility trên Windows 10?",
+        "Câu trả lời": "Cập nhật EOS Utility, kiểm tra kết nối USB/Wi-Fi, tắt tạm tường lửa, chọn chế độ [PC Connection] trên máy."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Ống kính nào hỗ trợ chụp liên tiếp tốc độ cao trên EOS R6?",
+        "Câu trả lời": "Ống RF như RF24-70mm f/2.8 L IS USM, EF như EF70-200mm f/2.8L IS USM hỗ trợ tốc độ 12 fps (màn trập cơ) hoặc 20 fps (màn trập điện tử)."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Cách format thẻ SD trên EOS M50 Mark II?",
+        "Câu trả lời": "Vào [Menu] > [Setup] > [Format card], chọn thẻ và xác nhận. Sao lưu dữ liệu trước."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Thời gian quay video tối đa của PowerShot SX740 HS?",
+        "Câu trả lời": "Tối đa 29 phút 59 giây mỗi clip ở Full HD hoặc 4K, có thể dừng sớm do pin hoặc dung lượng thẻ."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Cách bật kết nối Bluetooth trên EOS 90D?",
+        "Câu trả lời": "Vào [Menu] > [Wireless communication settings] > [Bluetooth function], chọn [Smartphone], ghép nối qua ứng dụng Camera Connect."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Lỗi Err 01 trên EOS 5D Mark IV là gì?",
+        "Câu trả lời": "Lỗi giao tiếp giữa máy và ống kính. Lau sạch tiếp điểm, gắn lại ống hoặc thử ống khác."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Cách điều chỉnh cân bằng trắng trên PowerShot G7 X Mark II?",
+        "Câu trả lời": "Nhấn [Func./Set], chọn [White Balance], chọn chế độ (Daylight, Cloudy) hoặc tùy chỉnh bằng cách chụp vật thể trắng/xám."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Có thể dùng ống EF trên EOS R10 với adapter không?",
+        "Câu trả lời": "Có, dùng Canon Mount Adapter EF-EOS R để gắn ống EF/EF-S, vẫn giữ chức năng lấy nét tự động và chống rung."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Cách reset EOS M50 về cài đặt gốc?",
+        "Câu trả lời": "Vào [Menu] > [Setup] > [Reset camera], chọn [Basic settings] hoặc [All settings], xác nhận."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Thời hạn bảo hành máy ảnh Canon tại Việt Nam?",
+        "Câu trả lời": "Thường là 1 năm, bao gồm lỗi sản xuất. Kiểm tra điều khoản cụ thể khi mua."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Cách bật quay video 4K trên EOS 90D?",
+        "Câu trả lời": "Chuyển nút chế độ sang [Movie], vào [Menu] > [Movie rec quality], chọn [4K], dùng thẻ UHS-I Speed Class 3."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Tại sao PowerShot SX70 HS báo lỗi thẻ nhớ?",
+        "Câu trả lời": "Thẻ có thể đầy, bị khóa hoặc không tương thích. Mở khóa thẻ, format trong máy hoặc dùng thẻ SDHC/SDXC khác."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Cách cập nhật ứng dụng Canon Camera Connect?",
+        "Câu trả lời": "Kiểm tra cập nhật trên App Store (iOS) hoặc Google Play (Android), tải phiên bản mới nhất."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Sự khác biệt giữa ống RF và EF là gì?",
+        "Câu trả lời": "Ống RF dành cho máy mirrorless, giao tiếp nhanh, thiết kế gọn. Ống EF cho DSLR, có thể dùng trên máy R với adapter."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Cách chụp ảnh ở chế độ thủ công trên EOS Rebel T7?",
+        "Câu trả lời": "Chuyển sang chế độ [M], điều chỉnh tốc độ, khẩu độ, ISO bằng nút xoay chính và [Q]. Dùng thước đo sáng để cân chỉnh."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Có thể sạc PowerShot G7 X Mark III qua USB không?",
+        "Câu trả lời": "Có, dùng cáp USB-C với nguồn tương thích, thời gian sạc khoảng 2 giờ."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Cách bật chế độ HDR trên EOS R6?",
+        "Câu trả lời": "Vào [Menu] > [Shooting] > [HDR Mode], chọn [Enable], chọn mức dải động. Dùng chân máy để có kết quả tốt."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Tại sao EOS M200 không kết nối Wi-Fi?",
+        "Câu trả lời": "Đảm bảo Wi-Fi bật, máy trong phạm vi, nhập đúng SSID/mật khẩu. Cập nhật firmware và ứng dụng Camera Connect."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Cách sử dụng chụp hẹn giờ trên EOS 6D Mark II?",
+        "Câu trả lời": "Vào [Menu] > [Shooting] > [Interval timer], bật, đặt khoảng thời gian và số ảnh, bắt đầu chụp."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Thẻ nhớ nào tương thích với PowerShot SX740 HS?",
+        "Câu trả lời": "Thẻ SD, SDHC, SDXC (khuyến nghị UHS-I Speed Class 3 cho 4K)."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Cách bật chụp im lặng trên EOS R5?",
+        "Câu trả lời": "Vào [Menu] > [Shooting] > [Shutter mode], chọn [Electronic]."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Lỗi Err 02 trên EOS 80D là gì?",
+        "Câu trả lời": "Lỗi truy cập thẻ nhớ. Kiểm tra thẻ đầy hoặc khóa, format thẻ hoặc thử thẻ khác."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Cách điều chỉnh ISO trên PowerShot G9 X Mark II?",
+        "Câu trả lời": "Nhấn [Func./Set], chọn [ISO], chọn giá trị (125-12800) hoặc [Auto]."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Có nên dùng pin bên thứ ba cho máy Canon?",
+        "Câu trả lời": "Canon khuyến nghị dùng pin chính hãng để đảm bảo an toàn và hiệu suất. Pin bên thứ ba có thể gây lỗi hoặc hỏng máy."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Cách bật Dual Pixel RAW trên EOS R5?",
+        "Câu trả lời": "Vào [Menu] > [Shooting] > [Dual Pixel RAW], bật, dùng ống kính tương thích. Tăng dung lượng file."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Cách truyền ảnh sang máy tính bằng EOS Utility?",
+        "Câu trả lời": "Kết nối qua USB, mở EOS Utility, chọn [Transfer Images], chọn ảnh để tải."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Phạm vi ISO tối đa của EOS R10 là bao nhiêu?",
+        "Câu trả lời": "ISO 100-32000, mở rộng đến 51200. ISO tự động điều chỉnh theo ánh sáng."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Cách bật lấy nét theo mắt trên PowerShot G7 X Mark III?",
+        "Câu trả lời": "Vào [Menu] > [AF method], chọn [Face+Tracking], bật [Eye Detection AF]."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Cách khắc phục lỗi ống kính trên PowerShot SX60 HS?",
+        "Câu trả lời": "Tắt máy, tháo pin, lắp lại sau 1 phút. Gõ nhẹ máy để tháo kẹt ống kính."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Sự khác biệt giữa đo sáng toàn khung và đo sáng điểm trên EOS 90D?",
+        "Câu trả lời": "Đo sáng toàn khung cân bằng ánh sáng toàn cảnh; đo sáng điểm đo vùng trung tâm nhỏ để kiểm soát chính xác."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Cách bật ghi vị trí GPS trên EOS 6D Mark II?",
+        "Câu trả lời": "Vào [Menu] > [GPS settings], bật GPS, chọn [Mode 1] hoặc [Mode 2]. Ghép nối với ứng dụng smartphone để ghi chi tiết."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Tại sao PowerShot G9 X Mark II báo pin yếu?",
+        "Câu trả lời": "Pin có thể yếu hoặc lắp không đúng. Sạc lại, kiểm tra tiếp điểm, thay pin nếu hỏng."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Cách sử dụng hẹn giờ trên EOS Rebel T8i?",
+        "Câu trả lời": "Nhấn [Drive mode], chọn [Self-timer: 10-sec], [Self-timer: 2-sec] hoặc [Self-timer: Continuous], nhấn nút chụp."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Có thể dùng ống RF trên EOS 5D Mark IV không?",
+        "Câu trả lời": "Không, EOS 5D Mark IV là DSLR, chỉ dùng ống EF. Ống RF không tương thích kể cả với adapter."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Cách bật chụp chồng ảnh trên EOS 5D Mark IV?",
+        "Câu trả lời": "Vào [Menu] > [Shooting] > [Multiple exposure], chọn [Enable], đặt số lần phơi sáng và chế độ hòa trộn."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Cách điều chỉnh độ sáng màn hình LCD trên EOS R10?",
+        "Câu trả lời": "Vào [Menu] > [Display settings] > [Screen brightness], điều chỉnh mức sáng phù hợp."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Cách bật chế độ chụp liên tiếp trên EOS M50?",
+        "Câu trả lời": "Nhấn [Drive mode], chọn [Continuous shooting] hoặc [High-speed continuous shooting]."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Tại sao EOS Rebel T7 không lưu ảnh?",
+        "Câu trả lời": "Kiểm tra thẻ nhớ đầy, khóa hoặc định dạng sai. Format thẻ trong máy, đảm bảo tương thích."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Cách bật chế độ chụp đêm trên PowerShot SX740 HS?",
+        "Câu trả lời": "Chuyển nút chế độ sang [SCN], chọn [Handheld NightScene] để chụp ảnh rõ nét trong điều kiện thiếu sáng."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Cách bật chế độ chụp phơi sáng lâu trên EOS R10?",
+        "Câu trả lời": "Chuyển sang chế độ [M], chọn [BULB] trong tốc độ màn trập, dùng remote hoặc dây bấm mềm để bắt đầu/kết thúc."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Cách bật chế độ chụp ảnh macro trên PowerShot G7 X Mark III?",
+        "Câu trả lời": "Vào [Menu] > [AF Frame], chọn [Macro], giữ khoảng cách tối thiểu 5cm với chủ thể."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Tại sao EOS M50 Mark II báo lỗi pin không tương thích?",
+        "Câu trả lời": "Dùng pin Canon chính hãng LP-E12, lau sạch tiếp điểm hoặc cập nhật firmware."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Làm thế nào để chụp ảnh bokeh đẹp với Canon EOS R8?",
+        "Câu trả lời": "Chuyển sang chế độ [Av], đặt khẩu độ f/1.8 hoặc thấp hơn, sử dụng ống kính RF 50mm f/1.8 STM. Đứng cách chủ thể 1-2m để tạo phông nền mờ mịn. Xem ống kính này tại cửa hàng của chúng tôi!"
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Canon PowerShot G7 X Mark IV có tốt cho vlogging không?",
+        "Câu trả lời": "Rất tốt! G7 X Mark IV có màn hình lật, quay 4K mượt, và micro tích hợp chất lượng. Đề xuất thêm micro Rode VideoMicro và chân máy mini để vlog chuyên nghiệp hơn. Khám phá tại website chúng tôi!"
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Tại sao Canon EOS R100 là lựa chọn tốt cho người mới bắt đầu?",
+        "Câu trả lời": "EOS R100 nhỏ gọn, giá hợp lý, cảm biến 24.1MP, và lấy nét tự động nhanh. Giao diện đơn giản giúp người mới dễ làm quen. Kiểm tra combo máy + ống kính trên website của chúng tôi!"
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Làm sao để chụp ảnh phong cảnh sắc nét với Canon EOS R7?",
+        "Câu trả lời": "Dùng chế độ [Av], khẩu độ f/8-f/11, ISO 100. Sử dụng chân máy và bật [HDR] trong [Menu] để giữ chi tiết. Bộ lọc CPL giúp tăng màu sắc. Xem phụ kiện tại cửa hàng!"
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Ống kính nào tốt nhất cho Canon EOS R6 Mark II để chụp động vật hoang dã?",
+        "Câu trả lời": "Khuyên dùng RF 100-500mm f/4.5-7.1L IS USM để zoom xa và độ sắc nét cao. Tìm ống kính này và các ưu đãi khác trên website của chúng tôi!"
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Làm thế nào để chụp ảnh chân dung với bokeh mịn trên Canon EOS R6 Mark II?",
+        "Câu trả lời": "Dùng chế độ [Av], đặt khẩu độ f/1.8, sử dụng ống kính RF 50mm f/1.8 STM. Chụp cách chủ thể 1-2m vào giờ vàng để có ánh sáng mềm mại. Tìm ống kính này tại cửa hàng của chúng tôi!"
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Ống kính nào tốt nhất cho Canon EOS R7 để chụp thể thao?",
+        "Câu trả lời": "Khuyên dùng RF 70-200mm f/2.8L IS USM để tốc độ lấy nét nhanh và độ sắc nét cao. Xem ưu đãi ống kính thể thao tại cửa hàng của chúng tôi!"
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Tại sao ảnh trên Canon PowerShot G7 X Mark IV bị mờ ở ISO cao?",
+        "Câu trả lời": "ISO cao (trên 3200) có thể gây nhiễu. Giảm ISO xuống 800-1600, bật [Noise Reduction] trong [Menu], hoặc dùng chân máy. Xem chân máy tại website!"
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Cách bật chế độ lấy nét theo mắt trên Sony A7 IV?",
+        "Câu trả lời": "Vào [Menu] > [Focus] > [Subject Detection], chọn [Human] hoặc [Animal], bật [Eye AF]. Nhấn nút tùy chỉnh để kích hoạt."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Thời lượng pin của Sony ZV-1 là bao lâu?",
+        "Câu trả lời": "Khoảng 260 ảnh hoặc 45 phút quay video với pin NP-BX1 theo chuẩn CIPA."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Cách cập nhật firmware cho Sony A6400?",
+        "Câu trả lời": "Tải firmware từ trang web Sony, sao chép vào thẻ nhớ, vào [Menu] > [Setup] > [Version], chọn [Update]. Pin phải đầy."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Cách format thẻ nhớ trên Sony A7C?",
+        "Câu trả lời": "Vào [Menu] > [Setup] > [Format], chọn thẻ nhớ và xác nhận. Sao lưu dữ liệu trước."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Tại sao Sony RX100 VII không kết nối Wi-Fi?",
+        "Câu trả lời": "Kiểm tra Wi-Fi bật, đúng SSID/mật khẩu. Cập nhật ứng dụng Imaging Edge Mobile và firmware máy."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Cách bật quay video 4K trên Sony ZV-E10?",
+        "Câu trả lời": "Chuyển sang chế độ [Movie], vào [Menu] > [Movie Settings] > [Rec Frame Rate], chọn [4K]. Dùng thẻ SDXC UHS-I."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Thẻ nhớ nào tương thích với Sony A7R V?",
+        "Câu trả lời": "Thẻ SDXC UHS-II hoặc CFexpress Type A để tối ưu tốc độ và quay 8K."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Cách bật chụp im lặng trên Sony A9 II?",
+        "Câu trả lời": "Vào [Menu] > [Camera Settings] > [Shutter Type], chọn [Electronic Shutter]."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Cách điều chỉnh ISO trên Sony RX10 IV?",
+        "Câu trả lời": "Nhấn [Menu] > [Camera Settings] > [ISO], chọn giá trị (100-12800) hoặc [Auto ISO]."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Lỗi E:91:01 trên Sony A7 III là gì?",
+        "Câu trả lời": "Lỗi đèn flash. Tắt máy, tháo pin, lắp lại. Nếu vẫn lỗi, liên hệ trung tâm bảo hành."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Cách truyền ảnh sang smartphone bằng Sony Imaging Edge Mobile?",
+        "Câu trả lời": "Bật Wi-Fi trên máy, ghép nối qua ứng dụng Imaging Edge Mobile, chọn ảnh trong [Menu] > [Network] > [Send to Smartphone]."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Có thể dùng ống kính Canon EF trên Sony A7 IV không?",
+        "Câu trả lời": "Có, dùng adapter như Sigma MC-11 hoặc Metabones, nhưng hiệu suất lấy nét có thể giảm."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Cách reset Sony ZV-1 về cài đặt gốc?",
+        "Câu trả lời": "Vào [Menu] > [Setup] > [Reset], chọn [Initialize] và xác nhận."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Cách bật HDR trên Sony A7S III?",
+        "Câu trả lời": "Vào [Menu] > [Camera Settings] > [HDR], chọn [Auto HDR] hoặc mức dải động cụ thể."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Tại sao Sony A6600 quá nóng khi quay video 4K?",
+        "Câu trả lời": "Quay 4K lâu gây nóng máy. Dừng quay, để máy nguội, hoặc quay ở nơi thoáng khí."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Cách bật lấy nét liên tục trên Sony RX100 VII?",
+        "Câu trả lời": "Vào [Menu] > [Camera Settings] > [Focus Mode], chọn [Continuous AF]."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Thời gian quay video tối đa của Sony ZV-E10?",
+        "Câu trả lời": "Không giới hạn thời gian mỗi clip (tùy pin và thẻ), nhưng có thể dừng do nhiệt độ."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Cách bật chế độ chụp liên tiếp trên Sony A7 IV?",
+        "Câu trả lời": "Nhấn [Drive Mode], chọn [Continuous Shooting: Hi+] hoặc [Continuous Shooting: Mid]."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Tại sao Sony A7C báo lỗi thẻ nhớ?",
+        "Câu trả lời": "Thẻ đầy, khóa hoặc không tương thích. Mở khóa, format thẻ hoặc dùng thẻ SDXC UHS-II."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Cách điều chỉnh cân bằng trắng trên Sony A6400?",
+        "Câu trả lời": "Vào [Menu] > [Camera Settings] > [White Balance], chọn chế độ hoặc tùy chỉnh bằng cách chụp vật thể trắng."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Cách bật chế độ quay slow-motion trên Sony ZV-1?",
+        "Câu trả lời": "Chuyển sang chế độ [S&Q], vào [Menu] > [S&Q Settings], chọn tốc độ khung hình cao (100fps hoặc 120fps)."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Có thể sạc Sony A7R IV qua USB không?",
+        "Câu trả lời": "Có, dùng cáp USB-C với nguồn USB-PD, sạc trong khoảng 2,5 giờ."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Cách bật lưới hiển thị trên Sony A7S III?",
+        "Câu trả lời": "Vào [Menu] > [Display Settings] > [Grid Line], chọn loại lưới (3x3 hoặc 4x4)."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Tại sao Sony RX10 IV không lưu ảnh?",
+        "Câu trả lời": "Kiểm tra thẻ nhớ đầy, khóa hoặc định dạng sai. Format thẻ trong máy."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Cách vệ sinh cảm biến trên Sony A7 IV?",
+        "Câu trả lời": "Vào [Menu] > [Setup] > [Sensor Cleaning], chọn [Clean Now]. Dùng ống thổi khí sạch nếu vệ sinh thủ công."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Cách bật chế độ chụp đêm trên Sony ZV-E10?",
+        "Câu trả lời": "Chuyển sang [SCN], chọn [Night Scene] hoặc tăng ISO và dùng chân máy."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Khoảng cách lấy nét tối thiểu của ống kính Sony FE 50mm f/1.8 là bao nhiêu?",
+        "Câu trả lời": "0,45m, với độ phóng đại tối đa 0,14x."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Cách bật ổn định hình ảnh trong máy trên Sony A7C?",
+        "Câu trả lời": "Vào [Menu] > [Camera Settings] > [SteadyShot], chọn [On]."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Tại sao Sony A7 III báo lỗi pin?",
+        "Câu trả lời": "Dùng pin chính hãng Sony, lau sạch tiếp điểm. Cập nhật firmware nếu cần."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Cách bật chế độ lấy nét thủ công trên Sony RX100 VII?",
+        "Câu trả lời": "Vào [Menu] > [Camera Settings] > [Focus Mode], chọn [Manual Focus], xoay vòng lấy nét để điều chỉnh."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Cách điều chỉnh khẩu độ trên Sony A6600?",
+        "Câu trả lời": "Chuyển sang chế độ [A] hoặc [M], xoay vòng điều khiển để thay đổi khẩu độ."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Cách bật chế độ chụp panorama trên Sony A7R IV?",
+        "Câu trả lời": "Chuyển sang [SCN], chọn [Sweep Panorama], giữ nút chụp và lia máy theo hướng dẫn."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Tại sao Sony ZV-1 không quay video được?",
+        "Câu trả lời": "Kiểm tra thẻ nhớ đầy hoặc không đủ tốc độ. Format thẻ, dùng thẻ UHS-I Speed Class 3."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Làm thế nào để bật chế độ chụp ảnh RAW trên Sony A7C II?",
+        "Câu trả lời": "Vào [Menu] > [Camera Settings] > [Image Quality], chọn [RAW] hoặc [RAW & JPEG]."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Cách chụp ảnh đường phố với tông màu tối giản trên Sony A7C II?",
+        "Câu trả lời": "Vào [Menu] > [Creative Look], chọn [Monochrome], giảm [Saturation]. Sử dụng ống kính 35mm f/1.8 để chụp linh hoạt. Xem ống kính Sony tại cửa hàng của chúng tôi!"
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Sony ZV-E1 có đáng mua để quay video chuyên nghiệp?",
+        "Câu trả lời": "ZV-E1 xuất sắc với cảm biến full-frame, 4K 120fps, và lấy nét AI. Lý tưởng cho vlogger và nhà làm phim. Kết hợp với gimbal để quay mượt hơn. Xem combo tại website!"
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Tại sao ảnh trên Sony A6700 bị nhiễu khi chụp đêm?",
+        "Câu trả lời": "ISO cao có thể gây nhiễu. Giảm ISO xuống 800-1600, bật [Noise Reduction] trong [Menu], hoặc dùng chân máy. Xem chân máy Sony tại cửa hàng!"
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Sony RX100 VIII có phù hợp để chụp ảnh du lịch?",
+        "Câu trả lời": "Rất phù hợp! RX100 nhỏ gọn, zoom 24-200mm, cảm biến 1-inch, chụp được chụp hình xuất sắc. Mua thêm pin dự phòng tại website để chụp cả ngày!"
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Làm sao để quay video 4K sắc nét với Sony A7R V?",
+        "Câu trả lời": "Vào [Menu] > [Movie Settings], chọn [4K 60fps]. Sử dụng ống kính G Master và bật [SteadyShot]. Thẻ SD UHS-II là lựa chọn tốt. Xem thẻ nhớ tại cửa hàng!"
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Danh sách ống kính Sony tương thích với [Focus Hold Button] trên Sony A7R V?",
+        "Câu trả lời": "FE 24-200mm f/2.8 GM, FE 70-200mm f/2.8 GM OSS II, FE 100-400mm f/4.5-5.6 GM OSS, FE 50mm f/1.2 GM (Firmware Ver 1.0.0 trở lên)."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Cách chụp ảnh phong cảnh với màu sắc hay trên Sony A7C II?",
+        "Câu trả lời": "Vào [Menu] > [Creative Look], chọn [Vivid]. Dùng ống kính FE 16-35mm f/2.8 GM và bộ lọc CPL để tăng cường độ rực rỡ. Xem bộ lọc tại đây."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Sony ZV-E1 có phù hợp để quay vlog chuyên nghiệp không?",
+        "Câu trả lời": "Có cảm biến full-frame, quay 4K 120fps, hỗ trợ lấy nét AI, rất lý tưởng để vlogger. Thêm micro shotgun để cải thiện âm thanh. Xem combo vlogging tại đây!"
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Tại sao Sony A6700 không nhận thẻ SD?",
+        "Câu trả lời": "Kiểm tra thẻ có đầy, khóa, hoặc định dạng sai. Format thẻ trong máy hoặc dùng thẻ UHS-II. Xem thẻ SD tốc độ cao tại cửa hàng!"
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Ống kính nào tốt cho Sony RX100 VIII để chụp du lịch?",
+        "Câu trả lời": "RX100 VIII có ống tích hợp 24-200mm, lý tưởng để chụp phong cảnh và chân dung. Thêm pin dự phòng và bộ lọc UV. Xem phụ kiện du lịch tại đây!"
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Cách điều chỉnh tốc độ video trên Sony ZV-E1?",
+        "Câu trả lời": "Chuyển sang chế độ [S] hoặc [M], xoay vòng điều chỉnh để thay đổi tốc độ màn trập."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Cách bật xử lý chống rung khi quay video trên Sony RX100 VII?",
+        "Câu trả lời": "Vào [Menu] > [Camera Settings], > [C], chọn [Active] để ổn định video."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Cách bật chế độ giả lập phim trên Fujifilm X-T5?",
+        "Câu trả lời": "Vào [Menu] > [Image Quality Setting] > [Film Simulation], chọn chế độ như Provia, hoặc Monochrome."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Thời gian lưu trữ lượng pin của Fujifilm X100VI?",
+        "Câu trả lời": "Khoảng 450 ảnh hoặc 50 phút quay video 4K với pin NP-W126S."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Cách cập nhật firmware cho Fujifilm X-S20?",
+        "Câu trả lời": "Tải firmware từ trang Fujifilm, sao chép vào thẻ SD để vào máy, vào [Menu] > [User Setting], > [Firmware Update]."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Cách format thẻ nhớ trên Fujifilm X-E4?",
+        "Câu trả lời": "Vào [Menu] > [User Setting] > [Format], chọn thẻ và xác nhận. Sao lưu trước dữ liệu."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Tại sao Fujifilm X-T30 không kết nối Wi-Fi?",
+        "Câu trả lời": "Kiểm tra Wi-Fi bật, đúng SSID hoặc mật khẩu. Cập nhật ứng dụng Fujifilm Camera Remote và firmware."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Cách bật quay video 4K trên Fujifilm X-H2S?",
+        "Câu trả lời": "Chuyển sang [Movie Mode], vào [Menu] > [Movie Setting] > [4K], chọn tốc độ khung hình, dùng thẻ UHS-II."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Thẻ nhớ nào tương thích với Fujifilm GFX100S?",
+        "Câu trả lời": "Thẻ SDXC UHS-II hoặc CFexpress Type B để tối ưu tốc độ và quay 4K."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Cách bật chụp im lặng trên Fujifilm X-T4?",
+        "Câu trả lời": "Vào [Menu] > [Shooting Setting], > [Shutter Type], chọn [Electronic]."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Cách điều chỉnh ISO trên Fujifilm X100V?",
+        "Câu trả lời": "Xoay vòng ISO hoặc vào [Menu], > [Image Quality Setting], > [ISO], chọn giá trị hoặc [Auto]."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Lỗi F0 trên Fujifilm X-T5 là gì?",
+        "Câu trả lời": "Lỗi giao tiếp với ống. Lau sạch tiếp điểm, gắn lại ống hoặc thử ống khác."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Cách truyền ảnh sang smartphone bằng Fujifilm Camera Remote?",
+        "Câu trả lời": "Bật Wi-Fi trên máy, ghép nối qua ứng dụng Camera Remote, chọn ảnh trong [Menu] > [Wireless Communication]."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Có thể dùng ống lens Canon EF trên Fujifilm X-T4 không?",
+        "Câu trả lời": "Có, dùng adapter như Fringer EF-FX, nhưng lấy nét tự động chậm hơn."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Cách reset Fujifilm X-S10 về cài đặt gốc?",
+        "Câu trả lời": "Vào [Menu] > [User Setting] > [Reset], chọn [Factory Reset] và xác nhận."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Cách bật HDR trên Fujifilm X-H2?",
+        "Câu trả lời": "Vào [Menu] > [Image Quality Setting] > [HDR Mode], chọn [Auto] hoặc mức cụ thể (200%, 400%)."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Tại sao Fujifilm X-T30 quá nóng khi quay video?",
+        "Câu trả lời": "Quay 4K lâu gây nóng. Dừng quay, để máy nguội hoặc dùng ở nơi thoáng khí."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Cách bật lấy nét liên tục trên Fujifilm X100VI?",
+        "Câu trả lời": "Vào [Menu] > [AF/MF Setting], > [Focus Mode], chọn [Continuous AF]."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Thời gian quay video tối đa của Fujifilm X-S20?",
+        "Câu trả lời": "Tối đa 30 phút mỗi clip ở 4K, tùy thuộc vào pin và thẻ nhớ."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Cách bật chế độ chụp liên tiếp trên Fujifilm X-T5?",
+        "Câu trả lời": "Vào [Menu] > [Shooting Setting], > [Drive Setting], chọn [Continuous High] hoặc [Continuous Low]."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Tại sao Fujifilm X-E4 báo lỗi thẻ nhớ?",
+        "Câu trả lời": "Thẻ đầy, khóa hoặc không tương thích. Mở khóa, format thẻ hoặc dùng thẻ SDXC UHS-II."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Cách điều chỉnh cân bằng trắng trên Fujifilm X-T3?",
+        "Câu trả lời": "Vào [Menu] > [Image Quality Setting], > [White Balance], chọn chế độ hoặc tùy chỉnh với vật trắng."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Cách bật chế độ quay slow-motion trên Fujifilm X-H2S?",
+        "Câu trả lời": "Vào [Menu] > [Movie Setting], > [High Speed Rec], chọn tốc độ khung hình (120fps hoặc 240fps)."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Có thể sạc Fujifilm X-T4 qua USB không?",
+        "Câu trả lời": "Có, dùng USB-C với nguồn USB-PD, sạc khoảng 3 giờ."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Cách bật lưới hiển thị trên Fujifilm X100V?",
+        "Câu trả lời": "Vào [Menu] > [Screen Set-Up], > [Disp. Custom Setting], bật [Framing Guideline]."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Tại sao Fujifilm X-S không lưu ảnh?",
+        "Câu trả lời": "Kiểm tra thẻ nhớ đầy, khóa hoặc định dạng sai. Format thẻ trong máy."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Cách vệ sinh cảm biến trên Fujifilm X-T5?",
+        "Câu trả lời": "Vào [Menu] > [User Setting], > [Sensor Cleaning], chọn [Execute]. Dùng ống thổi khí sạch nếu cần."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Cách bật chế độ chụp đêm trên Fujifilm X100VI?",
+        "Câu trả lời": "Chuyển sang [SCN], chọn [Night (Tripod)] hoặc tăng ISO và dùng chân máy."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Khoảng cách lấy nét tối đa của ống kính Fujinon XF 35mm f/1.4 R?",
+        "Câu trả lời": "0,28m, với độ phân giải tối đa 0,17x."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Cách bật ổn định hình ảnh trong máy trên Fujifilm X-H2?",
+        "Câu trả lời": "Vào [Menu] > [Shooting Setting], > [Mode], chọn [Continuous] hoặc [Shooting Only]."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Tại sao Fujifilm X-T báo lỗi pin?",
+        "Câu trả lời": "Dung pin chính hãng, lau sạch tiếp điểm. Cập nhật firmware nếu cần."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Cách bật chế độ chụp panorama trên Fujifilm X-T5?",
+        "Câu trả lời": "Fujifilm không có chế độ panorama tích hợp. Chụp nhiều ảnh và ghép bằng phần mềm như Lightroom."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Cách chụp video macro với Fujifilm X-S20?",
+        "Câu trả lời": "Vào [Menu] > [AF/MF Setting], > [Macro], bật để chụp cận cảnh."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Tại sao Fujifilm X100V không lấy nét chính xác?",
+        "Câu trả lời": "Kiểm tra ánh sáng yếu hoặc đối tượng thiếu tương phản. Dùng lấy nét thủ công nếu cần."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Cách chụp ảnh đen trắng với video trên Fujifilm X-T50?",
+        "Câu trả lời": "Vào [Menu] > [Image Quality Setting], chọn [Monochrome] hoặc [Acros]."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Cách chụp ảnh phong cách retro với Fujifilm X-T50?",
+        "Câu trả lời": "Chào [vào [Menu] > [Film Simulation], chọn [Classic Neg], ví dụ. Thêm [Grain Effect] để có cảm giác phim analog. Mua bộ lọc Fujifilm tại đây!"
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Fujifilm X-S20 hay X-T50, nên chọn máy nào để chụp ảnh tĩnh?",
+        "Câu trả lời": "X-T50 có thiết kế retro, vòng xoay chuyên dụng, lý tưởng để chụp tĩnh. X-S20 mạnh hơn về video. Xem cả hai mẫu và ưu đãi tại cửa hàng!"
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Cách chụp ảnh macro với Fujifilm X100VI?",
+        "Câu trả lời": "Bật chế độ [Macro], dùng video TCL-X100 II. Vào ở f/2.8 với ánh sáng tự nhiên để làm nổi chi tiết. Mua phụ kiện macro tại đây!"
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Tại sao Fujifilm X-H2 phù hợp để chụp thể thao?",
+        "Câu trả lời": "X-H2 có cảm biến 40M, chụp liên tục video 15fps, lấy nét AI nhanh. Đề xuất ống XF 50-140mm f/2.8. Xem combo máy và ống video tại đây!"
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Vào sao để chia sẻ video từ Fujifilm X-T5 sang điện thoại?",
+        "Câu trả lời": "Chào [vào X-Tang > [Connection Setting] > [Bluetooth], kết nối với app Fujifilm Camera Remote]. Chào chọn và gửi video nhanh chóng. Tải app và xem hướng dẫn!"
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Câu hỏi cách nào để chụp video liên tiếp tốc độ cao trên Fujifilm X-H2S?",
+        "Câu trả lời": "Vào [Menu] > [Shooting Setting], > [Drive Setting], chọn [Continuous High Speed] (lên đến 40 fps)."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Tại sao Fujifilm X100VI không hiển thị kính ngầm?",
+        "Câu trả lời": "Chuyển sang [Câu Menu], v [Disp/Back], > [EVF/LCD], chọn [EVF] hoặc [Auto]. Kiểm tra hoặc cập nhật firmware. Mua pin chính hãng!"
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Cách chụp video macro với Fujifilm X-T5?",
+        "Câu trả lời": "Bật chế độ [Macro], sử dụng ống video XF 80mm f/2.8 video LM OIS WR Macro. Vào ở f/8 với ánh sáng khuếch tán. Mua ống video này tại đây!"
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Danh sách các video Fujifilm hỗ trợ [Linear Focus Motor], trên Fujifilm X-H2?",
+        "Câu trả lời": "XF 16-55mm video/2.8 R LM WR, XF 50-140mm video/2.8 R LM OIS WR, XF 100-280mm video/4.5-5.6 video/0.20 R LM OIS WR (Firmware Ver 1.20 trở lên)."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Cách chụp ảnh phim analog với Fujifilm X-T50 trên?",
+        "Câu trả lời": "Vào [vào [Menu]] > [Film Simulation], > [Classic Chrome]."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Fujifilm X-S20 hay X-T50, nên chọn máy nào để quay video?",
+        "Câu trả lời": "X-S20 hỗ trợ video 6K video, pin lâu hơn, phù hợp để video. video X-T50 tốt hơn để chụp tĩnh. video. Bạn ưu tiên video gì? Xem xem cả hai tại đây!"
+    },
+    {
+        "Hãng": "Panasonic",
+        "Câu hỏi": "Cách bật chế độ lấy nét theo mắt trên Panasonic Lumix S5 II?",
+        "Câu trả lời": "Chào vào [Menu] > [AF video] > [Detecting video], chọn video [Human/Video], bật [Eye Detection]."
+    },
+    {
+        "Hãng": "Panasonic",
+        "Câu hỏi": "Thời gian video tối đa của Panasonic Lumix G9 II?",
+        "Câu trả lời": "Khoảng 390 video hoặc video 60 phút video 4K với pin video."
+    },
+    {
+        "Hãng": "Panasonic",
+        "Câu hỏi": "Cách cập nhật nào cho Panasonic Lumix S9?",
+        "Câu trả lời": "Tải video từ trang Panasonic, sao chép video vào SD để, vào [Menu] > [Setup] > video."
+    },
+    {
+        "Hãng": "Panasonic",
+        "Câu hỏi": "Cách phá video thẻ nhớ trên máy Panasonic Lumix video GH6?",
+        "Câu trả lời": "Chào [Menu] > [Setup] > [Video video Card], > chọn video và xác]."
+    },
+    {
+        "Hãng": "Panasonic",
+        "Câu hỏi": "Tại sao Panasonic Lumix video ZS200 không kết nối Wi-Fi?",
+        "Câu trả lời": "Câu kiểm tra video bật Wi-Fi, đúng video SSID/video/mật khẩu video. Cập nhật ứng dụng video và firmware video."
+    },
+    {
+        "Hãng": "Panasonic",
+        "Câu hỏi": "Cách bật quay video 4K trên video Panasonic Lumix video S5?",
+        "Câu trả lời": "Chuyển sang video [Video Mode], vào [Video, > [Menu] > video [Video Quality], > chọn video [Video], chọn video UHS-II video SDXC video]."
+    },
+    {
+        "Hãng": "Panasonic",
+        "Câu hỏi": "Thẻ nhớ nào hợp lệ với Panasonic Lumix video GH7?",
+        "Câu trả lời": "Thẻ SDXC video UHS-II video hoặc video để quay video."
+    },
+    {
+        "Hãng": "Panasonic",
+        "Câu hỏi": "Cách bật chụp im lặng trên Panasonic Lumix S1?",
+        "Câu trả lời": "Vào [Menu] > [Rec] > [Silent], chọn video."
+    },
+    {
+        "Hãng": "Panasonic",
+        "Câu hỏi": "Cách điều chỉnh ISO trên Panasonic Lumix FZ1000 II?",
+        "Câu trả lời": "Nhấn video [Video], chọn video (125-12800 video) hoặc video [Auto video]."
+    },
+    {
+        "Hãng": "Panasonic",
+        "Câu hỏi": "Lỗi thẻ nhớ trên Panasonic Lumix G100 là gì?",
+        "Câu trả lời": "Thẻ đầy video, khóa video hoặc video không tương thích video. Mở video khóa video, format video thẻ video hoặc video SDXC video."
+    },
+    {
+        "Hãng": "Panasonic",
+        "Câu hỏi": "Cách truyền video ảnh sang smartphone bằng Panasonic Lumix Sync video?",
+        "Câu trả lời": "Bật Wi-Fi trên video, ghép nối qua video ứng dụng Lumix Sync video, chọn video trong video [Menu] > video [Wi-Fi] > video [Send Images video]."
+    },
+    {
+        "Hãng": "Panasonic",
+        "Câu hỏi": "Có thể dùng ống video Canon EF trên Panasonic Lumix S5 không?",
+        "Câu trả lời": "Có, dùng video adapter như Sigma MC-21 video, nhưng video lấy nét tự động có thể không tối ưu video."
+    },
+    {
+        "Hãng": "Panasonic",
+        "Câu hỏi": "Cách reset Panasonic Lumix G9 về cài đặt gốc video?",
+        "Câu trả lời": "Vào [Menu] > [Setup] > [Reset video], chọn video [Reset All video] và xác nhận video."
+    },
+    {
+        "Hãng": "Panasonic",
+        "Câu hỏi": "Cách bật HDR trên Panasonic Lumix S5 II?",
+        "Câu trả lời": "Vào [Menu] > video [Rec] > video [HDR], chọn video [On] hoặc video [Auto]."
+    },
+    {
+        "Hãng": "Panasonic",
+        "Câu hỏi": "Tại sao Panasonic Lumix GH6 quá nóng khi quay video?",
+        "Câu trả lời": "Quay video 4K/video video lâu video gây nóng video. Dừng video quay video, để video nguội video hoặc video dùng quạt làm video mát video."
+    },
+    {
+        "Hãng": "Panasonic",
+        "Câu hỏi": "Cách bật video liên tục để lấy nét trên Panasonic Lumix ZS100?",
+        "Câu trả lời": "Vào [Menu] > video [Rec] > video [Focus Mode], chọn video [AFC video]."
+    },
+    {
+        "Hãng": "Panasonic",
+        "Câu hỏi": "Thời gian quay video tối đa của Panasonic Lumix S9?",
+        "Câu trả lời": "Tối đa 30 phút video mỗi video clip ở video 4K video, tùy video thuộc vào pin và video thẻ nhớ video."
+    },
+    {
+        "Hãng": "Panasonic",
+        "Câu hỏi": "Cách bật chế độ chụp video liên tiếp trên Panasonic Lumix G9 II?",
+        "Câu trả lời": "Vào [Menu] > video [Rec] > video [Drive Mode], chọn video [Burst Shot 1 video] hoặc video [Burst Shot 2 video]."
+    },
+    {
+        "Hãng": "Panasonic",
+        "Câu hỏi": "Tại sao Panasonic Lumix FZ80 báo lỗi thẻ nhớ video?",
+        "Câu trả lời": "Thẻ đầy video, khóa video hoặc video không tương thích video. Mở video khóa video, format video hoặc video dùng thẻ video SDHC/SDXC video."
+    },
+    {
+        "Hãng": "Panasonic",
+        "Câu hỏi": "Cách điều chỉnh cân bằng trắng video trên Panasonic Lumix S1?",
+        "Câu trả lời": "Vào [Menu] > video [Rec] > video [White Balance], chọn video chế độ hoặc tùy chỉnh với video vật trắng video."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Những ống kính RF nào hỗ trợ Dual Pixel CMOS AF II trên EOS R5?",
+        "Câu trả lời": "Tất cả ống kính RF, bao gồm RF15-35mm f/2.8L IS USM, RF24-70mm f/2.8L IS USM và RF70-200mm f/2.8L IS USM, đều hỗ trợ Dual Pixel CMOS AF II trên EOS R5."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Ống kính EF-S có thể dùng trên Canon EOS R6 II với adapter không?",
+        "Câu trả lời": "Có, ống kính EF-S có thể dùng trên EOS R6 II với Canon Mount Adapter EF-EOS R, nhưng sẽ tạo hệ số crop 1.6x, giảm độ phân giải hiệu quả."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Những ống kính Sony E-mount nào hỗ trợ Real-time Tracking AF trên Sony a7 IV?",
+        "Câu trả lời": "Tất cả ống kính Sony E-mount, bao gồm FE 24-70mm f/2.8 GM II và FE 70-200mm f/2.8 GM OSS II, hỗ trợ Real-time Tracking AF trên a7 IV."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Ống kính Fujifilm XF có tương thích với Fujifilm X-T5 không?",
+        "Câu trả lời": "Có, tất cả ống kính Fujifilm XF và XC đều tương thích hoàn toàn với X-T5, như XF 23mm f/1.4 R LM WR và XF 56mm f/1.2 R WR."
+    },
+    {
+        "Hãng": "Panasonic",
+        "Câu hỏi": "Những ống kính Panasonic Lumix S nào hỗ trợ quay video 6K trên Lumix S5 II?",
+        "Câu trả lời": "Tất cả ống kính Lumix S, bao gồm S 24-70mm f/2.8 và S 50mm f/1.8, hỗ trợ quay video 6K trên S5 II."
+    },
+    {
+        "Hãng": "Nikon",
+        "Câu hỏi": "Ống kính Nikon Z-mount có thể dùng trên Nikon Z6 III mà không cần adapter không?",
+        "Câu trả lời": "Có, tất cả ống kính Nikon Z-mount, như NIKKOR Z 24-70mm f/2.2.8 S, tương thích trực tiếp với Z6 III."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Những ống kính Canon EF nào hỗ trợ chống rung trong thân máy (IBIS) trên EOS R5?",
+        "Câu trả lời": "Ống kính EF như EF 24-70mm f/2.8L II USM được hưởng lợi từ IBIS của EOS R5 khi dùng với adapter EF-EOS R, nhưng IS phối hợp yêu cầu ống RF."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Ống kính Sony FE có giữ hiệu suất lấy nét tự động đầy đủ trên Sony a6700 không?",
+        "Câu trả lời": "Có, ống kính Sony FE giữ hiệu suất lấy nét tự động đầy đủ trên a6700, nhưng có hệ số crop 1.5x do cảm biến APS-C."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Ống kính Fujifilm GF có tương thích với Fujifilm GFX 50S II không?",
+        "Câu trả lời": "Có, tất cả ống kính Fujifilm GF, như GF 32-64mm f/4 R LM WR, tương thích hoàn toàn với GFX 50S II."
+    },
+    {
+        "Hãng": "Panasonic",
+        "Câu hỏi": "Những ống kính Panasonic Lumix S nào hỗ trợ Dual I.S. 2 trên Lumix S1R II?",
+        "Câu trả lời": "Ống kính Lumix S như S 24-105mm f/4 Macro O.I.S. và S 70-200mm f/4 O.I.S. hỗ trợ Dual I.S. 2 trên S1R II."
+    },
+    {
+        "Hãng": "Nikon",
+        "Câu hỏi": "Ống kính Nikon F-mount có thể dùng trên Nikon Z8 với adapter không?",
+        "Câu trả lời": "Có, ống kính Nikon F-mount có thể dùng trên Z8 với FTZ II Mount Adapter, giữ lấy nét tự động và điều khiển phơi sáng."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Những ống kính Canon RF nào hỗ trợ quay video 8K trên EOS R5?",
+        "Câu trả lời": "Tất cả ống kính RF hỗ trợ quay 8K trên EOS R5, bao gồm RF 15-35mm f/2.8L IS USM và RF 100-500mm f/4.5-7.1L IS USM."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Ống kính Sony E-mount có hỗ trợ Eye AF trên Sony a7C II không?",
+        "Câu trả lời": "Có, tất cả ống kính Sony E-mount, như FE 50mm f/1.8, hỗ trợ Eye AF trên a7C II."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Những ống kính Fujifilm XF nào hỗ trợ Linear Motor AF trên X-H2S?",
+        "Câu trả lời": "Ống kính XF như XF 18mm f/1.4 R LM WR và XF 33mm f/1.4 R LM WR hỗ trợ Linear Motor AF trên X-H2S."
+    },
+    {
+        "Hãng": "Panasonic",
+        "Câu hỏi": "Ống kính Panasonic Lumix S có tương thích với Leica SL3 qua ngàm L-mount không?",
+        "Câu trả lời": "Có, tất cả ống kính Lumix S tương thích với Leica SL3 qua liên minh L-mount, giữ đầy đủ chức năng."
+    },
+    {
+        "Hãng": "Nikon",
+        "Câu hỏi": "Những ống kính Nikon Z nào hỗ trợ quay video 4K 120p trên Nikon Z9?",
+        "Câu trả lời": "Tất cả ống kính Nikon Z, bao gồm NIKKOR Z 70-200mm f/2.8 VR S, hỗ trợ quay 4K 120p trên Z9."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Ống kính Canon RF-S có thể dùng trên EOS R5 không?",
+        "Câu trả lời": "Có, ống kính RF-S có thể dùng trên EOS R5, nhưng tạo hệ số crop 1.6x, giảm độ phân giải xuống khoảng 17.3MP."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Những ống kính Sony FE nào hỗ trợ chụp liên tục 120fps trên Sony a1?",
+        "Câu trả lời": "Ống kính FE như FE 70-200mm f/2.8 GM OSS II và FE 24-70mm f/2.8 GM II hỗ trợ chụp 120fps trên a1."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Ống kính Fujifilm XC có hoạt động với Fujifilm X-S20 không?",
+        "Câu trả lời": "Có, tất cả ống kính Fujifilm XC, như XC 15-45mm f/3.5-5.6 OIS PZ, tương thích hoàn toàn với X-S20."
+    },
+    {
+        "Hãng": "Panasonic",
+        "Câu hỏi": "Những ống kính Panasonic Lumix S nào hỗ trợ chế độ High Resolution trên S5 IIX?",
+        "Câu trả lời": "Tất cả ống kính Lumix S, bao gồm S 85mm f/1.8, hỗ trợ chế độ High Resolution trên S5 IIX cho ảnh tĩnh lên đến 96MP."
+    },
+    {
+        "Hãng": "Nikon",
+        "Câu hỏi": "Ống kính Nikon Z DX có tương thích với Nikon Z7 II không?",
+        "Câu trả lời": "Có, ống kính Z DX như NIKKOR Z DX 16-50mm f/3.5-6.3 VR hoạt động trên Z7 II với hệ số crop 1.5x."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Những ống kính Canon EF nào hỗ trợ Eye Detection AF trên EOS R6 với adapter?",
+        "Câu trả lời": "Ống kính EF như EF 85mm f/1.8 USM và EF 70-200mm f/2.8L IS II USM hỗ trợ Eye Detection AF trên EOS R6 qua adapter EF-EOS R."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Ống kính Sony E-mount APS-C có hoạt động trên Sony a7R V không?",
+        "Câu trả lời": "Có, ống kính E-mount APS-C hoạt động trên a7R V với hệ số crop 1.5x, giảm độ phân giải xuống khoảng 26MP."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Những ống kính Fujifilm GF nào hỗ trợ quay video 8K trên GFX 100 II?",
+        "Câu trả lời": "Tất cả ống kính GF, bao gồm GF 45mm f/2.8 R WR, hỗ trợ quay video 8K trên GFX 100 II."
+    },
+    {
+        "Hãng": "Panasonic",
+        "Câu hỏi": "Ống kính Panasonic Lumix G có thể dùng trên Lumix S5 II với adapter không?",
+        "Câu trả lời": "Không, ống kính Lumix G (Micro Four Thirds) không tương thích với S5 II (L-mount), kể cả với adapter, do khác ngàm."
+    },
+    {
+        "Hãng": "Nikon",
+        "Câu hỏi": "Những ống kính Nikon F-mount nào hỗ trợ lấy nét tự động trên Nikon Zf với adapter FTZ II?",
+        "Câu trả lời": "Ống kính F-mount AF-S và AF-P, như AF-S NIKKOR 50mm f/1.8G, hỗ trợ lấy nét tự động trên Zf với adapter FTZ II."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Những ống kính Canon RF nào hỗ trợ chức năng Control Ring trên EOS R6?",
+        "Câu trả lời": "Tất cả ống kính RF có vòng điều khiển, như RF 24-105mm f/4L IS USM, hỗ trợ chức năng Control Ring tùy chỉnh trên EOS R6."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Ống kính Sony FE có tương thích với Sony FX3 để quay video không?",
+        "Câu trả lời": "Có, tất cả ống kính Sony FE, bao gồm FE 16-35mm f/2.8 GM, tương thích hoàn toàn với FX3 để quay video."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Ống kính Fujifilm XF có hỗ trợ kháng thời tiết trên X-T50 không?",
+        "Câu trả lời": "Chỉ các ống kính XF kháng thời tiết, như XF 16-55mm f/2.8 R LM WR, cung cấp khả năng kháng thời tiết khi kết hợp với X-T50."
+    },
+    {
+        "Hãng": "Panasonic",
+        "Câu hỏi": "Những ống kính Panasonic L-mount nào hỗ trợ Dual I.S. 5 trục trên Lumix S1H?",
+        "Câu trả lời": "Ống kính Lumix S như S 24-70mm f/2.8 và S 70-200mm f/2.8 O.I.S. hỗ trợ Dual I.S. 5 trục trên S1H."
+    },
+    {
+        "Hãng": "Nikon",
+        "Câu hỏi": "Ống kính Nikon Z có thể dùng trên Nikon D850 với adapter không?",
+        "Câu trả lời": "Không, ống kính Nikon Z không thể dùng trên D850, vì không có adapter để gắn ống Z lên DSLR ngàm F."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Những ống kính Canon RF nào hỗ trợ Nano USM để lấy nét nhanh trên EOS R5?",
+        "Câu trả lời": "Ống kính RF như RF 24-240mm f/4-6.3 IS USM và RF 70-200mm f/4L IS USM dùng Nano USM để lấy nét nhanh trên EOS R5."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Ống kính Sony E-mount có hỗ trợ Active SteadyShot trên Sony ZV-E1 không?",
+        "Câu trả lời": "Có, tất cả ống kính E-mount hỗ trợ Active SteadyShot trên ZV-E1, cải thiện chống rung khi quay video."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Những ống kính Fujifilm XF nào hỗ trợ chụp 40fps trên X-H2?",
+        "Câu trả lời": "Ống kính XF như XF 50mm f/1.0 R WR và XF 80mm f/2.8 R LM OIS WR Macro hỗ trợ chụp 40fps trên X-H2."
+    },
+    {
+        "Hãng": "Panasonic",
+        "Câu hỏi": "Ống kính Panasonic Lumix S có tương thích với máy Sigma L-mount không?",
+        "Câu trả lời": "Có, ống kính Lumix S tương thích hoàn toàn với máy Sigma L-mount như Sigma fp L qua liên minh L-mount."
+    },
+    {
+        "Hãng": "Nikon",
+        "Câu hỏi": "Những ống kính Nikon Z nào hỗ trợ Eye-Detection AF trên Z6 III?",
+        "Câu trả lời": "Tất cả ống kính Nikon Z, như NIKKOR Z 85mm f/1.8 S, hỗ trợ Eye-Detection AF trên Z6 III."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Ống kính Canon EF-M có thể dùng trên EOS R6 với adapter không?",
+        "Câu trả lời": "Không, ống kính EF-M không tương thích với EOS R6, kể cả với adapter, do thiết kế ngàm khác nhau."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Những ống kính Sony FE nào hỗ trợ Breathing Compensation trên Sony a7 IV?",
+        "Câu trả lời": "Ống kính FE như FE 16-35mm f/2.8 GM II và FE 24-70mm f/2.8 GM II hỗ trợ Breathing Compensation trên a7 IV."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Ống kính Fujifilm GF có hỗ trợ Phase Detection AF trên GFX 100S không?",
+        "Câu trả lời": "Có, tất cả ống kính GF, bao gồm GF 80mm f/1.7 R WR, hỗ trợ Phase Detection AF trên GFX 100S."
+    },
+    {
+        "Hãng": "Panasonic",
+        "Câu hỏi": "Những ống kính Panasonic Lumix S nào hỗ trợ quay video 4K 60p trên S5 II?",
+        "Câu trả lời": "Tất cả ống kính Lumix S, như S 20-60mm f/3.5-5.6, hỗ trợ quay video 4K 60p trên S5 II."
+    },
+    {
+        "Hãng": "Nikon",
+        "Câu hỏi": "Ống kính Nikon F-mount có tương thích với Nikon Z50 với adapter không?",
+        "Câu trả lời": "Có, ống kính F-mount tương thích với Z50 qua adapter FTZ II, nhưng một số ống cũ có thể hạn chế chức năng."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Những ống kính Canon RF nào hỗ trợ IBIS 5 trục trên EOS R6?",
+        "Câu trả lời": "Tất cả ống kính RF, như RF 28-70mm f/2L USM, hỗ trợ IBIS 5 trục trên EOS R6, tăng cường chống rung với ống có IS."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Ống kính Sony E-mount có hỗ trợ Animal Eye AF trên Sony a7R IV không?",
+        "Câu trả lời": "Có, tất cả ống kính E-mount, bao gồm FE 200-600mm f/5.6-6.3 G OSS, hỗ trợ Animal Eye AF trên a7R IV."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Những ống kính Fujifilm XF nào hỗ trợ chụp macro trên X-T4?",
+        "Câu trả lời": "Ống kính XF như XF 80mm f/2.8 R LM OIS WR Macro và XF 60mm f/2.4 R Macro được thiết kế cho chụp macro trên X-T4."
+    },
+    {
+        "Hãng": "Panasonic",
+        "Câu hỏi": "Ống kính Panasonic Lumix S có thể dùng trên Blackmagic Pocket Cinema Camera 6K Pro không?",
+        "Câu trả lời": "Có, ống kính Lumix S có thể dùng trên Blackmagic Pocket Cinema Camera 6K Pro với adapter L-mount."
+    },
+    {
+        "Hãng": "Nikon",
+        "Câu hỏi": "Những ống kính Nikon Z nào hỗ trợ chống thời tiết trên Z8?",
+        "Câu trả lời": "Ống kính Z như NIKKOR Z 24-120mm f/4 S và NIKKOR Z 100-400mm f/4.5-5.6 VR S có khả năng chống thời tiết khi dùng với Z8."
+    },
+    {
+        "Hãng": "Canon",
+        "Câu hỏi": "Những ống kính Canon EF nào hỗ trợ Servo AF trên EOS R5 với adapter?",
+        "Câu trả lời": "Ống kính EF như EF 70-200mm f/2.8L IS III USM hỗ trợ Servo AF trên EOS R5 qua adapter EF-EOS R."
+    },
+    {
+        "Hãng": "Sony",
+        "Câu hỏi": "Ống kính Sony FE có tương thích với Sony a9 III để chụp tốc độ cao không?",
+        "Câu trả lời": "Có, tất cả ống kính FE, như FE 300mm f/2.8 GM OSS, hỗ trợ chụp tốc độ cao lên đến 120fps trên a9 III."
+    },
+    {
+        "Hãng": "Fujifilm",
+        "Câu hỏi": "Ống kính Fujifilm XF có hỗ trợ chế độ giả lập phim trên X-E4 không?",
+        "Câu trả lời": "Có, tất cả ống kính XF, như XF 35mm f/1.4 R, hỗ trợ chế độ giả lập phim trên X-E4 để tái hiện màu sắc đồng nhất."
+    },
+    {
+        "Hãng": "Panasonic",
+        "Câu hỏi": "Những ống kính Panasonic L-mount nào hỗ trợ Real-time LUT trên Lumix S5 IIX?",
+        "Câu trả lời": "Tất cả ống kính Lumix S, bao gồm S 35mm f/1.8, hỗ trợ Real-time LUT cho video trên S5 IIX."
+    }
+]

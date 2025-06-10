@@ -1,0 +1,1077 @@
+[
+    {
+        "Brand": "Canon",
+        "Question": "Which lenses are compatible with [Electronic full-time MF] on the EOS-1D X Mark III?",
+        "Answer": "EF 400mm f/2.8L IS III USM (Firmware Ver 1.1.2 or higher), EF 600mm f/4L IS III USM (Firmware Ver 1.1.2 or higher), RF 70-200mm f/2.8L IS USM (Firmware Ver 1.1.0 or higher), RF 100-500mm f/4.5-7.1L IS USM (Firmware Ver 1.0.9 or higher)."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "How do I enable continuous autofocus on the PowerShot G9 X Mark II?",
+        "Answer": "Go to [Menu], select [AF operation], choose [Continuous AF]."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "How do I update the firmware on the EOS R5?",
+        "Answer": "Download the latest firmware from Canon’s website, copy it to an SD card, insert the card, go to [Menu], select [Firmware], and update. Ensure the battery is fully charged."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "What is the battery life of the PowerShot G7 X Mark III?",
+        "Answer": "Approximately 265 shots (Eco mode: 320 shots) or 55 minutes of video with the NB-13L battery."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "How do I clean the sensor on the EOS-1D X Mark III?",
+        "Answer": "Go to [Menu], select [Sensor cleaning] for automatic cleaning. For manual cleaning, use a clean air blower, avoid compressed air."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "How do I fix an EOS Utility connection error on Windows 10?",
+        "Answer": "Update EOS Utility, check USB/Wi-Fi connection, temporarily disable firewall, select [PC Connection] mode on the camera."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "Which lenses support high-speed continuous shooting on the EOS R6?",
+        "Answer": "RF lenses like RF24-70mm f/2.8 L IS USM, EF lenses like EF70-200mm f/2.8L IS USM support 12 fps (mechanical shutter) or 20 fps (electronic shutter)."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "How do I format an SD card on the EOS M50 Mark II?",
+        "Answer": "Go to [Menu] > [Setup] > [Format card], select the card, and confirm. Back up data first."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "What is the maximum video recording time of the PowerShot SX740 HS?",
+        "Answer": "Up to 29 minutes 59 seconds per clip in Full HD or 4K, may stop earlier due to battery or card capacity."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "How do I enable Bluetooth on the EOS 90D?",
+        "Answer": "Go to [Menu] > [Wireless communication settings] > [Bluetooth function], select [Smartphone], pair via the Camera Connect app."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "What is the Err 01 error on the EOS 5D Mark IV?",
+        "Answer": "Communication error between camera and lens. Clean contacts, reattach lens, or try another lens."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "How do I adjust white balance on the PowerShot G7 X Mark II?",
+        "Answer": "Press [Func./Set], select [White Balance], choose a mode (Daylight, Cloudy) or customize by photographing a white/gray object."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "Can EF lenses be used on the EOS R10 with an adapter?",
+        "Answer": "Yes, use the Canon Mount Adapter EF-EOS R to attach EF/EF-S lenses, retaining autofocus and stabilization."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "How do I reset the EOS M50 to factory settings?",
+        "Answer": "Go to [Menu] > [Setup] > [Reset camera], select [Basic settings] or [All settings], and confirm."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "What is the warranty period for Canon cameras in Vietnam?",
+        "Answer": "Typically 1 year, covering manufacturing defects. Check specific terms at purchase."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "How do I enable 4K video recording on the EOS 90D?",
+        "Answer": "Switch to [Movie] mode, go to [Menu] > [Movie rec quality], select [4K], use a UHS-I Speed Class 3 card."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "Why does the PowerShot SX70 HS show a memory card error?",
+        "Answer": "Card may be full, locked, or incompatible. Unlock card, format in-camera, or use another SDHC/SDXC card."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "How do I update the Canon Camera Connect app?",
+        "Answer": "Check for updates on the App Store (iOS) or Google Play (Android), download the latest version."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "What’s the difference between RF and EF lenses?",
+        "Answer": "RF lenses are for mirrorless cameras, offer faster communication, compact design. EF lenses are for DSLRs, usable on R-series with an adapter."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "How do I shoot in manual mode on the EOS Rebel T7?",
+        "Answer": "Switch to [M] mode, adjust shutter speed, aperture, ISO using the main dial and [Q]. Use the exposure meter to balance settings."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "Can the PowerShot G7 X Mark III be charged via USB?",
+        "Answer": "Yes, use a USB-C cable with a compatible power source, charging takes about 2 hours."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "How do I enable HDR mode on the EOS R6?",
+        "Answer": "Go to [Menu] > [Shooting] > [HDR Mode], select [Enable], choose dynamic range level. Use a tripod for best results."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "Why won’t the EOS M200 connect to Wi-Fi?",
+        "Answer": "Ensure Wi-Fi is enabled, camera is in range, correct SSID/password entered. Update firmware and Camera Connect app."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "How do I use the interval timer on the EOS 6D Mark II?",
+        "Answer": "Go to [Menu] > [Shooting] > [Interval timer], enable, set interval and number of shots, start shooting."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "Which memory cards are compatible with the PowerShot SX740 HS?",
+        "Answer": "SD, SDHC, SDXC cards (UHS-I Speed Class 3 recommended for 4K)."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "How do I enable silent shooting on the EOS R5?",
+        "Answer": "Go to [Menu] > [Shooting] > [Shutter mode], select [Electronic]."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "What is the Err 02 error on the EOS 80D?",
+        "Answer": "Memory card access error. Check if card is full or locked, format card, or try another card."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "How do I adjust ISO on the PowerShot G9 X Mark II?",
+        "Answer": "Press [Func./Set], select [ISO], choose a value (125-12800) or [Auto]."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "Should I use third-party batteries for Canon cameras?",
+        "Answer": "Canon recommends genuine batteries for safety and performance. Third-party batteries may cause errors or damage."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "How do I enable Dual Pixel RAW on the EOS R5?",
+        "Answer": "Go to [Menu] > [Shooting] > [Dual Pixel RAW], enable, use compatible lenses. Increases file size."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "How do I transfer images to a computer using EOS Utility?",
+        "Answer": "Connect via USB, open EOS Utility, select [Transfer Images], choose images to download."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "What is the maximum ISO range of the EOS R10?",
+        "Answer": "ISO 100-32000, expandable to 51200. Auto ISO adjusts based on lighting."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "How do I enable eye-detection autofocus on the PowerShot G7 X Mark III?",
+        "Answer": "Go to [Menu] > [AF method], select [Face+Tracking], enable [Eye Detection AF]."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "How do I fix a lens error on the PowerShot SX60 HS?",
+        "Answer": "Turn off the camera, remove the battery, reinsert after 1 minute. Gently tap to dislodge a stuck lens."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "What’s the difference between evaluative and spot metering on the EOS 90D?",
+        "Answer": "Evaluative metering balances light across the frame; spot metering measures a small center area for precise control."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "How do I enable GPS location recording on the EOS 6D Mark II?",
+        "Answer": "Go to [Menu] > [GPS settings], enable GPS, select [Mode 1] or [Mode 2]. Pair with a smartphone app for detailed logging."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "Why does the PowerShot G9 X Mark II show a low battery warning?",
+        "Answer": "Battery may be low or improperly inserted. Recharge, check contacts, replace if damaged."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "How do I use the self-timer on the EOS Rebel T8i?",
+        "Answer": "Press [Drive mode], select [Self-timer: 10-sec], [Self-timer: 2-sec], or [Self-timer: Continuous], press the shutter."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "Can RF lenses be used on the EOS 5D Mark IV?",
+        "Answer": "No, the EOS 5D Mark IV is a DSLR, only compatible with EF lenses. RF lenses are not compatible, even with an adapter."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "How do I enable multiple exposure shooting on the EOS 5D Mark IV?",
+        "Answer": "Go to [Menu] > [Shooting] > [Multiple exposure], select [Enable], set number of exposures and blending mode."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "How do I adjust the LCD screen brightness on the EOS R10?",
+        "Answer": "Go to [Menu] > [Display settings] > [Screen brightness], adjust to desired level."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "How do I enable continuous shooting on the EOS M50?",
+        "Answer": "Press [Drive mode], select [Continuous shooting] or [High-speed continuous shooting]."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "Why doesn’t the EOS Rebel T7 save photos?",
+        "Answer": "Check if the memory card is full, locked, or incorrectly formatted. Format in-camera, ensure compatibility."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "How do I enable night shooting mode on the PowerShot SX740 HS?",
+        "Answer": "Switch to [SCN] mode, select [Handheld NightScene] for clear photos in low light."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "How do I enable long exposure shooting on the EOS R10?",
+        "Answer": "Switch to [M] mode, select [BULB] for shutter speed, use a remote or cable release to start/end exposure."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "How do I enable macro shooting mode on the PowerShot G7 X Mark III?",
+        "Answer": "Go to [Menu] > [AF Frame], select [Macro], maintain a minimum distance of 5cm from the subject."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "Why does the EOS M50 Mark II show a battery incompatibility error?",
+        "Answer": "Use genuine Canon LP-E12 battery, clean contacts, or update firmware."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "How do I capture beautiful bokeh photos with the Canon EOS R8?",
+        "Answer": "Switch to [Av] mode, set aperture to f/1.8 or lower, use the RF 50mm f/1.8 STM lens. Stand 1-2m from the subject for a creamy background blur. Check out this lens at our store!"
+    },
+    {
+        "Brand": "Canon",
+        "Question": "Is the Canon PowerShot G7 X Mark IV good for vlogging?",
+        "Answer": "Excellent! The G7 X Mark IV has a flip screen, smooth 4K, and high-quality built-in mic. Pair with a Rode VideoMicro and mini tripod for pro vlogging. Explore at our website!"
+    },
+    {
+        "Brand": "Canon",
+        "Question": "Why is the Canon EOS R100 a good choice for beginners?",
+        "Answer": "The EOS R100 is compact, affordable, with a 24.1MP sensor and fast autofocus. Its simple interface is beginner-friendly. Check out camera+lens bundles on our website!"
+    },
+    {
+        "Brand": "Canon",
+        "Question": "How do I capture sharp landscape photos with the Canon EOS R7?",
+        "Answer": "Use [Av] mode, aperture f/8-f/11, ISO 100. Use a tripod and enable [HDR] in [Menu] for detail retention. A CPL filter enhances colors. See accessories at our store!"
+    },
+    {
+        "Brand": "Canon",
+        "Question": "Which lens is best for the Canon EOS R6 Mark II for wildlife photography?",
+        "Answer": "Recommended: RF 100-500mm f/4.5-7.1L IS USM for long reach and sharpness. Find this lens and deals at our website!"
+    },
+    {
+        "Brand": "Canon",
+        "Question": "How do I shoot portraits with smooth bokeh on the Canon EOS R6 Mark II?",
+        "Answer": "Use [Av] mode, set aperture to f/1.8, use the RF 50mm f/1.8 STM lens. Shoot 1-2m from the subject during golden hour for soft light. Find this lens at our store!"
+    },
+    {
+        "Brand": "Canon",
+        "Question": "Which lens is best for the Canon EOS R7 for sports photography?",
+        "Answer": "Recommended: RF 70-200mm f/2.8L IS USM for fast autofocus and sharpness. See sports lens deals at our store!"
+    },
+    {
+        "Brand": "Canon",
+        "Question": "Why are photos on the Canon PowerShot G7 X Mark IV blurry at high ISO?",
+        "Answer": "High ISO (above 3200) may cause noise. Lower ISO to 800-1600, enable [Noise Reduction] in [Menu], or use a tripod. Check tripods at our website!"
+    },
+    {
+        "Brand": "Sony",
+        "Question": "How do I enable eye-detection autofocus on the Sony A7 IV?",
+        "Answer": "Go to [Menu] > [Focus] > [Subject Detection], select [Human] or [Animal], enable [Eye AF]. Press the custom button to activate."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "What is the battery life of the Sony ZV-1?",
+        "Answer": "Approximately 260 shots or 45 minutes of video with the NP-BX1 battery per CIPA standards."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "How do I update the firmware on the Sony A6400?",
+        "Answer": "Download firmware from Sony’s website, copy to a memory card, go to [Menu] > [Setup] > [Version], select [Update]. Ensure battery is full."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "How do I format a memory card on the Sony A7C?",
+        "Answer": "Go to [Menu] > [Setup] > [Format], select the card, and confirm. Back up data first."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "Why won’t the Sony RX100 VII connect to Wi-Fi?",
+        "Answer": "Check Wi-Fi is enabled, correct SSID/password. Update Imaging Edge Mobile app and camera firmware."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "How do I enable 4K video recording on the Sony ZV-E10?",
+        "Answer": "Switch to [Movie] mode, go to [Menu] > [Movie Settings] > [Rec Frame Rate], select [4K]. Use an SDXC UHS-I card."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "Which memory cards are compatible with the Sony A7R V?",
+        "Answer": "SDXC UHS-II or CFexpress Type A cards for optimal speed and 8K recording."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "How do I enable silent shooting on the Sony A9 II?",
+        "Answer": "Go to [Menu] > [Camera Settings] > [Shutter Type], select [Electronic Shutter]."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "How do I adjust ISO on the Sony RX10 IV?",
+        "Answer": "Press [Menu] > [Camera Settings] > [ISO], select a value (100-12800) or [Auto ISO]."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "What is the E:91:01 error on the Sony A7 III?",
+        "Answer": "Flash error. Turn off the camera, remove the battery, reinsert. Contact service if persistent."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "How do I transfer images to a smartphone using Sony Imaging Edge Mobile?",
+        "Answer": "Enable Wi-Fi on the camera, pair via Imaging Edge Mobile, select images in [Menu] > [Network] > [Send to Smartphone]."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "Can Canon EF lenses be used on the Sony A7 IV?",
+        "Answer": "Yes, use an adapter like Sigma MC-11 or Metabones, but autofocus performance may be reduced."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "How do I reset the Sony ZV-1 to factory settings?",
+        "Answer": "Go to [Menu] > [Setup] > [Reset], select [Initialize], and confirm."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "How do I enable HDR on the Sony A7S III?",
+        "Answer": "Go to [Menu] > [Camera Settings] > [HDR], select [Auto HDR] or a specific dynamic range level."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "Why does the Sony A6600 overheat during 4K video recording?",
+        "Answer": "Prolonged 4K recording causes overheating. Pause recording, let the camera cool, or shoot in a ventilated area."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "How do I enable continuous autofocus on the Sony RX100 VII?",
+        "Answer": "Go to [Menu] > [Camera Settings] > [Focus Mode], select [Continuous AF]."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "What is the maximum video recording time of the Sony ZV-E10?",
+        "Answer": "No time limit per clip (depends on battery and card), but may stop due to overheating."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "How do I enable continuous shooting on the Sony A7 IV?",
+        "Answer": "Press [Drive Mode], select [Continuous Shooting: Hi+] or [Continuous Shooting: Mid]."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "Why does the Sony A7C show a memory card error?",
+        "Answer": "Card may be full, locked, or incompatible. Unlock, format, or use an SDXC UHS-II card."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "How do I adjust white balance on the Sony A6400?",
+        "Answer": "Go to [Menu] > [Camera Settings] > [White Balance], select a mode or customize by photographing a white object."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "How do I enable slow-motion recording on the Sony ZV-1?",
+        "Answer": "Switch to [S&Q] mode, go to [Menu] > [S&Q Settings], select high frame rate (100fps or 120fps)."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "Can the Sony A7R IV be charged via USB?",
+        "Answer": "Yes, use a USB-C cable with a USB-PD source, charging takes about 2.5 hours."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "How do I enable the grid display on the Sony A7S III?",
+        "Answer": "Go to [Menu] > [Display Settings] > [Grid Line], select type (3x3 or 4x4)."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "Why doesn’t the Sony RX10 IV save photos?",
+        "Answer": "Check if the memory card is full, locked, or incorrectly formatted. Format in-camera."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "How do I clean the sensor on the Sony A7 IV?",
+        "Answer": "Go to [Menu] > [Setup] > [Sensor Cleaning], select [Clean Now]. Use a clean air blower for manual cleaning."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "How do I enable night shooting mode on the Sony ZV-E10?",
+        "Answer": "Switch to [SCN], select [Night Scene], or increase ISO and use a tripod."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "What is the minimum focus distance of the Sony FE 50mm f/1.8 lens?",
+        "Answer": "0.45m, with a maximum magnification of 0.14x."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "How do I enable in-body image stabilization on the Sony A7C?",
+        "Answer": "Go to [Menu] > [Camera Settings] > [SteadyShot], select [On]."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "Why does the Sony A7 III show a battery error?",
+        "Answer": "Use genuine Sony batteries, clean contacts. Update firmware if needed."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "How do I enable manual focus on the Sony RX100 VII?",
+        "Answer": "Go to [Menu] > [Camera Settings] > [Focus Mode], select [Manual Focus], rotate the focus ring to adjust."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "How do I adjust aperture on the Sony A6600?",
+        "Answer": "Switch to [A] or [M] mode, rotate the control wheel to change aperture."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "How do I enable panorama mode on the Sony A7R IV?",
+        "Answer": "Switch to [SCN], select [Sweep Panorama], hold the shutter and pan as directed."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "Why won’t the Sony ZV-1 record video?",
+        "Answer": "Check if the memory card is full or lacks speed. Format card, use a UHS-I Speed Class 3 card."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "How do I enable RAW shooting on the Sony A7C II?",
+        "Answer": "Go to [Menu] > [Camera Settings] > [Image Quality], select [RAW] or [RAW & JPEG]."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "How do I shoot minimalist street photos with the Sony A7C II?",
+        "Answer": "Go to [Menu] > [Creative Look], select [Monochrome], reduce [Saturation]. Use a 35mm f/1.8 lens for flexibility. Check Sony lenses at our store!"
+    },
+    {
+        "Brand": "Sony",
+        "Question": "Is the Sony ZV-E1 worth buying for professional video?",
+        "Answer": "The ZV-E1 excels with a full-frame sensor, 4K 120fps, and AI autofocus. Ideal for vloggers and filmmakers. Pair with a gimbal for smooth shots. See bundles at our website!"
+    },
+    {
+        "Brand": "Sony",
+        "Question": "Why are photos from the Sony A6700 noisy at night?",
+        "Answer": "High ISO causes noise. Lower ISO to 800-1600, enable [Noise Reduction] in [Menu], or use a tripod. Check Sony tripods at our store!"
+    },
+    {
+        "Brand": "Sony",
+        "Question": "Is the Sony RX100 VIII suitable for travel photography?",
+        "Answer": "Perfect! The RX100 is compact, with a 24-200mm zoom and 1-inch sensor for great shots. Add a spare battery for all-day shooting. See accessories at our website!"
+    },
+    {
+        "Brand": "Sony",
+        "Question": "How do I shoot sharp 4K video with the Sony A7R V?",
+        "Answer": "Go to [Menu] > [Movie Settings], select [4K 60fps]. Use a G Master lens and enable [SteadyShot]. UHS-II SD cards are ideal. Check memory cards at our store!"
+    },
+    {
+        "Brand": "Sony",
+        "Question": "Which Sony lenses support the [Focus Hold Button] on the Sony A7R V?",
+        "Answer": "FE 24-70mm f/2.8 GM, FE 70-200mm f/2.8 GM OSS II, FE 100-400mm f/4.5-5.6 GM OSS, FE 50mm f/1.2 GM (Firmware Ver 1.0.0 or higher)."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "How do I shoot vibrant landscape photos with the Sony A7C II?",
+        "Answer": "Go to [Menu] > [Creative Look], select [Vivid]. Use the FE 16-35mm f/2.8 GM lens and a CPL filter for enhanced colors. See filters at our store!"
+    },
+    {
+        "Brand": "Sony",
+        "Question": "Is the Sony ZV-E1 suitable for professional vlogging?",
+        "Answer": "Yes, with a full-frame sensor, 4K 120fps, and AI autofocus, it’s ideal for vloggers. Add a shotgun mic for better audio. Check vlogging bundles at our store!"
+    },
+    {
+        "Brand": "Sony",
+        "Question": "Why doesn’t the Sony A6700 recognize the SD card?",
+        "Answer": "Check if the card is full, locked, or incorrectly formatted. Format in-camera or use a UHS-II card. See high-speed SD cards at our store!"
+    },
+    {
+        "Brand": "Sony",
+        "Question": "Which lens is best for the Sony RX100 VIII for travel photography?",
+        "Answer": "The RX100 VIII’s built-in 24-200mm lens is ideal for landscapes and portraits. Add a spare battery and UV filter. See travel accessories at our store!"
+    },
+    {
+        "Brand": "Sony",
+        "Question": "How do I adjust video shutter speed on the Sony ZV-E1?",
+        "Answer": "Switch to [S] or [M] mode, rotate the control wheel to adjust shutter speed."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "How do I enable video stabilization on the Sony RX100 VII?",
+        "Answer": "Go to [Menu] > [Camera Settings] > [SteadyShot], select [Active] for video stabilization."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "How do I enable film simulation modes on the Fujifilm X-T5?",
+        "Answer": "Go to [Menu] > [Image Quality Setting] > [Film Simulation], select modes like Provia or Monochrome."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "What is the battery life of the Fujifilm X100VI?",
+        "Answer": "Approximately 450 shots or 50 minutes of 4K video with the NP-W126S battery."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "How do I update the firmware on the Fujifilm X-S20?",
+        "Answer": "Download firmware from Fujifilm’s website, copy to an SD card, go to [Menu] > [User Setting] > [Firmware Update]."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "How do I format a memory card on the Fujifilm X-E4?",
+        "Answer": "Go to [Menu] > [User Setting] > [Format], select the card, and confirm. Back up data first."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "Why won’t the Fujifilm X-T30 connect to Wi-Fi?",
+        "Answer": "Check Wi-Fi is enabled, correct SSID/password. Update Fujifilm Camera Remote app and firmware."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "How do I enable 4K video recording on the Fujifilm X-H2S?",
+        "Answer": "Switch to [Movie Mode], go to [Menu] > [Movie Setting] > [4K], select frame rate, use a UHS-II card."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "Which memory cards are compatible with the Fujifilm GFX100S?",
+        "Answer": "SDXC UHS-II or CFexpress Type B cards for optimal speed and 4K recording."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "How do I enable silent shooting on the Fujifilm X-T4?",
+        "Answer": "Go to [Menu] > [Shooting Setting] > [Shutter Type], select [Electronic]."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "How do I adjust ISO on the Fujifilm X100V?",
+        "Answer": "Rotate the ISO dial or go to [Menu] > [Image Quality Setting] > [ISO], select a value or [Auto]."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "What is the F0 error on the Fujifilm X-T5?",
+        "Answer": "Lens communication error. Clean contacts, reattach lens, or try another lens."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "How do I transfer images to a smartphone using Fujifilm Camera Remote?",
+        "Answer": "Enable Wi-Fi on the camera, pair via Camera Remote app, select images in [Menu] > [Wireless Communication]."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "Can Canon EF lenses be used on the Fujifilm X-T4?",
+        "Answer": "Yes, use an adapter like Fringer EF-FX, but autofocus may be slower."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "How do I reset the Fujifilm X-S10 to factory settings?",
+        "Answer": "Go to [Menu] > [User Setting] > [Reset], select [Factory Reset], and confirm."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "How do I enable HDR on the Fujifilm X-H2?",
+        "Answer": "Go to [Menu] > [Image Quality Setting] > [HDR Mode], select [Auto] or specific level (200%, 400%)."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "Why does the Fujifilm X-T30 overheat during video recording?",
+        "Answer": "Prolonged 4K recording causes overheating. Pause recording, let the camera cool, or shoot in a ventilated area."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "How do I enable continuous autofocus on the Fujifilm X100VI?",
+        "Answer": "Go to [Menu] > [AF/MF Setting] > [Focus Mode], select [Continuous AF]."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "What is the maximum video recording time of the Fujifilm X-S20?",
+        "Answer": "Up to 30 minutes per clip in 4K, depending on battery and card capacity."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "How do I enable continuous shooting on the Fujifilm X-T5?",
+        "Answer": "Go to [Menu] > [Shooting Setting] > [Drive Setting], select [Continuous High] or [Continuous Low]."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "Why does the Fujifilm X-E4 show a memory card error?",
+        "Answer": "Card may be full, locked, or incompatible. Unlock, format, or use an SDXC UHS-II card."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "How do I adjust white balance on the Fujifilm X-T3?",
+        "Answer": "Go to [Menu] > [Image Quality Setting] > [White Balance], select a mode or customize with a white object."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "How do I enable slow-motion recording on the Fujifilm X-H2S?",
+        "Answer": "Go to [Menu] > [Movie Setting] > [High Speed Rec], select frame rate (120fps or 240fps)."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "Can the Fujifilm X-T4 be charged via USB?",
+        "Answer": "Yes, use a USB-C cable with a USB-PD source, charging takes about 3 hours."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "How do I enable the grid display on the Fujifilm X100V?",
+        "Answer": "Go to [Menu] > [Screen Set-Up] > [Disp. Custom Setting], enable [Framing Guideline]."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "Why doesn’t the Fujifilm X-S10 save photos?",
+        "Answer": "Check if the memory card is full, locked, or incorrectly formatted. Format in-camera."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "How do I clean the sensor on the Fujifilm X-T5?",
+        "Answer": "Go to [Menu] > [User Setting] > [Sensor Cleaning], select [Execute]. Use a clean air blower if needed."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "How do I enable night shooting mode on the Fujifilm X100VI?",
+        "Answer": "Switch to [SCN], select [Night (Tripod)], or increase ISO and use a tripod."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "What is the minimum focus distance of the Fujinon XF 35mm f/1.4 R lens?",
+        "Answer": "0.28m, with a maximum magnification of 0.17x."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "How do I enable in-body image stabilization on the Fujifilm X-H2?",
+        "Answer": "Go to [Menu] > [Shooting Setting] > [IS Mode], select [Continuous] or [Shooting Only]."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "Why does the Fujifilm X-T5 show a battery error?",
+        "Answer": "Use genuine batteries, clean contacts. Update firmware if needed."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "How do I enable panorama mode on the Fujifilm X-T5?",
+        "Answer": "Fujifilm lacks a built-in panorama mode. Capture multiple images and stitch using software like Lightroom."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "How do I shoot macro video with the Fujifilm X-S20?",
+        "Answer": "Go to [Menu] > [AF/MF Setting] > [Macro], enable for close-up shooting."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "Why doesn’t the Fujifilm X100V focus accurately?",
+        "Answer": "Check for low light or low-contrast subjects. Use manual focus if needed."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "How do I shoot black-and-white photos with the Fujifilm X-T50?",
+        "Answer": "Go to [Menu] > [Image Quality Setting], select [Monochrome] or [Acros]."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "How do I shoot retro-style photos with the Fujifilm X-T50?",
+        "Answer": "Go to [Menu] > [Film Simulation], select [Classic Neg]. Add [Grain Effect] for an analog film look. Check Fujifilm filters at our store!"
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "Fujifilm X-S20 or X-T50, which is better for still photography?",
+        "Answer": "The X-T50 has a retro design and dedicated dials, ideal for stills. The X-S20 is better for video. See both models and deals at our store!"
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "How do I shoot macro photos with the Fujifilm X100VI?",
+        "Answer": "Enable [Macro] mode, use the TCL-X100 II lens. Shoot at f/2.8 with natural light for sharp details. Check macro accessories at our store!"
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "Why is the Fujifilm X-H2 suitable for sports photography?",
+        "Answer": "The X-H2 has a 40MP sensor, 15fps shooting, and fast AI autofocus. Recommended lens: XF 50-140mm f/2.8. See camera+lens bundles at our store!"
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "How do I transfer videos from the Fujifilm X-T5 to a smartphone?",
+        "Answer": "Go to [Menu] > [Connection Setting] > [Bluetooth], connect to the Fujifilm Camera Remote app. Select and transfer videos quickly. Download the app and see guides!"
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "How do I enable high-speed continuous shooting on the Fujifilm X-H2S?",
+        "Answer": "Go to [Menu] > [Shooting Setting] > [Drive Setting], select [Continuous High Speed] (up to 40 fps)."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "Why doesn’t the Fujifilm X100VI display the viewfinder?",
+        "Answer": "Go to [Menu] > [Disp/Back] > [EVF/LCD], select [EVF] or [Auto]. Check or update firmware. Buy genuine batteries!"
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "How do I shoot macro photos with the Fujifilm X-T5?",
+        "Answer": "Enable [Macro] mode, use the XF 80mm f/2.8 R LM OIS WR Macro lens. Shoot at f/8 with diffused light. Get this lens at our store!"
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "Which Fujifilm lenses support [Linear Focus Motor] on the Fujifilm X-H2?",
+        "Answer": "XF 16-55mm f/2.8 R LM WR, XF 50-140mm f/2.8 R LM OIS WR, XF 100-400mm f/4.5-5.6 R LM OIS WR (Firmware Ver 1.20 or higher)."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "How do I shoot analog film-style photos with the Fujifilm X-T50?",
+        "Answer": "Go to [Menu] > [Film Simulation], select [Classic Chrome]."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "Fujifilm X-S20 or X-T50, which is better for video recording?",
+        "Answer": "The X-S20 supports 6K video and longer battery life, ideal for video. The X-T50 is better for stills. What’s your video need? See both at our store!"
+    },
+    {
+        "Brand": "Panasonic",
+        "Question": "How do I enable eye-detection autofocus on the Panasonic Lumix S5 II?",
+        "Answer": "Go to [Menu] > [AF Settings] > [Detecting Subject], select [Human/Animal], enable [Eye Detection]."
+    },
+    {
+        "Brand": "Panasonic",
+        "Question": "What is the battery life of the Panasonic Lumix G9 II?",
+        "Answer": "Approximately 390 shots or 60 minutes of 4K video with the standard battery."
+    },
+    {
+        "Brand": "Panasonic",
+        "Question": "How do I update the firmware on the Panasonic Lumix S9?",
+        "Answer": "Download firmware from Panasonic’s website, copy to an SD card, go to [Menu] > [Setup] > [Firmware]."
+    },
+    {
+        "Brand": "Panasonic",
+        "Question": "How do I format a memory card on the Panasonic Lumix GH6?",
+        "Answer": "Go to [Menu] > [Setup] > [Format Card], select the card, and confirm."
+    },
+    {
+        "Brand": "Panasonic",
+        "Question": "Why doesn’t the Panasonic Lumix ZS200-II connect to Wi-Fi?",
+        "Answer": "Check Wi-Fi is enabled, correct SSID/password. Update firmware and Lumix app."
+    },
+    {
+        "Brand": "Panasonic",
+        "Question": "How do I enable 4K video recording on the Panasonic Lumix S5?",
+        "Answer": "Switch to [Video Mode], go to [Menu] > [Video Quality], select [4K], use an SDXC UHS-II card."
+    },
+    {
+        "Brand": "Panasonic",
+        "Question": "Which memory cards are compatible with the Panasonic Lumix GH7?",
+        "Answer": "SDXC UHS-II or CFexpress cards for high-speed video recording."
+    },
+    {
+        "Brand": "Panasonic",
+        "Question": "How do I enable silent shooting on the Panasonic Lumix S1?",
+        "Answer": "Go to [Menu] > [Rec] > [Silent Mode], enable."
+    },
+    {
+        "Brand": "Panasonic",
+        "Question": "How do I adjust ISO on the Panasonic Lumix FZ1000 II?",
+        "Answer": "Press [ISO], select a value (125-12800) or [Auto]."
+    },
+    {
+        "Brand": "Panasonic",
+        "Question": "What is a memory card error on the Panasonic Lumix G100?",
+        "Answer": "Card may be full, locked, or incompatible. Unlock, format, or use an SDXC card."
+    },
+    {
+        "Brand": "Panasonic",
+        "Question": "How do I transfer images to a smartphone using Panasonic Lumix Sync?",
+        "Answer": "Enable Wi-Fi on the camera, pair via Lumix Sync app, select images in [Menu] > [Wi-Fi] > [Send Images]."
+    },
+    {
+        "Brand": "Panasonic",
+        "Question": "Can Canon EF lenses be used on the Panasonic Lumix S5?",
+        "Answer": "Yes, use an adapter like Sigma MC-21, but autofocus performance may not be optimal."
+    },
+    {
+        "Brand": "Panasonic",
+        "Question": "How do I reset the Panasonic Lumix G9 II to factory settings?",
+        "Answer": "Go to [Menu] > [Setup] > [Reset], select [Reset All Settings], and confirm."
+    },
+    {
+        "Brand": "Panasonic",
+        "Question": "How do I enable HDR on the Panasonic Lumix S5 II?",
+        "Answer": "Go to [Menu] > [Rec] > [HDR], select [On] or [Auto]."
+    },
+    {
+        "Brand": "Panasonic",
+        "Question": "Why does the Panasonic Lumix GH6 overheat during video recording?",
+        "Answer": "Prolonged 4K/6K recording causes overheating. Pause recording, let cool, or use a cooling fan."
+    },
+    {
+        "Brand": "Panasonic",
+        "Question": "How do I enable continuous autofocus on the Panasonic Lumix ZS100?",
+        "Answer": "Go to [Menu] > [Rec] > [Focus Mode], select [AFC]."
+    },
+    {
+        "Brand": "Panasonic",
+        "Question": "What is the maximum video recording time of the Panasonic Lumix S9?",
+        "Answer": "Up to 30 minutes per clip in 4K, depending on battery and card capacity."
+    },
+    {
+        "Brand": "Panasonic",
+        "Question": "How do I enable continuous shooting on the Panasonic Lumix G9 II?",
+        "Answer": "Go to [Menu] > [Rec] > [Drive Mode], select [Burst Shot 1] or [Burst Shot 2]."
+    },
+    {
+        "Brand": "Panasonic",
+        "Question": "Why does the Panasonic Lumix FZ80 show a memory card error?",
+        "Answer": "Card may be full, locked, or incompatible. Unlock, format, or use an SDHC/SDXC card."
+    },
+    {
+        "Brand": "Panasonic",
+        "Question": "How do I adjust white balance on the Panasonic Lumix S1?",
+        "Answer": "Go to [Menu] > [Rec] > [White Balance], select a mode or customize with a white object."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "Which RF lenses support Dual Pixel CMOS AF II on the EOS R5?",
+        "Answer": "All RF lenses, including RF15-35mm f/2.8L IS USM, RF24-70mm f/2.8L IS USM, and RF70-200mm f/2.8L IS USM, support Dual Pixel CMOS AF II on the EOS R5."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "Can EF-S lenses be used on the Canon EOS R6 II with an adapter?",
+        "Answer": "Yes, EF-S lenses can be used on the EOS R6 II with a Canon Mount Adapter EF-EOS R, but they will create a 1.6x crop factor, reducing effective resolution."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "Which Sony E-mount lenses support Real-time Tracking AF on the Sony a7 IV?",
+        "Answer": "All Sony E-mount lenses, including FE 24-70mm f/2.8 GM II and FE 70-200mm f/2.8 GM OSS II, support Real-time Tracking AF on the a7 IV."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "Are Fujifilm XF lenses compatible with the Fujifilm X-T5?",
+        "Answer": "Yes, all Fujifilm XF and XC lenses are fully compatible with the X-T5, such as XF 23mm f/1.4 R LM WR and XF 56mm f/1.2 R WR."
+    },
+    {
+        "Brand": "Panasonic",
+        "Question": "Which Panasonic Lumix S lenses support 6K video recording on the Lumix S5 II?",
+        "Answer": "All Lumix S lenses, including S 24-70mm f/2.8 and S 50mm f/1.8, support 6K video recording on the S5 II."
+    },
+    {
+        "Brand": "Nikon",
+        "Question": "Can Nikon Z-mount lenses be used on the Nikon Z6 III without an adapter?",
+        "Answer": "Yes, all Nikon Z-mount lenses, such as the NIKKOR Z 24-70mm f/2.8 S, are directly compatible with the Z6 III."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "Which Canon EF lenses support in-body image stabilization (IBIS) on the EOS R5?",
+        "Answer": "EF lenses like EF 24-70mm f/2.8L II USM benefit from IBIS on the EOS R5 with an EF-EOS R adapter, but coordinated IS requires RF lenses."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "Do Sony FE lenses maintain full autofocus performance on the Sony a6700?",
+        "Answer": "Yes, Sony FE lenses maintain full autofocus performance on the a6700, but with a 1.5x crop factor due to the APS-C sensor."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "Are Fujifilm GF lenses compatible with the Fujifilm GFX 50S II?",
+        "Answer": "Yes, all Fujifilm GF lenses, such as GF 32-64mm f/4 R LM WR, are fully compatible with the GFX 50S II."
+    },
+    {
+        "Brand": "Panasonic",
+        "Question": "Which Panasonic Lumix S lenses support Dual I.S. 2 on the Lumix S1R II?",
+        "Answer": "Lumix S lenses like S 24-105mm f/4 Macro O.I.S. and S 70-200mm f/4 O.I.S. support Dual I.S. 2 on the S1R II."
+    },
+    {
+        "Brand": "Nikon",
+        "Question": "Can Nikon F-mount lenses be used on the Nikon Z8 with an adapter?",
+        "Answer": "Yes, Nikon F-mount lenses can be used on the Z8 with the FTZ II Mount Adapter, retaining autofocus and exposure control."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "Which Canon RF lenses support 8K video recording on the EOS R5?",
+        "Answer": "All RF lenses support 8K on the EOS R5, including RF 15-35mm f/2.8L IS USM and RF 100-500mm f/4.5-7.1L IS USM."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "Do Sony E-mount lenses support Eye AF on the Sony a7C II?",
+        "Answer": "Yes, all Sony E-mount lenses, such as FE 50mm f/1.8, support Eye AF on the a7C II."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "Which Fujifilm XF lenses support Linear Motor AF on the X-H2S?",
+        "Answer": "XF lenses like XF 18mm f/1.4 R LM WR and XF 33mm f/1.4 R LM WR support Linear Motor AF on the X-H2S."
+    },
+    {
+        "Brand": "Panasonic",
+        "Question": "Are Panasonic Lumix S lenses compatible with the Leica SL3 via L-mount?",
+        "Answer": "Yes, all Lumix S lenses are compatible with the Leica SL3 via the L-mount alliance, retaining full functionality."
+    },
+    {
+        "Brand": "Nikon",
+        "Question": "Which Nikon Z lenses support 4K 120p video recording on the Nikon Z9?",
+        "Answer": "All Nikon Z lenses, including NIKKOR Z 70-200mm f/2.8 VR S, support 4K 120p on the Z9."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "Can Canon RF-S lenses be used on the EOS R5?",
+        "Answer": "Yes, RF-S lenses can be used on the EOS R5, but they create a 1.6x crop factor, reducing resolution to about 17.3MP."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "Which Sony FE lenses support 120fps continuous shooting on the Sony a1?",
+        "Answer": "FE lenses like FE 70-200mm f/2.8 GM OSS II and FE 24-70mm f/2.8 GM II support 120fps on the a1."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "Do Fujifilm XC lenses work with the Fujifilm X-S20?",
+        "Answer": "Yes, all Fujifilm XC lenses, such as XC 15-45mm f/3.5-5.6 OIS PZ, are fully compatible with the X-S20."
+    },
+    {
+        "Brand": "Panasonic",
+        "Question": "Which Panasonic Lumix S lenses support High Resolution mode on the S5 IIX?",
+        "Answer": "All Lumix S lenses, including S 85mm f/1.8, support High Resolution mode on the S5 IIX for up to 96MP stills."
+    },
+    {
+        "Brand": "Nikon",
+        "Question": "Are Nikon Z DX lenses compatible with the Nikon Z7 II?",
+        "Answer": "Yes, Z DX lenses like NIKKOR Z DX 16-50mm f/3.5-6.3 VR work on the Z7 II with a 1.5x crop factor."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "Which Canon EF lenses support Eye Detection AF on the EOS R6 with an adapter?",
+        "Answer": "EF lenses like EF 85mm f/1.8 USM and EF 70-200mm f/2.8L IS II USM support Eye Detection AF on the EOS R6 via an EF-EOS R adapter."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "Do Sony E-mount APS-C lenses work on the Sony a7R V?",
+        "Answer": "Yes, E-mount APS-C lenses work on the a7R V with a 1.5x crop factor, reducing resolution to about 26MP."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "Which Fujifilm GF lenses support 8K video recording on the GFX 100 II?",
+        "Answer": "All GF lenses, including GF 45mm f/2.8 R WR, support 8K video on the GFX 100 II."
+    },
+    {
+        "Brand": "Panasonic",
+        "Question": "Can Panasonic Lumix G lenses be used on the Lumix S5 II with an adapter?",
+        "Answer": "No, Lumix G (Micro Four Thirds) lenses are not compatible with the S5 II (L-mount), even with an adapter, due to different mounts."
+    },
+    {
+        "Brand": "Nikon",
+        "Question": "Which Nikon F-mount lenses support autofocus on the Nikon Zf with the FTZ II adapter?",
+        "Answer": "F-mount AF-S and AF-P lenses, like AF-S NIKKOR 50mm f/1.8G, support autofocus on the Zf with the FTZ II adapter."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "Which Canon RF lenses support the Control Ring function on the EOS R6?",
+        "Answer": "All RF lenses with a control ring, like RF 24-105mm f/4L IS USM, support customizable Control Ring functions on the EOS R6."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "Are Sony FE lenses compatible with the Sony FX3 for video recording?",
+        "Answer": "Yes, all Sony FE lenses, including FE 16-35mm f/2.8 GM, are fully compatible with the FX3 for video."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "Do Fujifilm XF lenses support weather sealing on the X-T50?",
+        "Answer": "Only weather-sealed XF lenses, like XF 16-55mm f/2.8 R LM WR, provide weather resistance when paired with the X-T50."
+    },
+    {
+        "Brand": "Panasonic",
+        "Question": "Which Panasonic L-mount lenses support Dual I.S. 5-axis on the Lumix S1H?",
+        "Answer": "Lumix S lenses like S 24-70mm f/2.8 and S 70-200mm f/2.8 O.I.S. support Dual I.S. 5-axis on the S1H."
+    },
+    {
+        "Brand": "Nikon",
+        "Question": "Can Nikon Z lenses be used on the Nikon D850 with an adapter?",
+        "Answer": "No, Nikon Z lenses cannot be used on the D850, as there is no adapter for Z-mount lenses on F-mount DSLRs."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "Which Canon RF lenses support Nano USM for fast focusing on the EOS R5?",
+        "Answer": "RF lenses like RF 24-240mm f/4-6.3 IS USM and RF 70-200mm f/4L IS USM use Nano USM for fast focusing on the EOS R5."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "Do Sony E-mount lenses support Active SteadyShot on the Sony ZV-E1?",
+        "Answer": "Yes, all E-mount lenses support Active SteadyShot on the ZV-E1, enhancing video stabilization."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "Which Fujifilm XF lenses support 40fps shooting on the X-H2?",
+        "Answer": "XF lenses like XF 50mm f/1.0 R WR and XF 80mm f/2.8 R LM OIS WR Macro support 40fps on the X-H2."
+    },
+    {
+        "Brand": "Panasonic",
+        "Question": "Are Panasonic Lumix S lenses compatible with Sigma L-mount cameras?",
+        "Answer": "Yes, Lumix S lenses are fully compatible with Sigma L-mount cameras like Sigma fp L via the L-mount alliance."
+    },
+    {
+        "Brand": "Nikon",
+        "Question": "Which Nikon Z lenses support Eye-Detection AF on the Z6 III?",
+        "Answer": "All Nikon Z lenses, such as NIKKOR Z 85mm f/1.8 S, support Eye-Detection AF on the Z6 III."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "Can Canon EF-M lenses be used on the EOS R6 with an adapter?",
+        "Answer": "No, EF-M lenses are not compatible with the EOS R6, even with adapters, due to different mount designs."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "Which Sony FE lenses support Breathing Compensation on the Sony a7 IV?",
+        "Answer": "FE lenses like FE 16-35mm f/2.8 GM II and FE 24-70mm f/2.8 GM II support Breathing Compensation on the a7 IV."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "Do Fujifilm GF lenses support Phase Detection AF on the GFX 100S?",
+        "Answer": "Yes, all GF lenses, including GF 80mm f/1.7 R WR, support Phase Detection AF on the GFX 100S."
+    },
+    {
+        "Brand": "Panasonic",
+        "Question": "Which Panasonic Lumix S lenses support 4K 60p video recording on the S5 II?",
+        "Answer": "All S lenses, like S 20-60mm f/3.5-5.6, support 4K 60p on the S5 II."
+    },
+    {
+        "Brand": "Nikon",
+        "Question": "Are Nikon F-mount lenses compatible with the Nikon Z50 with an adapter?",
+        "Answer": "Yes, F-mount lenses are compatible with the Z50 via the FTZ II adapter, but some older lenses may have limited functionality."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "Which Canon RF lenses support 5-axis IBIS on the EOS R6?",
+        "Answer": "All RF lenses, such as RF 28-70mm f/2L USM, support 5-axis IBIS on the EOS R6, enhancing stabilization with IS-equipped lenses."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "Do Sony E-mount lenses support Animal Eye AF on the Sony a7R IV?",
+        "Answer": "Yes, all E-mount lenses, including FE 200-600mm f/5.6-6.3 G OSS, support Animal Eye AF on the a7R IV."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "Which Fujifilm XF lenses support macro shooting on the X-T4?",
+        "Answer": "XF lenses like XF 80mm f/2.8 R LM OIS WR Macro and XF 60mm f/2.4 R Macro are designed for macro shooting on the X-T4."
+    },
+    {
+        "Brand": "Panasonic",
+        "Question": "Can Panasonic Lumix S lenses be used on the Blackmagic Pocket Cinema Camera 6K Pro?",
+        "Answer": "Yes, Lumix S lenses can be used on the Blackmagic Pocket Cinema Camera 6K Pro with an L-mount adapter."
+    },
+    {
+        "Brand": "Nikon",
+        "Question": "Which Nikon Z lenses support weather sealing on the Z8?",
+        "Answer": "Z lenses like NIKKOR Z 24-120mm f/4 S and NIKKOR Z 100-400mm f/4.5-5.6 VR S are weather-sealed on the Z8."
+    },
+    {
+        "Brand": "Canon",
+        "Question": "Which Canon EF lenses support Servo AF on the EOS R5 with an adapter?",
+        "Answer": "EF lenses like EF 70-200mm f/2.8L IS III USM support Servo AF on the EOS R5 via an EF-EOS R adapter."
+    },
+    {
+        "Brand": "Sony",
+        "Question": "Are Sony FE lenses compatible with the Sony a9 III for high-speed shooting?",
+        "Answer": "Yes, all FE lenses, including FE 300mm f/2.8 GM OSS, support high-speed shooting up to 120fps on the a9 III."
+    },
+    {
+        "Brand": "Fujifilm",
+        "Question": "Do Fujifilm XF lenses support film simulation modes on the X-E4?",
+        "Answer": "Yes, all XF lenses, like XF 35mm f/1.4 R, support film simulation modes on the X-E4 for consistent color reproduction."
+    },
+    {
+        "Brand": "Panasonic",
+        "Question": "Which Panasonic L-mount lenses support Real-time LUT on the Lumix S5 IIX?",
+        "Answer": "All Lumix S lenses, including S 35mm f/1.8, support Real-time LUT for video on the S5 IIX."
+    }
+]

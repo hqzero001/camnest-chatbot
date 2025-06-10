@@ -1,0 +1,5808 @@
+[
+    {
+        "processed_text": "Ống kính nào hỗ trợ lấy nét thủ công toàn thời gian trên EOS-1D X Mark III?",
+        "tokens": [
+            "ống_kính",
+            "hỗ_trợ",
+            "lấy",
+            "nét",
+            "thủ_công"
+        ],
+        "token_frequency": {
+            "ống_kính": 1,
+            "hỗ_trợ": 1,
+            "lấy": 1,
+            "nét": 1,
+            "thủ_công": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Danh sách ống kính tương thích với [Chế độ MF điện tử toàn thời gian] (EOS R5 / EOS R6)",
+        "tokens": [
+            "sách",
+            "ống_kính",
+            "tương_thích",
+            "chế_độ",
+            "điện_tử",
+            "he_thong_quang_hoc_dien_tu"
+        ],
+        "token_frequency": {
+            "sách": 1,
+            "ống_kính": 1,
+            "tương_thích": 1,
+            "chế_độ": 1,
+            "điện_tử": 1,
+            "he_thong_quang_hoc_dien_tu": 2
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Ống kính nào tương thích với đèn flash MR-14EX II?",
+        "tokens": [
+            "ống_kính",
+            "tương_thích",
+            "đèn"
+        ],
+        "token_frequency": {
+            "ống_kính": 1,
+            "tương_thích": 1,
+            "đèn": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Ống kính nào có thể gắn vào MT-26EX-RT để chụp macro?",
+        "tokens": [
+            "ống_kính",
+            "gắn",
+            "chụp"
+        ],
+        "token_frequency": {
+            "ống_kính": 1,
+            "gắn": 1,
+            "chụp": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Loại ống kính nào dùng được với máy ảnh mirrorless Fujifilm?",
+        "tokens": [
+            "ống_kính",
+            "dùng",
+            "máy_ảnh",
+            "khong_guong_lat",
+            "fujifilm"
+        ],
+        "token_frequency": {
+            "ống_kính": 1,
+            "dùng": 1,
+            "máy_ảnh": 1,
+            "khong_guong_lat": 1,
+            "fujifilm": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Phụ kiện nào tương thích với Fujifilm X100, X100F hoặc X100V?",
+        "tokens": [
+            "phụ_kiện",
+            "tương_thích",
+            "fujifilm"
+        ],
+        "token_frequency": {
+            "phụ_kiện": 1,
+            "tương_thích": 1,
+            "fujifilm": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Ống kính nào tương thích với Canon EOS M50 Mark II?",
+        "tokens": [
+            "ống_kính",
+            "tương_thích",
+            "canon",
+            "he_thong_quang_hoc_dien_tu"
+        ],
+        "token_frequency": {
+            "ống_kính": 1,
+            "tương_thích": 1,
+            "canon": 1,
+            "he_thong_quang_hoc_dien_tu": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Đèn flash nào được hỗ trợ bởi Nikon Z6 II?",
+        "tokens": [
+            "đèn",
+            "hỗ_trợ",
+            "nikon"
+        ],
+        "token_frequency": {
+            "đèn": 1,
+            "hỗ_trợ": 1,
+            "nikon": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Ống kính EF-S có tương thích với Canon EOS 90D không?",
+        "tokens": [
+            "ống_kính",
+            "tương_thích",
+            "canon",
+            "he_thong_quang_hoc_dien_tu"
+        ],
+        "token_frequency": {
+            "ống_kính": 1,
+            "tương_thích": 1,
+            "canon": 1,
+            "he_thong_quang_hoc_dien_tu": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Tôi có thể dùng ống kính RF trên Canon EOS R7 không?",
+        "tokens": [
+            "dùng",
+            "ống_kính",
+            "ong_kinh_rf",
+            "canon",
+            "he_thong_quang_hoc_dien_tu"
+        ],
+        "token_frequency": {
+            "dùng": 1,
+            "ống_kính": 1,
+            "ong_kinh_rf": 1,
+            "canon": 1,
+            "he_thong_quang_hoc_dien_tu": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Micro ngoài nào tương thích với Sony ZV-E10?",
+        "tokens": [
+            "tương_thích",
+            "sony"
+        ],
+        "token_frequency": {
+            "tương_thích": 1,
+            "sony": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Grip pin nào dùng được với Nikon D850?",
+        "tokens": [
+            "dùng",
+            "nikon"
+        ],
+        "token_frequency": {
+            "dùng": 1,
+            "nikon": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Fujifilm X-T30 có tương thích với đèn flash EF-X8 không?",
+        "tokens": [
+            "fujifilm",
+            "tương_thích",
+            "đèn"
+        ],
+        "token_frequency": {
+            "fujifilm": 1,
+            "tương_thích": 1,
+            "đèn": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Canon EOS R6 có hỗ trợ grip pin BG-R10 không?",
+        "tokens": [
+            "canon",
+            "he_thong_quang_hoc_dien_tu",
+            "hỗ_trợ"
+        ],
+        "token_frequency": {
+            "canon": 1,
+            "he_thong_quang_hoc_dien_tu": 1,
+            "hỗ_trợ": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Ống kính nào hỗ trợ chế độ panning trên EOS M50 Mark II?",
+        "tokens": [
+            "ống_kính",
+            "hỗ_trợ",
+            "chế_độ",
+            "he_thong_quang_hoc_dien_tu"
+        ],
+        "token_frequency": {
+            "ống_kính": 1,
+            "hỗ_trợ": 1,
+            "chế_độ": 1,
+            "he_thong_quang_hoc_dien_tu": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Tôi có thể dùng ống kính EF trên máy mirrorless Canon với adapter không?",
+        "tokens": [
+            "dùng",
+            "ống_kính",
+            "ong_kinh_ef",
+            "máy",
+            "khong_guong_lat",
+            "canon"
+        ],
+        "token_frequency": {
+            "dùng": 1,
+            "ống_kính": 1,
+            "ong_kinh_ef": 1,
+            "máy": 1,
+            "khong_guong_lat": 1,
+            "canon": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Loại thẻ SD nào tương thích với Sony A7 IV?",
+        "tokens": [
+            "thẻ",
+            "the_sd",
+            "tương_thích",
+            "sony"
+        ],
+        "token_frequency": {
+            "thẻ": 1,
+            "the_sd": 1,
+            "tương_thích": 1,
+            "sony": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Ống kính nào tương thích với Dual Pixel CMOS AF trên Canon EOS R10?",
+        "tokens": [
+            "ống_kính",
+            "tương_thích",
+            "cam_bien_cmos",
+            "lay_net_tu_dong",
+            "canon",
+            "he_thong_quang_hoc_dien_tu"
+        ],
+        "token_frequency": {
+            "ống_kính": 1,
+            "tương_thích": 1,
+            "cam_bien_cmos": 1,
+            "lay_net_tu_dong": 1,
+            "canon": 1,
+            "he_thong_quang_hoc_dien_tu": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Tôi có thể dùng ống kính Nikon F-mount cũ với Nikon Z8 không?",
+        "tokens": [
+            "dùng",
+            "ống_kính",
+            "nikon",
+            "cũ"
+        ],
+        "token_frequency": {
+            "dùng": 1,
+            "ống_kính": 1,
+            "nikon": 2,
+            "cũ": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Loại kính ngắm nào tương thích với Olympus OM-D E-M10 Mark IV?",
+        "tokens": [
+            "kính",
+            "ngắm",
+            "tương_thích"
+        ],
+        "token_frequency": {
+            "kính": 1,
+            "ngắm": 1,
+            "tương_thích": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Đèn flash nào tương thích với Panasonic Lumix G9?",
+        "tokens": [
+            "đèn",
+            "tương_thích",
+            "panasonic"
+        ],
+        "token_frequency": {
+            "đèn": 1,
+            "tương_thích": 1,
+            "panasonic": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Sony A6400 có hỗ trợ thẻ nhớ UHS-II không?",
+        "tokens": [
+            "sony",
+            "hỗ_trợ",
+            "thẻ_nhớ"
+        ],
+        "token_frequency": {
+            "sony": 1,
+            "hỗ_trợ": 1,
+            "thẻ_nhớ": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Ống kính Leica M có tương thích với Leica SL2 khi dùng adapter không?",
+        "tokens": [
+            "ống_kính",
+            "tương_thích",
+            "dùng"
+        ],
+        "token_frequency": {
+            "ống_kính": 1,
+            "tương_thích": 1,
+            "dùng": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Tôi có thể gắn ống kính EF lên Canon EOS R10 mà không mất autofocus không?",
+        "tokens": [
+            "gắn",
+            "ống_kính",
+            "ong_kinh_ef",
+            "canon",
+            "he_thong_quang_hoc_dien_tu",
+            "mất"
+        ],
+        "token_frequency": {
+            "gắn": 1,
+            "ống_kính": 1,
+            "ong_kinh_ef": 1,
+            "canon": 1,
+            "he_thong_quang_hoc_dien_tu": 1,
+            "mất": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Adapter ống kính nào được hỗ trợ bởi Fujifilm X-H2S?",
+        "tokens": [
+            "ống_kính",
+            "hỗ_trợ",
+            "fujifilm"
+        ],
+        "token_frequency": {
+            "ống_kính": 1,
+            "hỗ_trợ": 1,
+            "fujifilm": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Canon Speedlite 430EX III có tương thích với EOS Rebel T8i không?",
+        "tokens": [
+            "canon",
+            "tương_thích",
+            "he_thong_quang_hoc_dien_tu"
+        ],
+        "token_frequency": {
+            "canon": 1,
+            "tương_thích": 1,
+            "he_thong_quang_hoc_dien_tu": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Gimbal nào tương thích với Sony A7C?",
+        "tokens": [
+            "tương_thích",
+            "sony"
+        ],
+        "token_frequency": {
+            "tương_thích": 1,
+            "sony": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Tôi có thể dùng Rode Wireless GO II với Nikon Z50 không?",
+        "tokens": [
+            "dùng",
+            "nikon"
+        ],
+        "token_frequency": {
+            "dùng": 1,
+            "nikon": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Remote không dây nào tương thích với Canon EOS 5D Mark IV?",
+        "tokens": [
+            "dây",
+            "tương_thích",
+            "canon",
+            "he_thong_quang_hoc_dien_tu"
+        ],
+        "token_frequency": {
+            "dây": 1,
+            "tương_thích": 1,
+            "canon": 1,
+            "he_thong_quang_hoc_dien_tu": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Pin của hãng khác có dùng được với Sony A7 III không?",
+        "tokens": [
+            "hãng",
+            "dùng",
+            "sony"
+        ],
+        "token_frequency": {
+            "hãng": 1,
+            "dùng": 1,
+            "sony": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Tôi có thể dùng ống kính Micro Four Thirds trên Panasonic GH6 không?",
+        "tokens": [
+            "dùng",
+            "ống_kính",
+            "panasonic"
+        ],
+        "token_frequency": {
+            "dùng": 1,
+            "ống_kính": 1,
+            "panasonic": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Tripod nào phù hợp với Nikon D750 và ống kính 70-200mm?",
+        "tokens": [
+            "phù_hợp",
+            "nikon",
+            "ống_kính"
+        ],
+        "token_frequency": {
+            "phù_hợp": 1,
+            "nikon": 1,
+            "ống_kính": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Canon EOS R5 có hỗ trợ màn hình ngoài qua HDMI không?",
+        "tokens": [
+            "canon",
+            "he_thong_quang_hoc_dien_tu",
+            "hỗ_trợ",
+            "màn_hình"
+        ],
+        "token_frequency": {
+            "canon": 1,
+            "he_thong_quang_hoc_dien_tu": 1,
+            "hỗ_trợ": 1,
+            "màn_hình": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Hood ống kính nào tương thích với RF24-70mm F2.8L IS USM?",
+        "tokens": [
+            "ống_kính",
+            "tương_thích",
+            "chong_rung",
+            "dong_co_sieu_am"
+        ],
+        "token_frequency": {
+            "ống_kính": 1,
+            "tương_thích": 1,
+            "chong_rung": 1,
+            "dong_co_sieu_am": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Kính lọc ND nào dùng được với Fujifilm XF 16mm f/1.4?",
+        "tokens": [
+            "kính",
+            "lọc",
+            "dùng",
+            "fujifilm"
+        ],
+        "token_frequency": {
+            "kính": 1,
+            "lọc": 1,
+            "dùng": 1,
+            "fujifilm": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Tôi có thể dùng trigger flash với máy mirrorless Sony không?",
+        "tokens": [
+            "dùng",
+            "máy",
+            "khong_guong_lat",
+            "sony"
+        ],
+        "token_frequency": {
+            "dùng": 1,
+            "máy": 1,
+            "khong_guong_lat": 1,
+            "sony": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Cáp đồng bộ flash nào tương thích với Canon 6D Mark II?",
+        "tokens": [
+            "cáp",
+            "đồng_bộ",
+            "tương_thích",
+            "canon"
+        ],
+        "token_frequency": {
+            "cáp": 1,
+            "đồng_bộ": 1,
+            "tương_thích": 1,
+            "canon": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Intervalometer nào tương thích với Nikon D780?",
+        "tokens": [
+            "tương_thích",
+            "nikon"
+        ],
+        "token_frequency": {
+            "tương_thích": 1,
+            "nikon": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "EOS R có hỗ trợ ống kính EF-S không?",
+        "tokens": [
+            "he_thong_quang_hoc_dien_tu",
+            "hỗ_trợ",
+            "ống_kính"
+        ],
+        "token_frequency": {
+            "he_thong_quang_hoc_dien_tu": 1,
+            "hỗ_trợ": 1,
+            "ống_kính": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Tôi có thể dùng đèn flash Canon 600EX II-RT với EOS R6 không?",
+        "tokens": [
+            "dùng",
+            "đèn",
+            "canon",
+            "he_thong_quang_hoc_dien_tu"
+        ],
+        "token_frequency": {
+            "dùng": 1,
+            "đèn": 1,
+            "canon": 1,
+            "he_thong_quang_hoc_dien_tu": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Đèn flash Nikon SB-700 có tương thích với Nikon Z7 II không?",
+        "tokens": [
+            "đèn",
+            "nikon",
+            "tương_thích"
+        ],
+        "token_frequency": {
+            "đèn": 1,
+            "nikon": 2,
+            "tương_thích": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Ống kính nào dùng được với Sony FX30?",
+        "tokens": [
+            "ống_kính",
+            "dùng",
+            "sony"
+        ],
+        "token_frequency": {
+            "ống_kính": 1,
+            "dùng": 1,
+            "sony": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Ống kính RF-S có tương thích với máy full-frame Canon không?",
+        "tokens": [
+            "ống_kính",
+            "tương_thích",
+            "máy",
+            "canon"
+        ],
+        "token_frequency": {
+            "ống_kính": 1,
+            "tương_thích": 1,
+            "máy": 1,
+            "canon": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Fujifilm X-T5 có dùng được ống kính manual focus của hãng khác không?",
+        "tokens": [
+            "fujifilm",
+            "dùng",
+            "ống_kính",
+            "hãng"
+        ],
+        "token_frequency": {
+            "fujifilm": 1,
+            "dùng": 1,
+            "ống_kính": 1,
+            "hãng": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Ống kính nào hỗ trợ lấy nét mắt (eye AF) trên Sony A7R V?",
+        "tokens": [
+            "ống_kính",
+            "hỗ_trợ",
+            "lấy",
+            "nét",
+            "mắt",
+            "lay_net_tu_dong",
+            "sony"
+        ],
+        "token_frequency": {
+            "ống_kính": 1,
+            "hỗ_trợ": 1,
+            "lấy": 1,
+            "nét": 1,
+            "mắt": 1,
+            "lay_net_tu_dong": 1,
+            "sony": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Canon EOS M200 có tương thích với ống kính EF-M 22mm không?",
+        "tokens": [
+            "canon",
+            "he_thong_quang_hoc_dien_tu",
+            "tương_thích",
+            "ống_kính"
+        ],
+        "token_frequency": {
+            "canon": 1,
+            "he_thong_quang_hoc_dien_tu": 1,
+            "tương_thích": 1,
+            "ống_kính": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Micro nào có thể kết nối với Canon EOS R50?",
+        "tokens": [
+            "kết_nối",
+            "canon",
+            "he_thong_quang_hoc_dien_tu"
+        ],
+        "token_frequency": {
+            "kết_nối": 1,
+            "canon": 1,
+            "he_thong_quang_hoc_dien_tu": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Pin Nikon EN-EL15c có dùng được trên Z8 và Z6 II không?",
+        "tokens": [
+            "nikon",
+            "dùng"
+        ],
+        "token_frequency": {
+            "nikon": 1,
+            "dùng": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Tôi có thể dùng ống kính EF 50mm f/1.4 với Canon EOS R qua adapter không?",
+        "tokens": [
+            "dùng",
+            "ống_kính",
+            "canon",
+            "he_thong_quang_hoc_dien_tu"
+        ],
+        "token_frequency": {
+            "dùng": 1,
+            "ống_kính": 1,
+            "canon": 1,
+            "he_thong_quang_hoc_dien_tu": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Máy Canon nào tương thích với Speedlite EL-1?",
+        "tokens": [
+            "máy",
+            "canon",
+            "tương_thích"
+        ],
+        "token_frequency": {
+            "máy": 1,
+            "canon": 1,
+            "tương_thích": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Đèn flash nào tương thích với Fujifilm X-H2?",
+        "tokens": [
+            "đèn",
+            "tương_thích",
+            "fujifilm"
+        ],
+        "token_frequency": {
+            "đèn": 1,
+            "tương_thích": 1,
+            "fujifilm": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Sony A6400 có dùng adapter LA-EA5 cho ống kính A-mount không?",
+        "tokens": [
+            "sony",
+            "dùng",
+            "ống_kính"
+        ],
+        "token_frequency": {
+            "sony": 1,
+            "dùng": 1,
+            "ống_kính": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Panasonic S5 II có tương thích với ống kính Leica L-mount không?",
+        "tokens": [
+            "panasonic",
+            "tương_thích",
+            "ống_kính"
+        ],
+        "token_frequency": {
+            "panasonic": 1,
+            "tương_thích": 1,
+            "ống_kính": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Ống kính nào tương thích với hệ thống Dual IS của Canon?",
+        "tokens": [
+            "ống_kính",
+            "tương_thích",
+            "hệ_thống",
+            "chong_rung",
+            "canon"
+        ],
+        "token_frequency": {
+            "ống_kính": 1,
+            "tương_thích": 1,
+            "hệ_thống": 1,
+            "chong_rung": 1,
+            "canon": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Tôi có thể gắn remote chụp không dây vào Fujifilm X-T4 không?",
+        "tokens": [
+            "gắn",
+            "chụp",
+            "dây",
+            "fujifilm"
+        ],
+        "token_frequency": {
+            "gắn": 1,
+            "chụp": 1,
+            "dây": 1,
+            "fujifilm": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Máy Canon nào tương thích với bộ thu GPS GP-E2?",
+        "tokens": [
+            "máy",
+            "canon",
+            "tương_thích"
+        ],
+        "token_frequency": {
+            "máy": 1,
+            "canon": 1,
+            "tương_thích": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Nikon D7500 có hỗ trợ ghi hình qua HDMI ngoài không?",
+        "tokens": [
+            "nikon",
+            "hỗ_trợ"
+        ],
+        "token_frequency": {
+            "nikon": 1,
+            "hỗ_trợ": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Máy Fujifilm nào hỗ trợ TTL với đèn Godox?",
+        "tokens": [
+            "máy",
+            "fujifilm",
+            "hỗ_trợ",
+            "đèn"
+        ],
+        "token_frequency": {
+            "máy": 1,
+            "fujifilm": 1,
+            "hỗ_trợ": 1,
+            "đèn": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Ống kính Nikkor AF-D cũ có tương thích với Nikon Z fc không?",
+        "tokens": [
+            "ống_kính",
+            "cũ",
+            "tương_thích",
+            "nikon"
+        ],
+        "token_frequency": {
+            "ống_kính": 1,
+            "cũ": 1,
+            "tương_thích": 1,
+            "nikon": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Tôi có thể dùng Tamron 28-75mm trên Sony A7 IV không?",
+        "tokens": [
+            "dùng",
+            "sony"
+        ],
+        "token_frequency": {
+            "dùng": 1,
+            "sony": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Canon EOS R8 có tương thích với ống kính RF 85mm f/2 không?",
+        "tokens": [
+            "canon",
+            "he_thong_quang_hoc_dien_tu",
+            "tương_thích",
+            "ống_kính"
+        ],
+        "token_frequency": {
+            "canon": 1,
+            "he_thong_quang_hoc_dien_tu": 1,
+            "tương_thích": 1,
+            "ống_kính": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Nikon Z30 có hỗ trợ micro stereo ME-1 không?",
+        "tokens": [
+            "nikon",
+            "hỗ_trợ"
+        ],
+        "token_frequency": {
+            "nikon": 1,
+            "hỗ_trợ": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Tôi có thể dùng thẻ UHS-I trên Canon EOS R100 không?",
+        "tokens": [
+            "dùng",
+            "thẻ",
+            "canon",
+            "he_thong_quang_hoc_dien_tu"
+        ],
+        "token_frequency": {
+            "dùng": 1,
+            "thẻ": 1,
+            "canon": 1,
+            "he_thong_quang_hoc_dien_tu": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Ống kính Canon EF 70-200mm có tương thích với EOS R3 không?",
+        "tokens": [
+            "ống_kính",
+            "canon",
+            "tương_thích",
+            "he_thong_quang_hoc_dien_tu"
+        ],
+        "token_frequency": {
+            "ống_kính": 1,
+            "canon": 1,
+            "tương_thích": 1,
+            "he_thong_quang_hoc_dien_tu": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Grip dọc nào dùng được với Sony A9 II?",
+        "tokens": [
+            "dọc",
+            "dùng",
+            "sony"
+        ],
+        "token_frequency": {
+            "dọc": 1,
+            "dùng": 1,
+            "sony": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Tôi có thể dùng Godox V860III với máy mirrorless Canon không?",
+        "tokens": [
+            "dùng",
+            "máy",
+            "khong_guong_lat",
+            "canon"
+        ],
+        "token_frequency": {
+            "dùng": 1,
+            "máy": 1,
+            "khong_guong_lat": 1,
+            "canon": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Fujifilm X-S20 có hỗ trợ đèn flash EF-X500 không?",
+        "tokens": [
+            "fujifilm",
+            "hỗ_trợ",
+            "đèn"
+        ],
+        "token_frequency": {
+            "fujifilm": 1,
+            "hỗ_trợ": 1,
+            "đèn": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Máy ảnh nào tương thích với remote Canon BR-E1?",
+        "tokens": [
+            "máy_ảnh",
+            "tương_thích",
+            "canon"
+        ],
+        "token_frequency": {
+            "máy_ảnh": 1,
+            "tương_thích": 1,
+            "canon": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Làm thế nào để kiểm tra tình trạng bảo hành của máy ảnh?",
+        "tokens": [
+            "kiểm",
+            "tình_trạng",
+            "bảo_hành",
+            "máy_ảnh"
+        ],
+        "token_frequency": {
+            "kiểm": 1,
+            "tình_trạng": 1,
+            "bảo_hành": 1,
+            "máy_ảnh": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Bảo hành tiêu chuẩn cho máy ảnh bao gồm những gì?",
+        "tokens": [
+            "bảo_hành",
+            "tiêu_chuẩn",
+            "máy_ảnh",
+            "gồm"
+        ],
+        "token_frequency": {
+            "bảo_hành": 1,
+            "tiêu_chuẩn": 1,
+            "máy_ảnh": 1,
+            "gồm": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Thời gian bảo hành của nhà sản xuất cho máy Canon là bao lâu?",
+        "tokens": [
+            "bảo_hành",
+            "sản_xuất",
+            "máy",
+            "canon"
+        ],
+        "token_frequency": {
+            "bảo_hành": 1,
+            "sản_xuất": 1,
+            "máy": 1,
+            "canon": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Tôi có thể gia hạn thời gian bảo hành cho máy Nikon không?",
+        "tokens": [
+            "hạn",
+            "bảo_hành",
+            "máy",
+            "nikon"
+        ],
+        "token_frequency": {
+            "hạn": 1,
+            "bảo_hành": 1,
+            "máy": 1,
+            "nikon": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Nếu máy ảnh bị hỏng trong thời gian bảo hành tôi nên làm gì?",
+        "tokens": [
+            "máy_ảnh",
+            "hỏng",
+            "bảo_hành"
+        ],
+        "token_frequency": {
+            "máy_ảnh": 1,
+            "hỏng": 1,
+            "bảo_hành": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Tôi có thể tìm trung tâm bảo hành ủy quyền ở đâu?",
+        "tokens": [
+            "tìm",
+            "bảo_hành",
+            "ủy",
+            "quyền"
+        ],
+        "token_frequency": {
+            "tìm": 1,
+            "bảo_hành": 1,
+            "ủy": 1,
+            "quyền": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Tôi có cần giữ hóa đơn mua hàng để yêu cầu bảo hành không?",
+        "tokens": [
+            "giữ",
+            "hóa",
+            "đơn",
+            "hàng",
+            "yêu_cầu",
+            "bảo_hành"
+        ],
+        "token_frequency": {
+            "giữ": 1,
+            "hóa": 1,
+            "đơn": 1,
+            "hàng": 1,
+            "yêu_cầu": 1,
+            "bảo_hành": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Bảo hành có bao gồm hư hỏng do tai nạn không?",
+        "tokens": [
+            "bảo_hành",
+            "gồm",
+            "hư_hỏng",
+            "nạn"
+        ],
+        "token_frequency": {
+            "bảo_hành": 1,
+            "gồm": 1,
+            "hư_hỏng": 1,
+            "nạn": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Làm sao để đăng ký bảo hành cho máy Sony của tôi?",
+        "tokens": [
+            "đăng_ký",
+            "bảo_hành",
+            "máy",
+            "sony"
+        ],
+        "token_frequency": {
+            "đăng_ký": 1,
+            "bảo_hành": 1,
+            "máy": 1,
+            "sony": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Các bước để yêu cầu dịch vụ bảo hành cho máy Fujifilm là gì?",
+        "tokens": [
+            "bước",
+            "yêu_cầu",
+            "dịch_vụ",
+            "bảo_hành",
+            "máy",
+            "fujifilm"
+        ],
+        "token_frequency": {
+            "bước": 1,
+            "yêu_cầu": 1,
+            "dịch_vụ": 1,
+            "bảo_hành": 1,
+            "máy": 1,
+            "fujifilm": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Sử dụng phụ kiện bên thứ ba có làm mất bảo hành không?",
+        "tokens": [
+            "sử_dụng",
+            "phụ_kiện",
+            "bên",
+            "thứ",
+            "mất",
+            "bảo_hành"
+        ],
+        "token_frequency": {
+            "sử_dụng": 1,
+            "phụ_kiện": 1,
+            "bên": 1,
+            "thứ": 1,
+            "mất": 1,
+            "bảo_hành": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Tôi có thể chuyển bảo hành cho người khác nếu bán máy không?",
+        "tokens": [
+            "chuyển",
+            "bảo_hành",
+            "bán",
+            "máy"
+        ],
+        "token_frequency": {
+            "chuyển": 1,
+            "bảo_hành": 1,
+            "bán": 1,
+            "máy": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Thời gian sửa chữa máy ảnh trong bảo hành mất bao lâu?",
+        "tokens": [
+            "sửa_chữa",
+            "máy_ảnh",
+            "bảo_hành",
+            "mất"
+        ],
+        "token_frequency": {
+            "sửa_chữa": 1,
+            "máy_ảnh": 1,
+            "bảo_hành": 1,
+            "mất": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Những giấy tờ nào cần thiết khi làm dịch vụ bảo hành?",
+        "tokens": [
+            "giấy_tờ",
+            "cần_thiết",
+            "dịch_vụ",
+            "bảo_hành"
+        ],
+        "token_frequency": {
+            "giấy_tờ": 1,
+            "cần_thiết": 1,
+            "dịch_vụ": 1,
+            "bảo_hành": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Những trường hợp nào không được bảo hành cho máy ảnh?",
+        "tokens": [
+            "trường_hợp",
+            "bảo_hành",
+            "máy_ảnh"
+        ],
+        "token_frequency": {
+            "trường_hợp": 1,
+            "bảo_hành": 1,
+            "máy_ảnh": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Tôi có được bảo hành nếu mua máy từ các chợ trực tuyến không?",
+        "tokens": [
+            "bảo_hành",
+            "máy",
+            "chợ",
+            "trực_tuyến"
+        ],
+        "token_frequency": {
+            "bảo_hành": 1,
+            "máy": 1,
+            "chợ": 1,
+            "trực_tuyến": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Bảo hành có bao gồm cập nhật firmware hoặc sửa lỗi phần mềm không?",
+        "tokens": [
+            "bảo_hành",
+            "gồm",
+            "cập_nhật",
+            "sửa",
+            "lỗi",
+            "phần_mềm"
+        ],
+        "token_frequency": {
+            "bảo_hành": 1,
+            "gồm": 1,
+            "cập_nhật": 1,
+            "sửa": 1,
+            "lỗi": 1,
+            "phần_mềm": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Nếu trung tâm bảo hành từ chối, tôi có thể khiếu nại như thế nào?",
+        "tokens": [
+            "bảo_hành",
+            "từ_chối",
+            "khiếu_nại"
+        ],
+        "token_frequency": {
+            "bảo_hành": 1,
+            "từ_chối": 1,
+            "khiếu_nại": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Pin có được bảo hành theo máy ảnh không?",
+        "tokens": [
+            "bảo_hành",
+            "máy_ảnh"
+        ],
+        "token_frequency": {
+            "bảo_hành": 1,
+            "máy_ảnh": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Nếu bảo hành đã hết hạn nhưng máy vẫn bị lỗi thì sao?",
+        "tokens": [
+            "bảo_hành",
+            "hạn",
+            "máy",
+            "lỗi"
+        ],
+        "token_frequency": {
+            "bảo_hành": 1,
+            "hạn": 1,
+            "máy": 1,
+            "lỗi": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Tôi có thể được đổi máy mới nếu sửa chữa bảo hành thất bại không?",
+        "tokens": [
+            "đổi",
+            "máy",
+            "sửa_chữa",
+            "bảo_hành",
+            "thất_bại"
+        ],
+        "token_frequency": {
+            "đổi": 1,
+            "máy": 1,
+            "sửa_chữa": 1,
+            "bảo_hành": 1,
+            "thất_bại": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Làm sao để kiểm tra ngày hết hạn bảo hành qua số serial máy?",
+        "tokens": [
+            "kiểm",
+            "hạn",
+            "bảo_hành",
+            "máy"
+        ],
+        "token_frequency": {
+            "kiểm": 1,
+            "hạn": 1,
+            "bảo_hành": 1,
+            "máy": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Máy đã qua tân trang có được bảo hành không?",
+        "tokens": [
+            "máy",
+            "tân",
+            "bảo_hành"
+        ],
+        "token_frequency": {
+            "máy": 1,
+            "tân": 1,
+            "bảo_hành": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Máy ảnh chống nước có được bảo hành hư hỏng do nước không?",
+        "tokens": [
+            "máy_ảnh",
+            "chống",
+            "nước",
+            "bảo_hành",
+            "hư_hỏng"
+        ],
+        "token_frequency": {
+            "máy_ảnh": 1,
+            "chống": 1,
+            "nước": 2,
+            "bảo_hành": 1,
+            "hư_hỏng": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Tôi có phải đăng ký bảo hành trực tuyến hay chỉ cần giữ hóa đơn?",
+        "tokens": [
+            "đăng_ký",
+            "bảo_hành",
+            "trực_tuyến",
+            "giữ",
+            "hóa_đơn"
+        ],
+        "token_frequency": {
+            "đăng_ký": 1,
+            "bảo_hành": 1,
+            "trực_tuyến": 1,
+            "giữ": 1,
+            "hóa_đơn": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Sửa chữa không chính hãng có làm mất bảo hành không?",
+        "tokens": [
+            "sửa_chữa",
+            "hãng",
+            "mất",
+            "bảo_hành"
+        ],
+        "token_frequency": {
+            "sửa_chữa": 1,
+            "hãng": 1,
+            "mất": 1,
+            "bảo_hành": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Sự khác biệt giữa bảo hành nhà sản xuất và bảo hành nhà bán lẻ là gì?",
+        "tokens": [
+            "khác_biệt",
+            "bảo_hành",
+            "sản_xuất",
+            "bán_lẻ"
+        ],
+        "token_frequency": {
+            "khác_biệt": 1,
+            "bảo_hành": 2,
+            "sản_xuất": 1,
+            "bán_lẻ": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Tôi có thể làm dịch vụ bảo hành ở bất kỳ trung tâm ủy quyền nào trên thế giới không?",
+        "tokens": [
+            "dịch_vụ",
+            "bảo_hành",
+            "ủy",
+            "quyền",
+            "thế_giới"
+        ],
+        "token_frequency": {
+            "dịch_vụ": 1,
+            "bảo_hành": 1,
+            "ủy": 1,
+            "quyền": 1,
+            "thế_giới": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Bảo hành có bao gồm sửa chữa hoặc thay thế ống kính không?",
+        "tokens": [
+            "bảo_hành",
+            "gồm",
+            "sửa_chữa",
+            "ống_kính"
+        ],
+        "token_frequency": {
+            "bảo_hành": 1,
+            "gồm": 1,
+            "sửa_chữa": 1,
+            "ống_kính": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Có sự khác biệt về bảo hành giữa các vùng địa lý không?",
+        "tokens": [
+            "khác_biệt",
+            "bảo_hành",
+            "vùng",
+            "địa_lý"
+        ],
+        "token_frequency": {
+            "khác_biệt": 1,
+            "bảo_hành": 1,
+            "vùng": 1,
+            "địa_lý": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Nếu tôi mất thẻ bảo hành thì sao?",
+        "tokens": [
+            "mất",
+            "thẻ",
+            "bảo_hành"
+        ],
+        "token_frequency": {
+            "mất": 1,
+            "thẻ": 1,
+            "bảo_hành": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Làm sao để tìm điều khoản bảo hành cho mẫu máy của tôi?",
+        "tokens": [
+            "tìm",
+            "điều_khoản",
+            "bảo_hành",
+            "mẫu",
+            "máy"
+        ],
+        "token_frequency": {
+            "tìm": 1,
+            "điều_khoản": 1,
+            "bảo_hành": 1,
+            "mẫu": 1,
+            "máy": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Tôi có thể mua thêm gói bảo hành mở rộng từ nhà sản xuất không?",
+        "tokens": [
+            "thêm",
+            "gói",
+            "bảo_hành",
+            "mở_rộng",
+            "sản_xuất"
+        ],
+        "token_frequency": {
+            "thêm": 1,
+            "gói": 1,
+            "bảo_hành": 1,
+            "mở_rộng": 1,
+            "sản_xuất": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Chính sách bảo hành cho máy mua ở nước ngoài như thế nào?",
+        "tokens": [
+            "chính_sách",
+            "bảo_hành",
+            "máy",
+            "nước_ngoài"
+        ],
+        "token_frequency": {
+            "chính_sách": 1,
+            "bảo_hành": 1,
+            "máy": 1,
+            "nước_ngoài": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Làm sao để báo cáo gian lận bảo hành hoặc sản phẩm giả?",
+        "tokens": [
+            "báo_cáo",
+            "lận",
+            "bảo_hành",
+            "sản_phẩm",
+            "giả"
+        ],
+        "token_frequency": {
+            "báo_cáo": 1,
+            "lận": 1,
+            "bảo_hành": 1,
+            "sản_phẩm": 1,
+            "giả": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Các vấn đề bảo hành phổ biến mà người dùng gặp phải là gì?",
+        "tokens": [
+            "vấn_đề",
+            "bảo_hành",
+            "phổ_biến",
+            "dùng",
+            "gặp"
+        ],
+        "token_frequency": {
+            "vấn_đề": 1,
+            "bảo_hành": 1,
+            "phổ_biến": 1,
+            "dùng": 1,
+            "gặp": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Sửa chữa trong bảo hành có miễn phí không?",
+        "tokens": [
+            "sửa_chữa",
+            "bảo_hành",
+            "miễn_phí"
+        ],
+        "token_frequency": {
+            "sửa_chữa": 1,
+            "bảo_hành": 1,
+            "miễn_phí": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Bảo hành có bao gồm hư hỏng về ngoại hình không?",
+        "tokens": [
+            "bảo_hành",
+            "gồm",
+            "hư_hỏng",
+            "ngoại_hình"
+        ],
+        "token_frequency": {
+            "bảo_hành": 1,
+            "gồm": 1,
+            "hư_hỏng": 1,
+            "ngoại_hình": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Quy trình sửa chữa bảo hành có thay đổi trong thời gian COVID-19 không?",
+        "tokens": [
+            "trình",
+            "sửa_chữa",
+            "bảo_hành",
+            "đổi"
+        ],
+        "token_frequency": {
+            "trình": 1,
+            "sửa_chữa": 1,
+            "bảo_hành": 1,
+            "đổi": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Tôi có thể gửi máy qua bưu điện để bảo hành không?",
+        "tokens": [
+            "gửi",
+            "máy",
+            "bưu_điện",
+            "bảo_hành"
+        ],
+        "token_frequency": {
+            "gửi": 1,
+            "máy": 1,
+            "bưu_điện": 1,
+            "bảo_hành": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Làm sao để liên hệ hỗ trợ khách hàng về vấn đề bảo hành?",
+        "tokens": [
+            "liên_hệ",
+            "hỗ_trợ",
+            "khách_hàng",
+            "vấn_đề",
+            "bảo_hành"
+        ],
+        "token_frequency": {
+            "liên_hệ": 1,
+            "hỗ_trợ": 1,
+            "khách_hàng": 1,
+            "vấn_đề": 1,
+            "bảo_hành": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Lợi ích khi đăng ký bảo hành trực tuyến là gì?",
+        "tokens": [
+            "lợi_ích",
+            "đăng_ký",
+            "bảo_hành",
+            "trực_tuyến"
+        ],
+        "token_frequency": {
+            "lợi_ích": 1,
+            "đăng_ký": 1,
+            "bảo_hành": 1,
+            "trực_tuyến": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Phụ kiện như đèn flash và pin có được bảo hành không?",
+        "tokens": [
+            "phụ_kiện",
+            "đèn",
+            "bảo_hành"
+        ],
+        "token_frequency": {
+            "phụ_kiện": 1,
+            "đèn": 1,
+            "bảo_hành": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Làm sao để kiểm tra ngày hết hạn bảo hành qua số serial máy?",
+        "tokens": [
+            "kiểm",
+            "hạn",
+            "bảo_hành",
+            "máy"
+        ],
+        "token_frequency": {
+            "kiểm": 1,
+            "hạn": 1,
+            "bảo_hành": 1,
+            "máy": 1
+        },
+        "original_item": {
+            "Intent": "ask_warrantly",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Sự khác biệt giữa Canon EOS R5 và EOS R6 là gì?",
+        "tokens": [
+            "khác_biệt",
+            "canon",
+            "he_thong_quang_hoc_dien_tu"
+        ],
+        "token_frequency": {
+            "khác_biệt": 1,
+            "canon": 1,
+            "he_thong_quang_hoc_dien_tu": 2
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Nikon Z6 so với Nikon Z7 thì thế nào?",
+        "tokens": [
+            "nikon"
+        ],
+        "token_frequency": {
+            "nikon": 2
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Máy mirrorless nào phù hợp cho người mới bắt đầu hơn, Sony A7 III hay Fujifilm X-T4?",
+        "tokens": [
+            "máy",
+            "khong_guong_lat",
+            "phù_hợp",
+            "bắt_đầu",
+            "sony",
+            "fujifilm"
+        ],
+        "token_frequency": {
+            "máy": 1,
+            "khong_guong_lat": 1,
+            "phù_hợp": 1,
+            "bắt_đầu": 1,
+            "sony": 1,
+            "fujifilm": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Bạn có thể so sánh chất lượng ảnh của Canon 5D Mark IV và Nikon D850 không?",
+        "tokens": [
+            "sánh",
+            "chất_lượng",
+            "ảnh",
+            "canon",
+            "nikon"
+        ],
+        "token_frequency": {
+            "sánh": 1,
+            "chất_lượng": 1,
+            "ảnh": 1,
+            "canon": 1,
+            "nikon": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Ưu và nhược điểm của DSLR so với mirrorless là gì?",
+        "tokens": [
+            "ưu",
+            "nhược_điểm",
+            "may_anh_phong_xa_ong_kinh_don_so",
+            "khong_guong_lat"
+        ],
+        "token_frequency": {
+            "ưu": 1,
+            "nhược_điểm": 1,
+            "may_anh_phong_xa_ong_kinh_don_so": 1,
+            "khong_guong_lat": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Thời lượng pin của Sony A7R IV so với Sony A9 thế nào?",
+        "tokens": [
+            "thời_lượng",
+            "sony"
+        ],
+        "token_frequency": {
+            "thời_lượng": 1,
+            "sony": 2
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Ống kính nào phù hợp hơn cho chụp chân dung, 85mm f/1.4 hay 50mm f/1.2?",
+        "tokens": [
+            "ống_kính",
+            "phù_hợp",
+            "chụp",
+            "chân"
+        ],
+        "token_frequency": {
+            "ống_kính": 1,
+            "phù_hợp": 1,
+            "chụp": 1,
+            "chân": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Sự khác biệt giữa ống kính prime và ống kính zoom là gì?",
+        "tokens": [
+            "khác_biệt",
+            "ống_kính"
+        ],
+        "token_frequency": {
+            "khác_biệt": 1,
+            "ống_kính": 2
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Canon RF 24-70mm f/2.8 so với Nikon 24-70mm f/2.8 thì sao?",
+        "tokens": [
+            "canon",
+            "nikon"
+        ],
+        "token_frequency": {
+            "canon": 1,
+            "nikon": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Phụ kiện máy ảnh nào quan trọng hơn, chân máy hay đèn flash ngoài?",
+        "tokens": [
+            "phụ_kiện",
+            "máy_ảnh",
+            "trọng",
+            "chân",
+            "máy",
+            "đèn"
+        ],
+        "token_frequency": {
+            "phụ_kiện": 1,
+            "máy_ảnh": 1,
+            "trọng": 1,
+            "chân": 1,
+            "máy": 1,
+            "đèn": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Ống kính prime hoạt động thế nào so với zoom trong điều kiện thiếu sáng?",
+        "tokens": [
+            "ống_kính",
+            "hoạt_động",
+            "điều_kiện",
+            "thiếu",
+            "sáng"
+        ],
+        "token_frequency": {
+            "ống_kính": 1,
+            "hoạt_động": 1,
+            "điều_kiện": 1,
+            "thiếu": 1,
+            "sáng": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Sự khác nhau giữa máy full-frame và máy crop sensor là gì?",
+        "tokens": [
+            "máy"
+        ],
+        "token_frequency": {
+            "máy": 2
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Bạn có thể so sánh tính năng quay video của Panasonic GH5 và Sony A7S III không?",
+        "tokens": [
+            "sánh",
+            "tính_năng",
+            "panasonic",
+            "sony"
+        ],
+        "token_frequency": {
+            "sánh": 1,
+            "tính_năng": 1,
+            "panasonic": 1,
+            "sony": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Máy nào phù hợp cho chụp thể thao hơn, Nikon D500 hay Canon 1DX Mark II?",
+        "tokens": [
+            "máy",
+            "phù_hợp",
+            "chụp",
+            "nikon",
+            "canon"
+        ],
+        "token_frequency": {
+            "máy": 1,
+            "phù_hợp": 1,
+            "chụp": 1,
+            "nikon": 1,
+            "canon": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Hệ thống lấy nét tự động của Sony A9 khác gì với Canon EOS R5?",
+        "tokens": [
+            "hệ_thống",
+            "lấy",
+            "nét",
+            "tự_động",
+            "sony",
+            "canon",
+            "he_thong_quang_hoc_dien_tu"
+        ],
+        "token_frequency": {
+            "hệ_thống": 1,
+            "lấy": 1,
+            "nét": 1,
+            "tự_động": 1,
+            "sony": 1,
+            "canon": 1,
+            "he_thong_quang_hoc_dien_tu": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Sự khác nhau giữa ống kính RF và EF của Canon là gì?",
+        "tokens": [
+            "ống_kính",
+            "ong_kinh_rf",
+            "ong_kinh_ef",
+            "canon"
+        ],
+        "token_frequency": {
+            "ống_kính": 1,
+            "ong_kinh_rf": 1,
+            "ong_kinh_ef": 1,
+            "canon": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Máy mirrorless và DSLR khác nhau như thế nào về kích thước và trọng lượng?",
+        "tokens": [
+            "máy",
+            "khong_guong_lat",
+            "may_anh_phong_xa_ong_kinh_don_so",
+            "kích_thước",
+            "trọng_lượng"
+        ],
+        "token_frequency": {
+            "máy": 1,
+            "khong_guong_lat": 1,
+            "may_anh_phong_xa_ong_kinh_don_so": 1,
+            "kích_thước": 1,
+            "trọng_lượng": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Ống kính nào tốt hơn cho chụp phong cảnh, 16-35mm hay 24-70mm?",
+        "tokens": [
+            "ống_kính",
+            "tốt",
+            "chụp",
+            "cảnh"
+        ],
+        "token_frequency": {
+            "ống_kính": 1,
+            "tốt": 1,
+            "chụp": 1,
+            "cảnh": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Lợi ích của ống kính chống chịu thời tiết là gì?",
+        "tokens": [
+            "lợi_ích",
+            "ống_kính",
+            "chống",
+            "chịu",
+            "thời_tiết"
+        ],
+        "token_frequency": {
+            "lợi_ích": 1,
+            "ống_kính": 1,
+            "chống": 1,
+            "chịu": 1,
+            "thời_tiết": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Bạn có thể so sánh tính năng kết nối không dây của các mẫu máy khác nhau không?",
+        "tokens": [
+            "sánh",
+            "tính_năng",
+            "kết_nối",
+            "dây",
+            "mẫu",
+            "máy"
+        ],
+        "token_frequency": {
+            "sánh": 1,
+            "tính_năng": 1,
+            "kết_nối": 1,
+            "dây": 1,
+            "mẫu": 1,
+            "máy": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Sự khác biệt giữa đèn flash ngoài và đèn flash tích hợp là gì?",
+        "tokens": [
+            "khác_biệt",
+            "đèn",
+            "tích_hợp"
+        ],
+        "token_frequency": {
+            "khác_biệt": 1,
+            "đèn": 2,
+            "tích_hợp": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Ổn định hình ảnh trên ống kính so với trong thân máy khác nhau thế nào?",
+        "tokens": [
+            "ổn_định_hình_ảnh",
+            "ống_kính",
+            "thân",
+            "máy"
+        ],
+        "token_frequency": {
+            "ổn_định_hình_ảnh": 1,
+            "ống_kính": 1,
+            "thân": 1,
+            "máy": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Thương hiệu máy ảnh nào có dịch vụ khách hàng tốt hơn, Nikon hay Canon?",
+        "tokens": [
+            "thương_hiệu",
+            "máy_ảnh",
+            "dịch_vụ",
+            "khách_hàng",
+            "tốt",
+            "nikon",
+            "canon"
+        ],
+        "token_frequency": {
+            "thương_hiệu": 1,
+            "máy_ảnh": 1,
+            "dịch_vụ": 1,
+            "khách_hàng": 1,
+            "tốt": 1,
+            "nikon": 1,
+            "canon": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Sự khác nhau giữa bảo hành tiêu chuẩn và bảo hành mở rộng cho máy ảnh là gì?",
+        "tokens": [
+            "bảo_hành",
+            "tiêu_chuẩn",
+            "mở_rộng",
+            "máy_ảnh"
+        ],
+        "token_frequency": {
+            "bảo_hành": 2,
+            "tiêu_chuẩn": 1,
+            "mở_rộng": 1,
+            "máy_ảnh": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Các thương hiệu máy ảnh khác nhau thế nào về giá và tính năng?",
+        "tokens": [
+            "thương_hiệu",
+            "máy_ảnh",
+            "giá",
+            "tính_năng"
+        ],
+        "token_frequency": {
+            "thương_hiệu": 1,
+            "máy_ảnh": 1,
+            "giá": 1,
+            "tính_năng": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Máy nào chụp thiếu sáng tốt hơn, Sony A7 III hay Nikon Z6?",
+        "tokens": [
+            "máy",
+            "chụp",
+            "thiếu",
+            "sáng",
+            "tốt",
+            "sony",
+            "nikon"
+        ],
+        "token_frequency": {
+            "máy": 1,
+            "chụp": 1,
+            "thiếu": 1,
+            "sáng": 1,
+            "tốt": 1,
+            "sony": 1,
+            "nikon": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Canon EOS R và Panasonic S1 khác nhau thế nào về quay video?",
+        "tokens": [
+            "canon",
+            "he_thong_quang_hoc_dien_tu",
+            "panasonic"
+        ],
+        "token_frequency": {
+            "canon": 1,
+            "he_thong_quang_hoc_dien_tu": 1,
+            "panasonic": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Sự khác nhau giữa Sony A6400 và A6600 là gì?",
+        "tokens": [
+            "sony"
+        ],
+        "token_frequency": {
+            "sony": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Ống kính nào sắc nét hơn, 35mm f/1.8 hay 50mm f/1.8?",
+        "tokens": [
+            "ống_kính",
+            "sắc",
+            "nét"
+        ],
+        "token_frequency": {
+            "ống_kính": 1,
+            "sắc": 1,
+            "nét": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Tốc độ chụp liên tiếp của Canon 90D so với Nikon D7500 thế nào?",
+        "tokens": [
+            "tốc_độ",
+            "chụp",
+            "liên_tiếp",
+            "canon",
+            "nikon"
+        ],
+        "token_frequency": {
+            "tốc_độ": 1,
+            "chụp": 1,
+            "liên_tiếp": 1,
+            "canon": 1,
+            "nikon": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Máy compact hay máy mirrorless phù hợp hơn cho du lịch?",
+        "tokens": [
+            "máy",
+            "khong_guong_lat",
+            "phù_hợp",
+            "lịch"
+        ],
+        "token_frequency": {
+            "máy": 2,
+            "khong_guong_lat": 1,
+            "phù_hợp": 1,
+            "lịch": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Máy nào có dải tương phản động tốt hơn, Fujifilm X-T3 hay Sony A7 III?",
+        "tokens": [
+            "máy",
+            "dải",
+            "tương_phản_động",
+            "tốt",
+            "fujifilm",
+            "sony"
+        ],
+        "token_frequency": {
+            "máy": 1,
+            "dải": 1,
+            "tương_phản_động": 1,
+            "tốt": 1,
+            "fujifilm": 1,
+            "sony": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Hệ thống lấy nét tự động của Nikon D500 và Canon 7D Mark II khác nhau thế nào?",
+        "tokens": [
+            "hệ_thống",
+            "lấy",
+            "nét",
+            "tự_động",
+            "nikon",
+            "canon"
+        ],
+        "token_frequency": {
+            "hệ_thống": 1,
+            "lấy": 1,
+            "nét": 1,
+            "tự_động": 1,
+            "nikon": 1,
+            "canon": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Ống kính chống chịu thời tiết và ống kính thường loại nào bền hơn?",
+        "tokens": [
+            "ống_kính",
+            "chống",
+            "chịu",
+            "thời_tiết",
+            "bền"
+        ],
+        "token_frequency": {
+            "ống_kính": 2,
+            "chống": 1,
+            "chịu": 1,
+            "thời_tiết": 1,
+            "bền": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Tính năng lấy nét video của Canon EOS M50 và Sony A6400 khác nhau ra sao?",
+        "tokens": [
+            "tính_năng",
+            "lấy",
+            "nét",
+            "canon",
+            "he_thong_quang_hoc_dien_tu",
+            "sony"
+        ],
+        "token_frequency": {
+            "tính_năng": 1,
+            "lấy": 1,
+            "nét": 1,
+            "canon": 1,
+            "he_thong_quang_hoc_dien_tu": 1,
+            "sony": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Lợi thế của ống kính pancake so với ống kính zoom tiêu chuẩn là gì?",
+        "tokens": [
+            "lợi_thế",
+            "ống_kính",
+            "tiêu_chuẩn"
+        ],
+        "token_frequency": {
+            "lợi_thế": 1,
+            "ống_kính": 2,
+            "tiêu_chuẩn": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Đèn flash nào phủ sáng tốt hơn, Canon Speedlite 470EX-AI hay Nikon SB-700?",
+        "tokens": [
+            "đèn",
+            "phủ",
+            "sáng",
+            "tốt",
+            "canon",
+            "nikon"
+        ],
+        "token_frequency": {
+            "đèn": 1,
+            "phủ": 1,
+            "sáng": 1,
+            "tốt": 1,
+            "canon": 1,
+            "nikon": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "So sánh giữa máy full-frame và APS-C về độ sâu trường ảnh?",
+        "tokens": [
+            "sánh",
+            "máy",
+            "sâu",
+            "trường",
+            "ảnh"
+        ],
+        "token_frequency": {
+            "sánh": 1,
+            "máy": 1,
+            "sâu": 1,
+            "trường": 1,
+            "ảnh": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Máy nào nhẹ hơn, Olympus OM-D E-M10 Mark IV hay Fujifilm X-T30?",
+        "tokens": [
+            "máy",
+            "nhẹ",
+            "fujifilm"
+        ],
+        "token_frequency": {
+            "máy": 1,
+            "nhẹ": 1,
+            "fujifilm": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Ổn định hình ảnh trên ống kính Sony so với ổn định trong thân Olympus khác nhau thế nào?",
+        "tokens": [
+            "ổn_định_hình_ảnh",
+            "ống_kính",
+            "sony",
+            "ổn_định",
+            "thân"
+        ],
+        "token_frequency": {
+            "ổn_định_hình_ảnh": 1,
+            "ống_kính": 1,
+            "sony": 1,
+            "ổn_định": 1,
+            "thân": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Sự khác biệt về ngàm ống kính giữa Canon EF và RF là gì?",
+        "tokens": [
+            "khác_biệt",
+            "ngàm",
+            "ống_kính",
+            "canon",
+            "ong_kinh_ef",
+            "ong_kinh_rf"
+        ],
+        "token_frequency": {
+            "khác_biệt": 1,
+            "ngàm": 1,
+            "ống_kính": 1,
+            "canon": 1,
+            "ong_kinh_ef": 1,
+            "ong_kinh_rf": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Ống kính nào tốt hơn cho chụp động vật hoang dã, 300mm f/4 hay 400mm f/5.6?",
+        "tokens": [
+            "ống_kính",
+            "tốt",
+            "chụp",
+            "động_vật",
+            "dã"
+        ],
+        "token_frequency": {
+            "ống_kính": 1,
+            "tốt": 1,
+            "chụp": 1,
+            "động_vật": 1,
+            "dã": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Thời lượng pin của Canon EOS Rebel T7i so với Nikon D5600 thế nào?",
+        "tokens": [
+            "thời_lượng",
+            "canon",
+            "he_thong_quang_hoc_dien_tu",
+            "nikon"
+        ],
+        "token_frequency": {
+            "thời_lượng": 1,
+            "canon": 1,
+            "he_thong_quang_hoc_dien_tu": 1,
+            "nikon": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Sự khác biệt chính giữa ống kính zoom khẩu độ cố định và thay đổi là gì?",
+        "tokens": [
+            "khác_biệt",
+            "ống_kính",
+            "khẩu_độ",
+            "cố_định",
+            "đổi"
+        ],
+        "token_frequency": {
+            "khác_biệt": 1,
+            "ống_kính": 1,
+            "khẩu_độ": 1,
+            "cố_định": 1,
+            "đổi": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Máy nào phù hợp cho người mới bắt đầu hơn, Canon EOS Rebel SL3 hay Nikon D3500?",
+        "tokens": [
+            "máy",
+            "phù_hợp",
+            "bắt_đầu",
+            "canon",
+            "he_thong_quang_hoc_dien_tu",
+            "nikon"
+        ],
+        "token_frequency": {
+            "máy": 1,
+            "phù_hợp": 1,
+            "bắt_đầu": 1,
+            "canon": 1,
+            "he_thong_quang_hoc_dien_tu": 1,
+            "nikon": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Số lượng ống kính có sẵn cho mirrorless và DSLR khác nhau thế nào?",
+        "tokens": [
+            "số_lượng",
+            "ống_kính",
+            "sẵn",
+            "khong_guong_lat",
+            "may_anh_phong_xa_ong_kinh_don_so"
+        ],
+        "token_frequency": {
+            "số_lượng": 1,
+            "ống_kính": 1,
+            "sẵn": 1,
+            "khong_guong_lat": 1,
+            "may_anh_phong_xa_ong_kinh_don_so": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Kích thước cảm biến nào cho chất lượng ảnh tốt hơn, full-frame hay medium format?",
+        "tokens": [
+            "kích_thước",
+            "cảm_biến",
+            "chất_lượng",
+            "ảnh",
+            "tốt"
+        ],
+        "token_frequency": {
+            "kích_thước": 1,
+            "cảm_biến": 1,
+            "chất_lượng": 1,
+            "ảnh": 1,
+            "tốt": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Sự khác biệt giữa Canon RF 50mm f/1.2 và Canon EF 50mm f/1.4 là gì?",
+        "tokens": [
+            "khác_biệt",
+            "canon"
+        ],
+        "token_frequency": {
+            "khác_biệt": 1,
+            "canon": 2
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Chân máy nào ổn định hơn cho ống kính nặng, carbon fiber hay nhôm?",
+        "tokens": [
+            "chân",
+            "máy",
+            "ổn_định",
+            "ống_kính",
+            "nặng",
+            "nhôm"
+        ],
+        "token_frequency": {
+            "chân": 1,
+            "máy": 1,
+            "ổn_định": 1,
+            "ống_kính": 1,
+            "nặng": 1,
+            "nhôm": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Đèn flash vòng so với đèn flash truyền thống khi chụp macro khác gì?",
+        "tokens": [
+            "đèn",
+            "vòng",
+            "truyền_thống",
+            "chụp"
+        ],
+        "token_frequency": {
+            "đèn": 2,
+            "vòng": 1,
+            "truyền_thống": 1,
+            "chụp": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Các định dạng video mà Panasonic GH5 và Sony A7 III hỗ trợ khác nhau thế nào?",
+        "tokens": [
+            "định_dạng",
+            "panasonic",
+            "sony",
+            "hỗ_trợ"
+        ],
+        "token_frequency": {
+            "định_dạng": 1,
+            "panasonic": 1,
+            "sony": 1,
+            "hỗ_trợ": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Thương hiệu máy ảnh nào có theo dõi lấy nét tự động tốt hơn cho thể thao?",
+        "tokens": [
+            "thương_hiệu",
+            "máy_ảnh",
+            "dõi",
+            "lấy",
+            "nét",
+            "tự_động",
+            "tốt"
+        ],
+        "token_frequency": {
+            "thương_hiệu": 1,
+            "máy_ảnh": 1,
+            "dõi": 1,
+            "lấy": 1,
+            "nét": 1,
+            "tự_động": 1,
+            "tốt": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Kính ngắm điện tử của máy mirrorless so với kính ngắm quang học của DSLR khác gì?",
+        "tokens": [
+            "kính",
+            "ngắm",
+            "điện_tử",
+            "máy",
+            "khong_guong_lat",
+            "học",
+            "may_anh_phong_xa_ong_kinh_don_so"
+        ],
+        "token_frequency": {
+            "kính": 2,
+            "ngắm": 2,
+            "điện_tử": 1,
+            "máy": 1,
+            "khong_guong_lat": 1,
+            "học": 1,
+            "may_anh_phong_xa_ong_kinh_don_so": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Máy nào phù hợp cho vlogging hơn, Sony ZV-1 hay Canon G7X Mark III?",
+        "tokens": [
+            "máy",
+            "phù_hợp",
+            "sony",
+            "canon"
+        ],
+        "token_frequency": {
+            "máy": 1,
+            "phù_hợp": 1,
+            "sony": 1,
+            "canon": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Các thương hiệu khác nhau về khả năng chống chịu thời tiết trong điều kiện khắc nghiệt như thế nào?",
+        "tokens": [
+            "thương_hiệu",
+            "khả_năng",
+            "chống",
+            "chịu",
+            "thời_tiết",
+            "điều_kiện",
+            "khắc_nghiệt"
+        ],
+        "token_frequency": {
+            "thương_hiệu": 1,
+            "khả_năng": 1,
+            "chống": 1,
+            "chịu": 1,
+            "thời_tiết": 1,
+            "điều_kiện": 1,
+            "khắc_nghiệt": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Cài đặt máy ảnh nào tốt nhất cho chụp ảnh đường phố?",
+        "tokens": [
+            "cài_đặt",
+            "máy_ảnh",
+            "tốt",
+            "chụp",
+            "ảnh",
+            "đường_phố"
+        ],
+        "token_frequency": {
+            "cài_đặt": 1,
+            "máy_ảnh": 1,
+            "tốt": 1,
+            "chụp": 1,
+            "ảnh": 1,
+            "đường_phố": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Nên dùng ống kính nào để chụp chân dung?",
+        "tokens": [
+            "dùng",
+            "ống_kính",
+            "chụp",
+            "chân"
+        ],
+        "token_frequency": {
+            "dùng": 1,
+            "ống_kính": 1,
+            "chụp": 1,
+            "chân": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Làm sao để có những cảnh quay điện ảnh với máy mirrorless?",
+        "tokens": [
+            "cảnh",
+            "điện_ảnh",
+            "máy",
+            "khong_guong_lat"
+        ],
+        "token_frequency": {
+            "cảnh": 1,
+            "điện_ảnh": 1,
+            "máy": 1,
+            "khong_guong_lat": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Chế độ máy ảnh nào phù hợp nhất cho chụp phong cảnh?",
+        "tokens": [
+            "chế_độ",
+            "máy_ảnh",
+            "phù_hợp_nhất",
+            "chụp",
+            "cảnh"
+        ],
+        "token_frequency": {
+            "chế_độ": 1,
+            "máy_ảnh": 1,
+            "phù_hợp_nhất": 1,
+            "chụp": 1,
+            "cảnh": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Làm thế nào để chụp ảnh buổi hòa nhạc thiếu sáng hiệu quả?",
+        "tokens": [
+            "chụp",
+            "ảnh",
+            "buổi",
+            "hòa",
+            "nhạc",
+            "thiếu",
+            "sáng",
+            "hiệu_quả"
+        ],
+        "token_frequency": {
+            "chụp": 1,
+            "ảnh": 1,
+            "buổi": 1,
+            "hòa": 1,
+            "nhạc": 1,
+            "thiếu": 1,
+            "sáng": 1,
+            "hiệu_quả": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Bộ thiết bị cơ bản cho người mới bắt đầu chụp ảnh động vật hoang dã là gì?",
+        "tokens": [
+            "thiết_bị",
+            "cơ_bản",
+            "bắt_đầu",
+            "chụp",
+            "ảnh",
+            "động_vật",
+            "dã"
+        ],
+        "token_frequency": {
+            "thiết_bị": 1,
+            "cơ_bản": 1,
+            "bắt_đầu": 1,
+            "chụp": 1,
+            "ảnh": 1,
+            "động_vật": 1,
+            "dã": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Nên dùng ống kính prime hay zoom khi đi du lịch?",
+        "tokens": [
+            "dùng",
+            "ống_kính",
+            "lịch"
+        ],
+        "token_frequency": {
+            "dùng": 1,
+            "ống_kính": 1,
+            "lịch": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Trang thiết bị nào nên có để chụp thể thao?",
+        "tokens": [
+            "thiết_bị",
+            "chụp"
+        ],
+        "token_frequency": {
+            "thiết_bị": 1,
+            "chụp": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Cài đặt nào nên dùng cho ảnh phơi sáng lâu ban đêm?",
+        "tokens": [
+            "cài_đặt",
+            "dùng",
+            "ảnh",
+            "phơi",
+            "sáng",
+            "đêm"
+        ],
+        "token_frequency": {
+            "cài_đặt": 1,
+            "dùng": 1,
+            "ảnh": 1,
+            "phơi": 1,
+            "sáng": 1,
+            "đêm": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Máy full-frame có tốt hơn cho chụp ảnh thời trang không?",
+        "tokens": [
+            "máy",
+            "tốt",
+            "chụp",
+            "ảnh"
+        ],
+        "token_frequency": {
+            "máy": 1,
+            "tốt": 1,
+            "chụp": 1,
+            "ảnh": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Làm thế nào để chụp các vật thể di chuyển nhanh như chim?",
+        "tokens": [
+            "chụp",
+            "vật_thể",
+            "chuyển"
+        ],
+        "token_frequency": {
+            "chụp": 1,
+            "vật_thể": 1,
+            "chuyển": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Tiêu cự nào tốt nhất cho chụp kiến trúc?",
+        "tokens": [
+            "tiêu_cự",
+            "tốt",
+            "chụp",
+            "kiến_trúc"
+        ],
+        "token_frequency": {
+            "tiêu_cự": 1,
+            "tốt": 1,
+            "chụp": 1,
+            "kiến_trúc": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Loại ống kính nào lý tưởng cho chụp macro côn trùng?",
+        "tokens": [
+            "ống_kính",
+            "lý_tưởng",
+            "chụp",
+            "côn_trùng"
+        ],
+        "token_frequency": {
+            "ống_kính": 1,
+            "lý_tưởng": 1,
+            "chụp": 1,
+            "côn_trùng": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Mẹo hay để chụp ảnh theo phong cách phóng sự là gì?",
+        "tokens": [
+            "mẹo",
+            "chụp",
+            "ảnh",
+            "phóng_sự"
+        ],
+        "token_frequency": {
+            "mẹo": 1,
+            "chụp": 1,
+            "ảnh": 1,
+            "phóng_sự": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Làm sao để tạo hiệu ứng bokeh trong ảnh chân dung?",
+        "tokens": [
+            "tạo",
+            "hiệu_ứng",
+            "ảnh",
+            "chân"
+        ],
+        "token_frequency": {
+            "tạo": 1,
+            "hiệu_ứng": 1,
+            "ảnh": 1,
+            "chân": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Ổn định hình ảnh có quan trọng khi quay video cầm tay không?",
+        "tokens": [
+            "ổn_định_hình_ảnh",
+            "trọng",
+            "cầm"
+        ],
+        "token_frequency": {
+            "ổn_định_hình_ảnh": 1,
+            "trọng": 1,
+            "cầm": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Làm sao để quay video cưới theo phong cách điện ảnh?",
+        "tokens": [
+            "cưới",
+            "cách_điện_ảnh"
+        ],
+        "token_frequency": {
+            "cưới": 1,
+            "cách_điện_ảnh": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Ống kính nào tốt nhất cho chụp ảnh món ăn?",
+        "tokens": [
+            "ống_kính",
+            "tốt",
+            "chụp",
+            "ảnh",
+            "món",
+            "ăn"
+        ],
+        "token_frequency": {
+            "ống_kính": 1,
+            "tốt": 1,
+            "chụp": 1,
+            "ảnh": 1,
+            "món": 1,
+            "ăn": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Profile máy ảnh nào phù hợp với chụp ảnh đường phố có tâm trạng u ám?",
+        "tokens": [
+            "máy_ảnh",
+            "phù_hợp",
+            "chụp",
+            "ảnh",
+            "đường_phố",
+            "tâm_trạng",
+            "ám"
+        ],
+        "token_frequency": {
+            "máy_ảnh": 1,
+            "phù_hợp": 1,
+            "chụp": 1,
+            "ảnh": 1,
+            "đường_phố": 1,
+            "tâm_trạng": 1,
+            "ám": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Có cần dùng filter ND khi chụp thác nước không?",
+        "tokens": [
+            "dùng",
+            "chụp",
+            "thác",
+            "nước"
+        ],
+        "token_frequency": {
+            "dùng": 1,
+            "chụp": 1,
+            "thác": 1,
+            "nước": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Cài đặt nào phù hợp cho chụp thiên văn?",
+        "tokens": [
+            "cài_đặt",
+            "phù_hợp",
+            "chụp",
+            "thiên_văn"
+        ],
+        "token_frequency": {
+            "cài_đặt": 1,
+            "phù_hợp": 1,
+            "chụp": 1,
+            "thiên_văn": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Ống kính nào lý tưởng để chụp ảnh dải ngân hà?",
+        "tokens": [
+            "ống_kính",
+            "lý_tưởng",
+            "chụp",
+            "ảnh",
+            "dải",
+            "ngân_hà"
+        ],
+        "token_frequency": {
+            "ống_kính": 1,
+            "lý_tưởng": 1,
+            "chụp": 1,
+            "ảnh": 1,
+            "dải": 1,
+            "ngân_hà": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Làm sao tạo hiệu ứng phim khi quay video bằng DSLR?",
+        "tokens": [
+            "tạo",
+            "hiệu_ứng",
+            "may_anh_phong_xa_ong_kinh_don_so"
+        ],
+        "token_frequency": {
+            "tạo": 1,
+            "hiệu_ứng": 1,
+            "may_anh_phong_xa_ong_kinh_don_so": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Bộ máy ảnh nào tốt nhất cho chụp ảnh đường phố ban đêm?",
+        "tokens": [
+            "bộ_máy_ảnh",
+            "tốt",
+            "chụp",
+            "ảnh",
+            "đường_phố",
+            "đêm"
+        ],
+        "token_frequency": {
+            "bộ_máy_ảnh": 1,
+            "tốt": 1,
+            "chụp": 1,
+            "ảnh": 1,
+            "đường_phố": 1,
+            "đêm": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Làm thế nào để chụp ảnh chân dung đen trắng hiệu quả?",
+        "tokens": [
+            "chụp",
+            "ảnh",
+            "chân",
+            "đen",
+            "trắng",
+            "hiệu_quả"
+        ],
+        "token_frequency": {
+            "chụp": 1,
+            "ảnh": 1,
+            "chân": 1,
+            "đen": 1,
+            "trắng": 1,
+            "hiệu_quả": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Thiết bị nào cần thiết cho chụp ảnh du lịch tối giản?",
+        "tokens": [
+            "thiết_bị",
+            "cần_thiết",
+            "chụp",
+            "ảnh",
+            "lịch",
+            "tối_giản"
+        ],
+        "token_frequency": {
+            "thiết_bị": 1,
+            "cần_thiết": 1,
+            "chụp": 1,
+            "ảnh": 1,
+            "lịch": 1,
+            "tối_giản": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Máy ảnh nào phù hợp để chụp phong cách sống hàng ngày?",
+        "tokens": [
+            "máy_ảnh",
+            "phù_hợp",
+            "chụp",
+            "sống",
+            "hàng"
+        ],
+        "token_frequency": {
+            "máy_ảnh": 1,
+            "phù_hợp": 1,
+            "chụp": 1,
+            "sống": 1,
+            "hàng": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Có thể dùng lens kit để chụp sản phẩm chuyên nghiệp không?",
+        "tokens": [
+            "dùng",
+            "chụp",
+            "sản_phẩm",
+            "chuyên_nghiệp"
+        ],
+        "token_frequency": {
+            "dùng": 1,
+            "chụp": 1,
+            "sản_phẩm": 1,
+            "chuyên_nghiệp": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Làm sao để quay video slow motion điện ảnh với máy mirrorless?",
+        "tokens": [
+            "điện_ảnh",
+            "máy",
+            "khong_guong_lat"
+        ],
+        "token_frequency": {
+            "điện_ảnh": 1,
+            "máy": 1,
+            "khong_guong_lat": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Khẩu độ nào phù hợp cho chụp chân dung môi trường?",
+        "tokens": [
+            "khẩu_độ",
+            "phù_hợp",
+            "chụp",
+            "chân",
+            "môi_trường"
+        ],
+        "token_frequency": {
+            "khẩu_độ": 1,
+            "phù_hợp": 1,
+            "chụp": 1,
+            "chân": 1,
+            "môi_trường": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Làm sao để quay time-lapse cảnh thành phố?",
+        "tokens": [
+            "cảnh",
+            "thành_phố"
+        ],
+        "token_frequency": {
+            "cảnh": 1,
+            "thành_phố": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Cài đặt máy ảnh nào tốt nhất khi chụp trong sương mù hoặc hơi nước?",
+        "tokens": [
+            "cài_đặt",
+            "máy_ảnh",
+            "tốt",
+            "chụp",
+            "sương_mù",
+            "hơi_nước"
+        ],
+        "token_frequency": {
+            "cài_đặt": 1,
+            "máy_ảnh": 1,
+            "tốt": 1,
+            "chụp": 1,
+            "sương_mù": 1,
+            "hơi_nước": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Ống kính nào tốt cho chụp lookbook thời trang?",
+        "tokens": [
+            "ống_kính",
+            "tốt",
+            "chụp"
+        ],
+        "token_frequency": {
+            "ống_kính": 1,
+            "tốt": 1,
+            "chụp": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Làm sao tạo hiệu ứng mơ màng trong ảnh ngược sáng?",
+        "tokens": [
+            "tạo",
+            "hiệu_ứng",
+            "mơ_màng",
+            "ảnh",
+            "ngược",
+            "sáng"
+        ],
+        "token_frequency": {
+            "tạo": 1,
+            "hiệu_ứng": 1,
+            "mơ_màng": 1,
+            "ảnh": 1,
+            "ngược": 1,
+            "sáng": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Tính năng máy ảnh nào cần khi làm phim phóng sự chạy-gun?",
+        "tokens": [
+            "tính_năng",
+            "máy_ảnh",
+            "phóng_sự",
+            "chạygun"
+        ],
+        "token_frequency": {
+            "tính_năng": 1,
+            "máy_ảnh": 1,
+            "phóng_sự": 1,
+            "chạygun": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Làm sao để chụp vật phản chiếu như kính hoặc kim loại không bị chói?",
+        "tokens": [
+            "chụp",
+            "vật",
+            "phản_chiếu",
+            "kính",
+            "chói"
+        ],
+        "token_frequency": {
+            "chụp": 1,
+            "vật": 1,
+            "phản_chiếu": 1,
+            "kính": 1,
+            "chói": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Lọc nào hữu ích cho chụp ảnh phong cảnh?",
+        "tokens": [
+            "lọc",
+            "hữu_ích",
+            "chụp",
+            "ảnh",
+            "cảnh"
+        ],
+        "token_frequency": {
+            "lọc": 1,
+            "hữu_ích": 1,
+            "chụp": 1,
+            "ảnh": 1,
+            "cảnh": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "ISO nào phù hợp để có ảnh thiếu sáng sạch sẽ?",
+        "tokens": [
+            "do_nhay_sang_iso",
+            "phù_hợp",
+            "ảnh",
+            "thiếu",
+            "sáng",
+            "sạch_sẽ"
+        ],
+        "token_frequency": {
+            "do_nhay_sang_iso": 1,
+            "phù_hợp": 1,
+            "ảnh": 1,
+            "thiếu": 1,
+            "sáng": 1,
+            "sạch_sẽ": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Làm sao để bắt được dải động tốt trong cảnh phố có độ tương phản cao?",
+        "tokens": [
+            "dải_động",
+            "tốt",
+            "cảnh",
+            "phố",
+            "tương_phản"
+        ],
+        "token_frequency": {
+            "dải_động": 1,
+            "tốt": 1,
+            "cảnh": 1,
+            "phố": 1,
+            "tương_phản": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Trang thiết bị nào tốt nhất cho chụp ảnh chân dung studio trong nhà?",
+        "tokens": [
+            "thiết_bị",
+            "tốt",
+            "chụp",
+            "ảnh",
+            "chân"
+        ],
+        "token_frequency": {
+            "thiết_bị": 1,
+            "tốt": 1,
+            "chụp": 1,
+            "ảnh": 1,
+            "chân": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Ống kính tilt-shift có hữu ích cho chụp kiến trúc không?",
+        "tokens": [
+            "ống_kính",
+            "hữu_ích",
+            "chụp",
+            "kiến_trúc"
+        ],
+        "token_frequency": {
+            "ống_kính": 1,
+            "hữu_ích": 1,
+            "chụp": 1,
+            "kiến_trúc": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Làm thế nào để chụp ảnh bóng người khi hoàng hôn?",
+        "tokens": [
+            "chụp",
+            "ảnh",
+            "bóng",
+            "hoàng_hôn"
+        ],
+        "token_frequency": {
+            "chụp": 1,
+            "ảnh": 1,
+            "bóng": 1,
+            "hoàng_hôn": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Tốc độ màn trập nào phù hợp cho chụp panning?",
+        "tokens": [
+            "tốc_độ",
+            "màn",
+            "trập",
+            "phù_hợp",
+            "chụp"
+        ],
+        "token_frequency": {
+            "tốc_độ": 1,
+            "màn": 1,
+            "trập": 1,
+            "phù_hợp": 1,
+            "chụp": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Làm sao tạo hiệu ứng mờ chuyển động sáng tạo trong chụp múa?",
+        "tokens": [
+            "tạo",
+            "hiệu_ứng",
+            "mờ",
+            "chuyển_động",
+            "sáng_tạo",
+            "chụp",
+            "múa"
+        ],
+        "token_frequency": {
+            "tạo": 1,
+            "hiệu_ứng": 1,
+            "mờ": 1,
+            "chuyển_động": 1,
+            "sáng_tạo": 1,
+            "chụp": 1,
+            "múa": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Nên chụp RAW hay JPEG khi đi du lịch?",
+        "tokens": [
+            "chụp",
+            "lịch"
+        ],
+        "token_frequency": {
+            "chụp": 1,
+            "lịch": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Canon EOS R6 giá bao nhiêu?",
+        "tokens": [
+            "canon",
+            "he_thong_quang_hoc_dien_tu",
+            "giá"
+        ],
+        "token_frequency": {
+            "canon": 1,
+            "he_thong_quang_hoc_dien_tu": 1,
+            "giá": 1
+        },
+        "original_item": {
+            "Intent": "ask_price",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Giá trung bình của Sony A7 III đã qua sử dụng là bao nhiêu?",
+        "tokens": [
+            "giá",
+            "bình",
+            "sony",
+            "sử_dụng"
+        ],
+        "token_frequency": {
+            "giá": 1,
+            "bình": 1,
+            "sony": 1,
+            "sử_dụng": 1
+        },
+        "original_item": {
+            "Intent": "ask_price",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Nikon Z6 II có xứng đáng với mức giá không?",
+        "tokens": [
+            "nikon",
+            "xứng_đáng",
+            "mức",
+            "giá"
+        ],
+        "token_frequency": {
+            "nikon": 1,
+            "xứng_đáng": 1,
+            "mức": 1,
+            "giá": 1
+        },
+        "original_item": {
+            "Intent": "ask_price",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Máy ảnh giá rẻ nào tốt nhất cho người mới bắt đầu dưới 500 đô la?",
+        "tokens": [
+            "máy_ảnh",
+            "giá",
+            "rẻ",
+            "tốt",
+            "bắt_đầu",
+            "đô"
+        ],
+        "token_frequency": {
+            "máy_ảnh": 1,
+            "giá": 1,
+            "rẻ": 1,
+            "tốt": 1,
+            "bắt_đầu": 1,
+            "đô": 1
+        },
+        "original_item": {
+            "Intent": "ask_price",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Máy mirrorless full-frame rẻ nhất hiện nay là gì?",
+        "tokens": [
+            "máy",
+            "khong_guong_lat",
+            "rẻ",
+            "hiện"
+        ],
+        "token_frequency": {
+            "máy": 1,
+            "khong_guong_lat": 1,
+            "rẻ": 1,
+            "hiện": 1
+        },
+        "original_item": {
+            "Intent": "ask_price",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Mình nên chuẩn bị bao nhiêu tiền để mua ống kính 50mm tốt?",
+        "tokens": [
+            "chuẩn_bị",
+            "tiền",
+            "ống_kính",
+            "tốt"
+        ],
+        "token_frequency": {
+            "chuẩn_bị": 1,
+            "tiền": 1,
+            "ống_kính": 1,
+            "tốt": 1
+        },
+        "original_item": {
+            "Intent": "ask_price",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Tại sao Leica M10 lại đắt thế?",
+        "tokens": [
+            "đắt_thế"
+        ],
+        "token_frequency": {
+            "đắt_thế": 1
+        },
+        "original_item": {
+            "Intent": "ask_price",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Ống kính Fujifilm có rẻ hơn ống kính Sony không?",
+        "tokens": [
+            "ống_kính",
+            "fujifilm",
+            "rẻ",
+            "sony"
+        ],
+        "token_frequency": {
+            "ống_kính": 2,
+            "fujifilm": 1,
+            "rẻ": 1,
+            "sony": 1
+        },
+        "original_item": {
+            "Intent": "ask_price",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Chênh lệch giá giữa Canon R5 và R6 là bao nhiêu?",
+        "tokens": [
+            "chênh_lệch",
+            "giá",
+            "canon"
+        ],
+        "token_frequency": {
+            "chênh_lệch": 1,
+            "giá": 1,
+            "canon": 1
+        },
+        "original_item": {
+            "Intent": "ask_price",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Mình có thể tìm mua Panasonic GH6 với giá tốt nhất ở đâu?",
+        "tokens": [
+            "tìm",
+            "panasonic",
+            "giá",
+            "tốt"
+        ],
+        "token_frequency": {
+            "tìm": 1,
+            "panasonic": 1,
+            "giá": 1,
+            "tốt": 1
+        },
+        "original_item": {
+            "Intent": "ask_price",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Giá của Sony FX3 so với A7S III thế nào?",
+        "tokens": [
+            "giá",
+            "sony"
+        ],
+        "token_frequency": {
+            "giá": 1,
+            "sony": 1
+        },
+        "original_item": {
+            "Intent": "ask_price",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Phụ kiện máy ảnh nào đáng mua khi có ngân sách hạn chế?",
+        "tokens": [
+            "phụ_kiện",
+            "máy_ảnh",
+            "ngân_sách",
+            "hạn_chế"
+        ],
+        "token_frequency": {
+            "phụ_kiện": 1,
+            "máy_ảnh": 1,
+            "ngân_sách": 1,
+            "hạn_chế": 1
+        },
+        "original_item": {
+            "Intent": "ask_price",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Bộ kit máy ảnh có rẻ hơn mua riêng thân máy và ống kính không?",
+        "tokens": [
+            "bộ_máy_ảnh",
+            "rẻ",
+            "thân",
+            "máy",
+            "ống_kính"
+        ],
+        "token_frequency": {
+            "bộ_máy_ảnh": 1,
+            "rẻ": 1,
+            "thân": 1,
+            "máy": 1,
+            "ống_kính": 1
+        },
+        "original_item": {
+            "Intent": "ask_price",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Ống kính bên thứ ba có giá rẻ hơn so với ống kính chính hãng không?",
+        "tokens": [
+            "ống_kính",
+            "bên",
+            "thứ",
+            "có_giá",
+            "rẻ",
+            "hãng"
+        ],
+        "token_frequency": {
+            "ống_kính": 2,
+            "bên": 1,
+            "thứ": 1,
+            "có_giá": 1,
+            "rẻ": 1,
+            "hãng": 1
+        },
+        "original_item": {
+            "Intent": "ask_price",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Có sự khác biệt lớn về giá giữa máy APS-C và full-frame không?",
+        "tokens": [
+            "khác_biệt",
+            "giá",
+            "máy"
+        ],
+        "token_frequency": {
+            "khác_biệt": 1,
+            "giá": 1,
+            "máy": 1
+        },
+        "original_item": {
+            "Intent": "ask_price",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Tại sao cùng tiêu cự nhưng giá ống kính lại chênh lệch nhiều?",
+        "tokens": [
+            "tiêu_cự",
+            "giá",
+            "ống_kính",
+            "chênh_lệch"
+        ],
+        "token_frequency": {
+            "tiêu_cự": 1,
+            "giá": 1,
+            "ống_kính": 1,
+            "chênh_lệch": 1
+        },
+        "original_item": {
+            "Intent": "ask_price",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Ống kính macro nào tiết kiệm nhất cho Canon?",
+        "tokens": [
+            "ống_kính",
+            "tiết_kiệm",
+            "canon"
+        ],
+        "token_frequency": {
+            "ống_kính": 1,
+            "tiết_kiệm": 1,
+            "canon": 1
+        },
+        "original_item": {
+            "Intent": "ask_price",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Chi phí để bảo dưỡng máy ảnh chuyên nghiệp là bao nhiêu?",
+        "tokens": [
+            "phí",
+            "bảo_dưỡng",
+            "máy_ảnh",
+            "chuyên_nghiệp"
+        ],
+        "token_frequency": {
+            "phí": 1,
+            "bảo_dưỡng": 1,
+            "máy_ảnh": 1,
+            "chuyên_nghiệp": 1
+        },
+        "original_item": {
+            "Intent": "ask_price",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Có thể mua máy ảnh tốt dưới 300 đô la cho du lịch không?",
+        "tokens": [
+            "máy_ảnh",
+            "tốt",
+            "đô",
+            "lịch"
+        ],
+        "token_frequency": {
+            "máy_ảnh": 1,
+            "tốt": 1,
+            "đô": 1,
+            "lịch": 1
+        },
+        "original_item": {
+            "Intent": "ask_price",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Các chi phí ẩn khi mua DSLR chuyên nghiệp là gì?",
+        "tokens": [
+            "phí",
+            "ẩn",
+            "may_anh_phong_xa_ong_kinh_don_so",
+            "chuyên_nghiệp"
+        ],
+        "token_frequency": {
+            "phí": 1,
+            "ẩn": 1,
+            "may_anh_phong_xa_ong_kinh_don_so": 1,
+            "chuyên_nghiệp": 1
+        },
+        "original_item": {
+            "Intent": "ask_price",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Giá máy ảnh xách tay có thấp hơn nhiều không?",
+        "tokens": [
+            "giá",
+            "máy_ảnh",
+            "xách",
+            "thấp"
+        ],
+        "token_frequency": {
+            "giá": 1,
+            "máy_ảnh": 1,
+            "xách": 1,
+            "thấp": 1
+        },
+        "original_item": {
+            "Intent": "ask_price",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Mua thiết bị máy ảnh ở Nhật có rẻ hơn ở Mỹ không?",
+        "tokens": [
+            "thiết_bị",
+            "máy_ảnh",
+            "nhật",
+            "rẻ",
+            "mỹ"
+        ],
+        "token_frequency": {
+            "thiết_bị": 1,
+            "máy_ảnh": 1,
+            "nhật": 1,
+            "rẻ": 1,
+            "mỹ": 1
+        },
+        "original_item": {
+            "Intent": "ask_price",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Giá máy ảnh có phản ánh chất lượng hình ảnh không?",
+        "tokens": [
+            "giá",
+            "máy_ảnh",
+            "phản_ánh",
+            "chất_lượng",
+            "hình_ảnh"
+        ],
+        "token_frequency": {
+            "giá": 1,
+            "máy_ảnh": 1,
+            "phản_ánh": 1,
+            "chất_lượng": 1,
+            "hình_ảnh": 1
+        },
+        "original_item": {
+            "Intent": "ask_price",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Giá máy mirrorless so với DSLR năm 2025 thế nào?",
+        "tokens": [
+            "giá",
+            "máy",
+            "khong_guong_lat",
+            "may_anh_phong_xa_ong_kinh_don_so"
+        ],
+        "token_frequency": {
+            "giá": 1,
+            "máy": 1,
+            "khong_guong_lat": 1,
+            "may_anh_phong_xa_ong_kinh_don_so": 1
+        },
+        "original_item": {
+            "Intent": "ask_price",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Máy ảnh tân trang có phải là món hời không?",
+        "tokens": [
+            "máy_ảnh",
+            "tân",
+            "món",
+            "hời"
+        ],
+        "token_frequency": {
+            "máy_ảnh": 1,
+            "tân": 1,
+            "món": 1,
+            "hời": 1
+        },
+        "original_item": {
+            "Intent": "ask_price",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Sự khác biệt giữa cảm biến full-frame và APS-C là gì?",
+        "tokens": [
+            "khác_biệt",
+            "cảm_biến"
+        ],
+        "token_frequency": {
+            "khác_biệt": 1,
+            "cảm_biến": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Cơ chế ổn định hình ảnh hoạt động như thế nào trên máy mirrorless?",
+        "tokens": [
+            "cơ_chế",
+            "ổn_định_hình_ảnh",
+            "hoạt_động",
+            "máy",
+            "khong_guong_lat"
+        ],
+        "token_frequency": {
+            "cơ_chế": 1,
+            "ổn_định_hình_ảnh": 1,
+            "hoạt_động": 1,
+            "máy": 1,
+            "khong_guong_lat": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Ống kính nhanh (fast lens) nghĩa là gì?",
+        "tokens": [
+            "ống_kính",
+            "nghĩa_là"
+        ],
+        "token_frequency": {
+            "ống_kính": 1,
+            "nghĩa_là": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "ISO ảnh hưởng đến chất lượng hình ảnh như thế nào?",
+        "tokens": [
+            "do_nhay_sang_iso",
+            "ảnh_hưởng",
+            "chất_lượng",
+            "hình_ảnh"
+        ],
+        "token_frequency": {
+            "do_nhay_sang_iso": 1,
+            "ảnh_hưởng": 1,
+            "chất_lượng": 1,
+            "hình_ảnh": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Dải tương phản động (dynamic range) của Sony A7R V là bao nhiêu?",
+        "tokens": [
+            "dải",
+            "tương_phản_động",
+            "sony"
+        ],
+        "token_frequency": {
+            "dải": 1,
+            "tương_phản_động": 1,
+            "sony": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Rolling shutter là gì và nó ảnh hưởng thế nào đến video?",
+        "tokens": [
+            "ảnh_hưởng"
+        ],
+        "token_frequency": {
+            "ảnh_hưởng": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Làm sao để hiệu chỉnh lấy nét tự động (autofocus) trên DSLR?",
+        "tokens": [
+            "hiệu_chỉnh",
+            "lấy",
+            "nét",
+            "tự_động",
+            "may_anh_phong_xa_ong_kinh_don_so"
+        ],
+        "token_frequency": {
+            "hiệu_chỉnh": 1,
+            "lấy": 1,
+            "nét": 1,
+            "tự_động": 1,
+            "may_anh_phong_xa_ong_kinh_don_so": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Back-button focusing là gì và khi nào nên dùng?",
+        "tokens": [
+            "dùng"
+        ],
+        "token_frequency": {
+            "dùng": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Chức năng khe thẻ đôi (dual card slot) hoạt động ra sao?",
+        "tokens": [
+            "chức_năng",
+            "thẻ",
+            "đôi",
+            "hoạt_động"
+        ],
+        "token_frequency": {
+            "chức_năng": 1,
+            "thẻ": 1,
+            "đôi": 1,
+            "hoạt_động": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Lợi ích của việc dùng cảm biến stacked trong máy ảnh là gì?",
+        "tokens": [
+            "lợi_ích",
+            "dùng",
+            "cảm_biến",
+            "máy_ảnh"
+        ],
+        "token_frequency": {
+            "lợi_ích": 1,
+            "dùng": 1,
+            "cảm_biến": 1,
+            "máy_ảnh": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Bitrate tốt nhất để quay video 4K là bao nhiêu?",
+        "tokens": [
+            "tốt"
+        ],
+        "token_frequency": {
+            "tốt": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Canon R3 có bao nhiêu stop dải tương phản động?",
+        "tokens": [
+            "canon",
+            "dải",
+            "tương_phản_động"
+        ],
+        "token_frequency": {
+            "canon": 1,
+            "dải": 1,
+            "tương_phản_động": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Sự khác biệt giữa màn trập cơ học và màn trập điện tử là gì?",
+        "tokens": [
+            "khác_biệt",
+            "màn",
+            "trập",
+            "cơ_học",
+            "điện_tử"
+        ],
+        "token_frequency": {
+            "khác_biệt": 1,
+            "màn": 2,
+            "trập": 2,
+            "cơ_học": 1,
+            "điện_tử": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Công nghệ pixel shift cải thiện độ phân giải ảnh thế nào?",
+        "tokens": [
+            "công_nghệ",
+            "cải_thiện",
+            "phân_giải",
+            "ảnh"
+        ],
+        "token_frequency": {
+            "công_nghệ": 1,
+            "cải_thiện": 1,
+            "phân_giải": 1,
+            "ảnh": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Có thể dùng ống kính crop trên thân máy full-frame không?",
+        "tokens": [
+            "dùng",
+            "ống_kính",
+            "thân",
+            "máy"
+        ],
+        "token_frequency": {
+            "dùng": 1,
+            "ống_kính": 1,
+            "thân": 1,
+            "máy": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Focus peaking là gì và làm sao để bật tính năng này?",
+        "tokens": [
+            "bật",
+            "tính_năng"
+        ],
+        "token_frequency": {
+            "bật": 1,
+            "tính_năng": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Tại sao file RAW của tôi trông nhợt nhạt trước khi chỉnh sửa?",
+        "tokens": [
+            "trông",
+            "nhợt_nhạt",
+            "chỉnh_sửa"
+        ],
+        "token_frequency": {
+            "trông": 1,
+            "nhợt_nhạt": 1,
+            "chỉnh_sửa": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Hiện tượng sai lệch màu (chromatic aberration) là gì và làm sao giảm?",
+        "tokens": [
+            "hiện_tượng",
+            "lệch",
+            "màu",
+            "giảm"
+        ],
+        "token_frequency": {
+            "hiện_tượng": 1,
+            "lệch": 1,
+            "màu": 1,
+            "giảm": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Lọc chống răng cưa (anti-aliasing filter) trong máy ảnh có tác dụng gì?",
+        "tokens": [
+            "lọc",
+            "chống",
+            "răng_cưa",
+            "máy_ảnh",
+            "tác_dụng"
+        ],
+        "token_frequency": {
+            "lọc": 1,
+            "chống": 1,
+            "răng_cưa": 1,
+            "máy_ảnh": 1,
+            "tác_dụng": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Kích thước cảm biến ảnh hưởng thế nào đến độ sâu trường ảnh?",
+        "tokens": [
+            "kích_thước",
+            "cảm_biến",
+            "ảnh_hưởng",
+            "sâu",
+            "trường",
+            "ảnh"
+        ],
+        "token_frequency": {
+            "kích_thước": 1,
+            "cảm_biến": 1,
+            "ảnh_hưởng": 1,
+            "sâu": 1,
+            "trường": 1,
+            "ảnh": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Màu 10-bit trong quay video nghĩa là gì?",
+        "tokens": [
+            "màu",
+            "nghĩa_là"
+        ],
+        "token_frequency": {
+            "màu": 1,
+            "nghĩa_là": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Tốc độ khung hình ảnh hưởng thế nào đến video slow-motion?",
+        "tokens": [
+            "tốc_độ",
+            "hình_ảnh_hưởng"
+        ],
+        "token_frequency": {
+            "tốc_độ": 1,
+            "hình_ảnh_hưởng": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Tại sao máy ảnh của tôi bị quá nhiệt khi quay 4K?",
+        "tokens": [
+            "máy_ảnh"
+        ],
+        "token_frequency": {
+            "máy_ảnh": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Sự khác biệt giữa các profile video C-Log và S-Log là gì?",
+        "tokens": [
+            "khác_biệt"
+        ],
+        "token_frequency": {
+            "khác_biệt": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Hiện tượng lens breathing là gì và tại sao nó quan trọng khi quay video?",
+        "tokens": [
+            "hiện_tượng",
+            "trọng"
+        ],
+        "token_frequency": {
+            "hiện_tượng": 1,
+            "trọng": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Có chương trình khuyến mãi nào hiện tại dành cho máy ảnh mirrorless Canon không?",
+        "tokens": [
+            "chương_trình",
+            "khuyến_mãi",
+            "hiện_tại",
+            "dành",
+            "máy_ảnh",
+            "khong_guong_lat",
+            "canon"
+        ],
+        "token_frequency": {
+            "chương_trình": 1,
+            "khuyến_mãi": 1,
+            "hiện_tại": 1,
+            "dành": 1,
+            "máy_ảnh": 1,
+            "khong_guong_lat": 1,
+            "canon": 1
+        },
+        "original_item": {
+            "Intent": "ask_promotion",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Có giảm giá dành cho sinh viên khi mua máy ảnh Fujifilm không?",
+        "tokens": [
+            "giảm_giá",
+            "dành",
+            "viên",
+            "máy_ảnh",
+            "fujifilm"
+        ],
+        "token_frequency": {
+            "giảm_giá": 1,
+            "dành": 1,
+            "viên": 1,
+            "máy_ảnh": 1,
+            "fujifilm": 1
+        },
+        "original_item": {
+            "Intent": "ask_promotion",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Khi mua Sony A7 IV, tôi có được tặng quà miễn phí không?",
+        "tokens": [
+            "sony",
+            "tặng",
+            "quà",
+            "miễn_phí"
+        ],
+        "token_frequency": {
+            "sony": 1,
+            "tặng": 1,
+            "quà": 1,
+            "miễn_phí": 1
+        },
+        "original_item": {
+            "Intent": "ask_promotion",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Trong dịp Black Friday, Nikon có ưu đãi gì cho thiết bị không?",
+        "tokens": [
+            "nikon",
+            "ưu_đãi",
+            "thiết_bị"
+        ],
+        "token_frequency": {
+            "nikon": 1,
+            "ưu_đãi": 1,
+            "thiết_bị": 1
+        },
+        "original_item": {
+            "Intent": "ask_promotion",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Hiện có các gói combo máy ảnh và ống kính nào đang được giảm giá không?",
+        "tokens": [
+            "hiện",
+            "gói",
+            "máy_ảnh",
+            "ống_kính",
+            "giảm_giá"
+        ],
+        "token_frequency": {
+            "hiện": 1,
+            "gói": 1,
+            "máy_ảnh": 1,
+            "ống_kính": 1,
+            "giảm_giá": 1
+        },
+        "original_item": {
+            "Intent": "ask_promotion",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Khi nào sẽ có đợt giảm giá tiếp theo cho thiết bị nhiếp ảnh?",
+        "tokens": [
+            "đợt",
+            "giảm_giá",
+            "thiết_bị",
+            "nhiếp_ảnh"
+        ],
+        "token_frequency": {
+            "đợt": 1,
+            "giảm_giá": 1,
+            "thiết_bị": 1,
+            "nhiếp_ảnh": 1
+        },
+        "original_item": {
+            "Intent": "ask_promotion",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Cửa hàng có chương trình hoàn tiền (cashback) khi mua máy ảnh không?",
+        "tokens": [
+            "cửa_hàng",
+            "chương_trình",
+            "tiền",
+            "máy_ảnh"
+        ],
+        "token_frequency": {
+            "cửa_hàng": 1,
+            "chương_trình": 1,
+            "tiền": 1,
+            "máy_ảnh": 1
+        },
+        "original_item": {
+            "Intent": "ask_promotion",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Có chương trình đổi máy cũ lấy máy mới để nâng cấp DSLR không?",
+        "tokens": [
+            "chương_trình",
+            "đổi",
+            "máy",
+            "cũ",
+            "lấy",
+            "nâng_cấp",
+            "may_anh_phong_xa_ong_kinh_don_so"
+        ],
+        "token_frequency": {
+            "chương_trình": 1,
+            "đổi": 1,
+            "máy": 2,
+            "cũ": 1,
+            "lấy": 1,
+            "nâng_cấp": 1,
+            "may_anh_phong_xa_ong_kinh_don_so": 1
+        },
+        "original_item": {
+            "Intent": "ask_promotion",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Mua máy ảnh full-frame có được tặng kèm ống kính miễn phí không?",
+        "tokens": [
+            "máy_ảnh",
+            "tặng",
+            "kèm",
+            "ống_kính",
+            "miễn_phí"
+        ],
+        "token_frequency": {
+            "máy_ảnh": 1,
+            "tặng": 1,
+            "kèm": 1,
+            "ống_kính": 1,
+            "miễn_phí": 1
+        },
+        "original_item": {
+            "Intent": "ask_promotion",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Có ưu đãi nào cho phụ kiện máy ảnh trong dịp lễ không?",
+        "tokens": [
+            "ưu_đãi",
+            "phụ_kiện",
+            "máy_ảnh",
+            "lễ"
+        ],
+        "token_frequency": {
+            "ưu_đãi": 1,
+            "phụ_kiện": 1,
+            "máy_ảnh": 1,
+            "lễ": 1
+        },
+        "original_item": {
+            "Intent": "ask_promotion",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Các máy ảnh hành trình (action camera) hiện đang có khuyến mãi gì?",
+        "tokens": [
+            "máy_ảnh",
+            "hành_trình",
+            "hiện",
+            "khuyến_mãi"
+        ],
+        "token_frequency": {
+            "máy_ảnh": 1,
+            "hành_trình": 1,
+            "hiện": 1,
+            "khuyến_mãi": 1
+        },
+        "original_item": {
+            "Intent": "ask_promotion",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Các chương trình khuyến mãi có kèm theo bảo hành mở rộng không?",
+        "tokens": [
+            "chương_trình",
+            "khuyến_mãi",
+            "kèm",
+            "bảo_hành",
+            "mở_rộng"
+        ],
+        "token_frequency": {
+            "chương_trình": 1,
+            "khuyến_mãi": 1,
+            "kèm": 1,
+            "bảo_hành": 1,
+            "mở_rộng": 1
+        },
+        "original_item": {
+            "Intent": "ask_promotion",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Có hãng nào cung cấp hoàn tiền theo mùa cho thiết bị nhiếp ảnh không?",
+        "tokens": [
+            "hãng",
+            "cấp",
+            "tiền",
+            "mùa",
+            "thiết_bị",
+            "nhiếp_ảnh"
+        ],
+        "token_frequency": {
+            "hãng": 1,
+            "cấp": 1,
+            "tiền": 1,
+            "mùa": 1,
+            "thiết_bị": 1,
+            "nhiếp_ảnh": 1
+        },
+        "original_item": {
+            "Intent": "ask_promotion",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Có giảm giá cho sinh viên hoặc giáo viên khi mua máy ảnh mirrorless không?",
+        "tokens": [
+            "giảm_giá",
+            "viên",
+            "giáo_viên",
+            "máy_ảnh",
+            "khong_guong_lat"
+        ],
+        "token_frequency": {
+            "giảm_giá": 1,
+            "viên": 1,
+            "giáo_viên": 1,
+            "máy_ảnh": 1,
+            "khong_guong_lat": 1
+        },
+        "original_item": {
+            "Intent": "ask_promotion",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Các gói combo máy ảnh trong chương trình khuyến mãi bao gồm những gì?",
+        "tokens": [
+            "gói",
+            "máy_ảnh",
+            "chương_trình",
+            "khuyến_mãi",
+            "gồm"
+        ],
+        "token_frequency": {
+            "gói": 1,
+            "máy_ảnh": 1,
+            "chương_trình": 1,
+            "khuyến_mãi": 1,
+            "gồm": 1
+        },
+        "original_item": {
+            "Intent": "ask_promotion",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Có miễn phí vận chuyển trong các đợt khuyến mãi không?",
+        "tokens": [
+            "miễn_phí",
+            "vận_chuyển",
+            "đợt",
+            "khuyến_mãi"
+        ],
+        "token_frequency": {
+            "miễn_phí": 1,
+            "vận_chuyển": 1,
+            "đợt": 1,
+            "khuyến_mãi": 1
+        },
+        "original_item": {
+            "Intent": "ask_promotion",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Có các đợt flash sale hay ưu đãi giới hạn thời gian cho thiết bị nhiếp ảnh không?",
+        "tokens": [
+            "đợt",
+            "ưu_đãi",
+            "giới_hạn",
+            "thiết_bị",
+            "nhiếp_ảnh"
+        ],
+        "token_frequency": {
+            "đợt": 1,
+            "ưu_đãi": 1,
+            "giới_hạn": 1,
+            "thiết_bị": 1,
+            "nhiếp_ảnh": 1
+        },
+        "original_item": {
+            "Intent": "ask_promotion",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Có chương trình tích điểm hoặc ưu đãi dành cho khách hàng mua nhiều lần không?",
+        "tokens": [
+            "chương_trình",
+            "tích",
+            "điểm",
+            "ưu_đãi",
+            "dành",
+            "khách_hàng"
+        ],
+        "token_frequency": {
+            "chương_trình": 1,
+            "tích": 1,
+            "điểm": 1,
+            "ưu_đãi": 1,
+            "dành": 1,
+            "khách_hàng": 1
+        },
+        "original_item": {
+            "Intent": "ask_promotion",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Giá máy ảnh có rẻ hơn khi đặt hàng trước (pre-order) không?",
+        "tokens": [
+            "giá",
+            "máy_ảnh",
+            "rẻ",
+            "đặt_hàng"
+        ],
+        "token_frequency": {
+            "giá": 1,
+            "máy_ảnh": 1,
+            "rẻ": 1,
+            "đặt_hàng": 1
+        },
+        "original_item": {
+            "Intent": "ask_promotion",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Có mã giảm giá dành cho các cửa hàng máy ảnh trực tuyến không?",
+        "tokens": [
+            "mã",
+            "giảm_giá",
+            "dành",
+            "cửa_hàng",
+            "máy_ảnh",
+            "trực_tuyến"
+        ],
+        "token_frequency": {
+            "mã": 1,
+            "giảm_giá": 1,
+            "dành": 1,
+            "cửa_hàng": 1,
+            "máy_ảnh": 1,
+            "trực_tuyến": 1
+        },
+        "original_item": {
+            "Intent": "ask_promotion",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Chiếc máy ảnh này có phải là hàng chính hãng hay hàng xách tay?",
+        "tokens": [
+            "máy_ảnh",
+            "hàng",
+            "hãng",
+            "hàng_xách"
+        ],
+        "token_frequency": {
+            "máy_ảnh": 1,
+            "hàng": 1,
+            "hãng": 1,
+            "hàng_xách": 1
+        },
+        "original_item": {
+            "Intent": "ask_authenticity",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Làm sao để xác minh máy ảnh Canon của tôi có phải là hàng thật không?",
+        "tokens": [
+            "xác",
+            "máy_ảnh",
+            "canon",
+            "hàng"
+        ],
+        "token_frequency": {
+            "xác": 1,
+            "máy_ảnh": 1,
+            "canon": 1,
+            "hàng": 1
+        },
+        "original_item": {
+            "Intent": "ask_authenticity",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Cửa hàng này có bán sản phẩm Nikon chính thức không?",
+        "tokens": [
+            "cửa_hàng",
+            "bán",
+            "sản_phẩm",
+            "nikon",
+            "chính_thức"
+        ],
+        "token_frequency": {
+            "cửa_hàng": 1,
+            "bán": 1,
+            "sản_phẩm": 1,
+            "nikon": 1,
+            "chính_thức": 1
+        },
+        "original_item": {
+            "Intent": "ask_authenticity",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Fujifilm X-T5 này là bản chính hãng hay hàng nhái?",
+        "tokens": [
+            "fujifilm",
+            "bản_chính",
+            "hãng",
+            "hàng",
+            "nhái"
+        ],
+        "token_frequency": {
+            "fujifilm": 1,
+            "bản_chính": 1,
+            "hãng": 1,
+            "hàng": 1,
+            "nhái": 1
+        },
+        "original_item": {
+            "Intent": "ask_authenticity",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Làm thế nào để kiểm tra máy ảnh Sony của tôi không phải hàng giả?",
+        "tokens": [
+            "kiểm",
+            "máy_ảnh",
+            "sony",
+            "hàng",
+            "giả"
+        ],
+        "token_frequency": {
+            "kiểm": 1,
+            "máy_ảnh": 1,
+            "sony": 1,
+            "hàng": 1,
+            "giả": 1
+        },
+        "original_item": {
+            "Intent": "ask_authenticity",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Ống kính bán ở đây là hàng chính hãng hay của bên thứ ba?",
+        "tokens": [
+            "ống_kính",
+            "bán",
+            "hàng",
+            "hãng",
+            "bên",
+            "thứ"
+        ],
+        "token_frequency": {
+            "ống_kính": 1,
+            "bán": 1,
+            "hàng": 1,
+            "hãng": 1,
+            "bên": 1,
+            "thứ": 1
+        },
+        "original_item": {
+            "Intent": "ask_authenticity",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Có sự khác biệt nào giữa máy ảnh chính hãng và máy nhập khẩu không?",
+        "tokens": [
+            "khác_biệt",
+            "máy_ảnh",
+            "hãng",
+            "máy",
+            "nhập_khẩu"
+        ],
+        "token_frequency": {
+            "khác_biệt": 1,
+            "máy_ảnh": 1,
+            "hãng": 1,
+            "máy": 1,
+            "nhập_khẩu": 1
+        },
+        "original_item": {
+            "Intent": "ask_authenticity",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Cửa hàng này có phải đại lý uỷ quyền của Panasonic không?",
+        "tokens": [
+            "cửa_hàng",
+            "đại_lý",
+            "uỷ_quyền",
+            "panasonic"
+        ],
+        "token_frequency": {
+            "cửa_hàng": 1,
+            "đại_lý": 1,
+            "uỷ_quyền": 1,
+            "panasonic": 1
+        },
+        "original_item": {
+            "Intent": "ask_authenticity",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Làm sao để biết máy ảnh này không phải hàng tân trang hay hàng giả?",
+        "tokens": [
+            "máy_ảnh",
+            "hàng",
+            "tân",
+            "giả"
+        ],
+        "token_frequency": {
+            "máy_ảnh": 1,
+            "hàng": 2,
+            "tân": 1,
+            "giả": 1
+        },
+        "original_item": {
+            "Intent": "ask_authenticity",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Máy ảnh bán online có đáng tin cậy và là hàng chính hãng không?",
+        "tokens": [
+            "máy_ảnh",
+            "bán",
+            "cậy",
+            "hàng",
+            "hãng"
+        ],
+        "token_frequency": {
+            "máy_ảnh": 1,
+            "bán": 1,
+            "cậy": 1,
+            "hàng": 1,
+            "hãng": 1
+        },
+        "original_item": {
+            "Intent": "ask_authenticity",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Đây là máy ảnh sản xuất trong nước hay nhập khẩu?",
+        "tokens": [
+            "máy_ảnh",
+            "sản_xuất",
+            "nước",
+            "nhập_khẩu"
+        ],
+        "token_frequency": {
+            "máy_ảnh": 1,
+            "sản_xuất": 1,
+            "nước": 1,
+            "nhập_khẩu": 1
+        },
+        "original_item": {
+            "Intent": "ask_authenticity",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Sản phẩm này có được phân phối chính thức tại nước tôi không?",
+        "tokens": [
+            "sản_phẩm",
+            "phân_phối",
+            "chính_thức",
+            "nước"
+        ],
+        "token_frequency": {
+            "sản_phẩm": 1,
+            "phân_phối": 1,
+            "chính_thức": 1,
+            "nước": 1
+        },
+        "original_item": {
+            "Intent": "ask_authenticity",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Đây là phiên bản dành cho thị trường Nhật Bản hay bản quốc tế?",
+        "tokens": [
+            "phiên_bản",
+            "dành",
+            "thị_trường",
+            "nhật",
+            "quốc_tế"
+        ],
+        "token_frequency": {
+            "phiên_bản": 1,
+            "dành": 1,
+            "thị_trường": 1,
+            "nhật": 1,
+            "quốc_tế": 1
+        },
+        "original_item": {
+            "Intent": "ask_authenticity",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Sự khác biệt giữa hàng xám và hàng chính hãng là gì?",
+        "tokens": [
+            "khác_biệt",
+            "hàng",
+            "xám",
+            "hãng"
+        ],
+        "token_frequency": {
+            "khác_biệt": 1,
+            "hàng": 2,
+            "xám": 1,
+            "hãng": 1
+        },
+        "original_item": {
+            "Intent": "ask_authenticity",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Chiếc máy này có được coi là ‘hàng xách tay’ không?",
+        "tokens": [
+            "máy",
+            "hàng_xách"
+        ],
+        "token_frequency": {
+            "máy": 1,
+            "hàng_xách": 1
+        },
+        "original_item": {
+            "Intent": "ask_authenticity",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Máy ảnh này có kèm bảo hành nội địa hay bảo hành quốc tế?",
+        "tokens": [
+            "máy_ảnh",
+            "kèm",
+            "bảo_hành",
+            "nội_địa",
+            "quốc_tế"
+        ],
+        "token_frequency": {
+            "máy_ảnh": 1,
+            "kèm": 1,
+            "bảo_hành": 2,
+            "nội_địa": 1,
+            "quốc_tế": 1
+        },
+        "original_item": {
+            "Intent": "ask_authenticity",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Có vấn đề gì khi mua máy nhập khẩu từ Mỹ về Việt Nam không?",
+        "tokens": [
+            "vấn_đề",
+            "máy",
+            "nhập_khẩu",
+            "mỹ",
+            "việt"
+        ],
+        "token_frequency": {
+            "vấn_đề": 1,
+            "máy": 1,
+            "nhập_khẩu": 1,
+            "mỹ": 1,
+            "việt": 1
+        },
+        "original_item": {
+            "Intent": "ask_authenticity",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Làm sao để biết đây là máy ảnh trong nước hay quốc tế?",
+        "tokens": [
+            "máy_ảnh",
+            "nước",
+            "quốc_tế"
+        ],
+        "token_frequency": {
+            "máy_ảnh": 1,
+            "nước": 1,
+            "quốc_tế": 1
+        },
+        "original_item": {
+            "Intent": "ask_authenticity",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Phiên bản này có được hỗ trợ bảo hành đầy đủ ở khu vực tôi không?",
+        "tokens": [
+            "phiên_bản",
+            "hỗ_trợ",
+            "bảo_hành",
+            "đầy_đủ",
+            "vực"
+        ],
+        "token_frequency": {
+            "phiên_bản": 1,
+            "hỗ_trợ": 1,
+            "bảo_hành": 1,
+            "đầy_đủ": 1,
+            "vực": 1
+        },
+        "original_item": {
+            "Intent": "ask_authenticity",
+            "Response": ""
+        }
+    },
+    {
+        "processed_text": "Đây là phiên bản toàn cầu hay chỉ dành cho một khu vực cụ thể?",
+        "tokens": [
+            "phiên_bản",
+            "toàn_cầu",
+            "dành",
+            "vực",
+            "cụ_thể"
+        ],
+        "token_frequency": {
+            "phiên_bản": 1,
+            "toàn_cầu": 1,
+            "dành": 1,
+            "vực": 1,
+            "cụ_thể": 1
+        },
+        "original_item": {
+            "Intent": "ask_authenticity",
+            "Response": ""
+        }
+    }
+]

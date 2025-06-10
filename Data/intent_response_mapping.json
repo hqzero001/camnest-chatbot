@@ -1,0 +1,10 @@
+{
+  "ask_price": "Giá của sản phẩm sẽ được hiển thị trên website hoặc bạn có thể hỏi cụ thể về từng mẫu.",
+  "ask_compare": "Bạn muốn so sánh 2 sản phẩm nào? Tôi có thể giúp bạn nếu bạn cung cấp tên.",
+  "ask_feature": "Sản phẩm có nhiều tính năng nổi bật như cảm biến lớn, quay phim 4K và chống rung.",
+  "ask_spec": "Bạn có thể hỏi thông số cụ thể như cảm biến, ống kính, ISO... tôi sẽ tra giúp.",
+  "greeting": "Chào bạn! Tôi là trợ lý AI CamNest. Bạn cần hỗ trợ gì hôm nay?",
+  "goodbye": "Hẹn gặp lại bạn. Chúc bạn một ngày tốt lành!",
+  "thanks": "Rất vui được giúp bạn!",
+  "fallback": "Xin lỗi, tôi chưa hiểu rõ câu hỏi. Bạn có thể hỏi lại chi tiết hơn được không?"
+}

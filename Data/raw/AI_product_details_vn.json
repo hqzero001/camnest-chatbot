@@ -1,0 +1,702 @@
+[
+    {
+        "Tên sản phẩm": "Máy ảnh kỹ thuật số Sony ZV-E10",
+        "Giá sản phẩm": "15.290.000đ",
+        "Hãng sản phẩm": "Sony",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "Mirrorless (không gương lật)",
+        "Loại cảm biến": "Exmor CMOS (APS-C) 23.5 x 15.6mm",
+        "Chế độ lấy nét": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh kỹ thuật số Sony ZV-1",
+        "Giá sản phẩm": "15.490.000đ",
+        "Hãng sản phẩm": "Sony",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "Compact (P&S)",
+        "Loại cảm biến": "Exmor RS CMOS 1.0",
+        "Chế độ lấy nét": "Single-shot AF, Automatic AF, Continuous AF, DMF, Manual Focus",
+        "Kích thước ảnh": "5472 x 3648"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Fujifilm Instax Camera Mini 12",
+        "Giá sản phẩm": "2.290.000đ",
+        "Hãng sản phẩm": "Fujifilm",
+        "Màu sắc": "Trắng",
+        "Loại máy ảnh": "Instant",
+        "Loại cảm biến": "CMOS 1/5 inch",
+        "Chế độ lấy nét": "Fixed Focus",
+        "Kích thước ảnh": "2560 x 1920"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Fujifilm Instax Mini Evo",
+        "Giá sản phẩm": "5.590.000đ",
+        "Hãng sản phẩm": "Fujifilm",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "Instant",
+        "Loại cảm biến": "CMOS 1/5 inch",
+        "Chế độ lấy nét": "Fixed Focus",
+        "Kích thước ảnh": "2560 x 1920"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh kỹ thuật số Sony ZV-E10L",
+        "Giá sản phẩm": "17.290.000đ",
+        "Hãng sản phẩm": "Sony",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "Mirrorless (không gương lật)",
+        "Loại cảm biến": "Exmor CMOS (APS-C) 23.5 x 15.6mm",
+        "Chế độ lấy nét": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh kỹ thuật số Sony ZV-1F",
+        "Giá sản phẩm": "13.990.000đ",
+        "Hãng sản phẩm": "Sony",
+        "Màu sắc": "Trắng",
+        "Loại máy ảnh": "Compact (P&S)",
+        "Loại cảm biến": "Exmor RS CMOS 1.0",
+        "Chế độ lấy nét": "Single-shot AF, Automatic AF, Continuous AF, DMF, Manual Focus",
+        "Kích thước ảnh": "5472 x 3648"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh kỹ thuật số Sony ILCE-6400 (Body Only)",
+        "Giá sản phẩm": "18.490.000đ",
+        "Hãng sản phẩm": "Sony",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "Mirrorless (không gương lật)",
+        "Loại cảm biến": "Exmor CMOS (APS-C) 23.5 x 15.6mm",
+        "Chế độ lấy nét": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Kỹ Thuật số Sony ILCE-6400M ",
+        "Giá sản phẩm": "25.990.000đ",
+        "Hãng sản phẩm": "Sony",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "Mirrorless (không gương lật)",
+        "Loại cảm biến": "Exmor CMOS (APS-C) 23.5 x 15.6mm",
+        "Chế độ lấy nét": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Instax lấy liền mini 99",
+        "Giá sản phẩm": "4.890.000đ",
+        "Hãng sản phẩm": "Fujifilm",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "Instant",
+        "Loại cảm biến": "CMOS 1/5 inch",
+        "Chế độ lấy nét": "Fixed Focus",
+        "Kích thước ảnh": "2560 x 1920"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh kỹ thuật số Sony full-frame Alpha 7C (Body Only)",
+        "Giá sản phẩm": "30.990.000đ",
+        "Hãng sản phẩm": "Sony",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "Mirrorless (không gương lật)",
+        "Loại cảm biến": "Exmor R CMOS Full Frame (35.6 x 23.8mm)",
+        "Chế độ lấy nét": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Kích thước ảnh": "7008 x 4672"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh kỹ thuật số Sony ZV-1 II Vlog On The Go_Lite",
+        "Giá sản phẩm": "20.990.000đ",
+        "Hãng sản phẩm": "Sony",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "Compact (P&S)",
+        "Loại cảm biến": "CMOS Exmor RS BSI 1\"",
+        "Chế độ lấy nét": "Single-shot AF, Automatic AF, Continuous AF, DMF, Manual Focus",
+        "Kích thước ảnh": "5472 x 3648"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh kỹ thuật số Sony ILCE-6700 (Body Only)",
+        "Giá sản phẩm": "35.990.000đ",
+        "Hãng sản phẩm": "Sony",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "Mirrorless (không gương lật)",
+        "Loại cảm biến": "Exmor R CMOS (APS-C) 23.3 x 15.5mm",
+        "Chế độ lấy nét": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh kỹ thuật số Sony ZV1 II",
+        "Giá sản phẩm": "19.990.000đ",
+        "Hãng sản phẩm": "Sony",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "Compact (P&S)",
+        "Loại cảm biến": "Exmor RS CMOS 1.0",
+        "Chế độ lấy nét": "Single-shot AF, Automatic AF, Continuous AF, DMF, Manual Focus",
+        "Kích thước ảnh": "5472 x 3648"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Canon EOS R10 (Body)",
+        "Giá sản phẩm": "21.990.000đ",
+        "Hãng sản phẩm": "Canon",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "Mirrorless (không gương lật)",
+        "Loại cảm biến": "CMOS APS-C 24.2MP",
+        "Chế độ lấy nét": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Sony ZV-E10 II / ZV-E10M2",
+        "Giá sản phẩm": "25.490.000đ",
+        "Hãng sản phẩm": "Sony",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "Mirrorless (không gương lật)",
+        "Loại cảm biến": "CMOS Exmor R APS-C 26MP",
+        "Chế độ lấy nét": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Canon PowerShot G7 X Mark III",
+        "Giá sản phẩm": "24.500.000đ",
+        "Hãng sản phẩm": "Canon",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "Compact (P&S)",
+        "Loại cảm biến": "CMOS 1.0 inch",
+        "Chế độ lấy nét": "Single-shot AF, Automatic AF, Continuous AF, DMF, Manual Focus",
+        "Kích thước ảnh": "5472 x 3648"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Canon EOS R6 Mark II (Body)",
+        "Giá sản phẩm": "44.590.000đ",
+        "Hãng sản phẩm": "Canon",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "Mirrorless (không gương lật)",
+        "Loại cảm biến": "CMOS Full-Frame 24.2MP",
+        "Chế độ lấy nét": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Canon EOS 750D",
+        "Giá sản phẩm": "21.950.000đ",
+        "Hãng sản phẩm": "Canon",
+        "Màu sắc": "Trắng",
+        "Loại máy ảnh": "DSLR",
+        "Loại cảm biến": "CMOS APS-C 24.2MP",
+        "Chế độ lấy nét": "Automatic AF, Continuous AF, Manual Focus",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Sony CyberShot DSC-HX99",
+        "Giá sản phẩm": "18.290.000đ",
+        "Hãng sản phẩm": "Sony",
+        "Màu sắc": "Trắng",
+        "Loại máy ảnh": "Compact (P&S)",
+        "Loại cảm biến": "Exmor RS CMOS 1/2.3 inch",
+        "Chế độ lấy nét": "Single-shot AF, Automatic AF, Continuous AF, DMF, Manual Focus",
+        "Kích thước ảnh": "4896 x 3672"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Fujifilm X100V",
+        "Giá sản phẩm": "17.390.000đ",
+        "Hãng sản phẩm": "Fujifilm",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "Compact (P&S)",
+        "Loại cảm biến": "X-Trans CMOS 4 APS-C 24.2MP",
+        "Chế độ lấy nét": "Single-shot AF, Automatic AF, Continuous AF, DMF, Manual Focus",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Sony Cybershot DSC-W810",
+        "Giá sản phẩm": "28.850.000đ",
+        "Hãng sản phẩm": "Sony",
+        "Màu sắc": "Trắng",
+        "Loại máy ảnh": "Compact (P&S)",
+        "Loại cảm biến": "Super HAD CCD 1/2.3 inch",
+        "Chế độ lấy nét": "Single-shot AF, Automatic AF, Continuous AF, Manual Focus",
+        "Kích thước ảnh": "5152 x 3864"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Fujifilm X-A3 (Body)",
+        "Giá sản phẩm": "23.290.000đ",
+        "Hãng sản phẩm": "Fujifilm",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "Mirrorless (không gương lật)",
+        "Loại cảm biến": "CMOS APS-C 24.2MP",
+        "Chế độ lấy nét": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Sony CyperShot DSC-RX100 Mark VII",
+        "Giá sản phẩm": "21.490.000đ",
+        "Hãng sản phẩm": "Sony",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "Compact (P&S)",
+        "Loại cảm biến": "Exmor RS CMOS 1.0",
+        "Chế độ lấy nét": "Single-shot AF, Automatic AF, Continuous AF, DMF, Manual Focus",
+        "Kích thước ảnh": "5472 x 3648"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Film Kodak Ektar H35N",
+        "Giá sản phẩm": "5.950.000đ",
+        "Hãng sản phẩm": "Kodak",
+        "Màu sắc": "Trắng",
+        "Loại máy ảnh": "Instant",
+        "Loại cảm biến": "Film (Half Frame)",
+        "Chế độ lấy nét": "Fixed Focus",
+        "Kích thước ảnh": "800 x 600"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Fujifilm X-T100 (Body)",
+        "Giá sản phẩm": "26.990.000đ",
+        "Hãng sản phẩm": "Fujifilm",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "Mirrorless (không gương lật)",
+        "Loại cảm biến": "CMOS APS-C 24.2MP",
+        "Chế độ lấy nét": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Kodak Mini Shot 3 C300R ",
+        "Giá sản phẩm": "16.290.000đ",
+        "Hãng sản phẩm": "Kodak",
+        "Màu sắc": "Trắng",
+        "Loại máy ảnh": "Instant",
+        "Loại cảm biến": "CMOS 1/3 inch",
+        "Chế độ lấy nét": "Fixed Focus",
+        "Kích thước ảnh": "2560 x 1920"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Kodak Mini Shot 3 C300R",
+        "Giá sản phẩm": "12.490.000đ",
+        "Hãng sản phẩm": "Kodak",
+        "Màu sắc": "Vàng",
+        "Loại máy ảnh": "Instant",
+        "Loại cảm biến": "CMOS 1/3 inch",
+        "Chế độ lấy nét": "Fixed Focus",
+        "Kích thước ảnh": "2560 x 1920"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Sony Alpha 7 IV / ILCE-7M4",
+        "Giá sản phẩm": "15.490.000đ",
+        "Hãng sản phẩm": "Sony",
+        "Màu sắc": "Trắng",
+        "Loại máy ảnh": "Mirrorless (không gương lật)",
+        "Loại cảm biến": "Exmor R CMOS Full Frame 35mm",
+        "Chế độ lấy nét": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Kích thước ảnh": "7008 x 4672"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Kodak Mini Shot 3 C300R ",
+        "Giá sản phẩm": "17.590.000đ",
+        "Hãng sản phẩm": "Kodak",
+        "Màu sắc": "Trắng",
+        "Loại máy ảnh": "Instant",
+        "Loại cảm biến": "CMOS 1/3 inch",
+        "Chế độ lấy nét": "Fixed Focus",
+        "Kích thước ảnh": "2560 x 1920"
+    },
+    {
+        "Tên sản phẩm": "Lens máy ảnh Sony E 50mm F1.8 OSS",
+        "Giá sản phẩm": "6.990.000đ",
+        "Hãng sản phẩm": "sony",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "Mirrorless (không gương lật)",
+        "Loại cảm biến": "Exmor RS CMOS 1.0",
+        "Chế độ lấy nét": "Single-shot AF, Automatic AF, Continuous AF, DMF, Manual Focus",
+        "Kích thước ảnh": "5472 x 3648"
+    },
+    {
+        "Tên sản phẩm": "Lens máy ảnh Sony E 11mm F1.8",
+        "Giá sản phẩm": "10.990.000đ",
+        "Hãng sản phẩm": "sony",
+        "Màu sắc": "Trắng",
+        "Loại máy ảnh": "Compact (P&S)",
+        "Loại cảm biến": "Super HAD CCD 1/2.3 inch",
+        "Chế độ lấy nét": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Sony CyperShot DSC-RX100 Mark VII",
+        "Giá sản phẩm": "29.590.000đ",
+        "Hãng sản phẩm": "sony",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "Mirrorless (không gương lật)",
+        "Loại cảm biến": "CMOS Exmor R APS-C 26MP",
+        "Chế độ lấy nét": "Single-shot AF, Automatic AF, Continuous AF, DMF, Manual Focus",
+        "Kích thước ảnh": "5472 x 3648"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Sony Alpha 7 IV / ILCE-7M4",
+        "Giá sản phẩm": "13.990.000đ",
+        "Hãng sản phẩm": "sony",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "Compact (P&S)",
+        "Loại cảm biến": "Exmor R CMOS, Full Frame 35mm",
+        "Chế độ lấy nét": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Kích thước ảnh": "7008 x 4672"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Sony Alpha A7 Mark IV (Body)",
+        "Giá sản phẩm": "19.190.000đ",
+        "Hãng sản phẩm": "sony",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "Compact (P&S)",
+        "Loại cảm biến": "CMOS Exmor R 33MP",
+        "Chế độ lấy nét": "Single-shot AF, Automatic AF, Continuous AF, DMF, Manual Focus",
+        "Kích thước ảnh": "5472 x 3648"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Sony Alpha A7 Mark III (Body)",
+        "Giá sản phẩm": "24.790.000đ",
+        "Hãng sản phẩm": "sony",
+        "Màu sắc": "Trắng",
+        "Loại máy ảnh": "Mirrorless (không gương lật)",
+        "Loại cảm biến": "CMOS Exmor R APS-C 26MP",
+        "Chế độ lấy nét": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Kích thước ảnh": "5472 x 3648"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh kỹ thuật số Sony full-frame Alpha 7C",
+        "Giá sản phẩm": "43.990.000đ",
+        "Hãng sản phẩm": "sony",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "Compact (P&S)",
+        "Loại cảm biến": "Sony E-mount",
+        "Chế độ lấy nét": "Single-shot AF, Automatic AF, Continuous AF, DMF, Manual Focus",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh kỹ thuật số Sony ILCE-6400M ",
+        "Giá sản phẩm": "25.990.000đ",
+        "Hãng sản phẩm": "sony",
+        "Màu sắc": "Trắng",
+        "Loại máy ảnh": "Mirrorless (không gương lật)",
+        "Loại cảm biến": "CMOS Exmor R APS-C 26MP",
+        "Chế độ lấy nét": "Single-shot AF, Automatic AF, Continuous AF, DMF, Manual Focus",
+        "Kích thước ảnh": "7008 x 4672"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Sony Alpha A7C (Body)",
+        "Giá sản phẩm": "19.890.000đ",
+        "Hãng sản phẩm": "sony",
+        "Màu sắc": "Trắng",
+        "Loại máy ảnh": "Compact (P&S)",
+        "Loại cảm biến": "Exmor RS CMOS 1.0",
+        "Chế độ lấy nét": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Kích thước ảnh": "5472 x 3648"
+    },
+    {
+        "Tên sản phẩm": "Máy Ảnh Canon EOS R50 ( White) ",
+        "Giá sản phẩm": "19.490.000đ",
+        "Hãng sản phẩm": "canon",
+        "Màu sắc": "Trắng",
+        "Loại máy ảnh": "DSLR",
+        "Loại cảm biến": "CMOS APS-C 24.2MP",
+        "Chế độ lấy nét": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Canon EOS RP (Body Only) ",
+        "Giá sản phẩm": "19.890.000đ",
+        "Hãng sản phẩm": "canon",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "Mirrorless (không gương lật)",
+        "Loại cảm biến": "CMOS Full-Frame 24.2MP",
+        "Chế độ lấy nét": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy Ảnh Canon EOS R50 V ",
+        "Giá sản phẩm": "19.990.000đ",
+        "Hãng sản phẩm": "canon",
+        "Màu sắc": "Trắng",
+        "Loại máy ảnh": "DSLR",
+        "Loại cảm biến": "CMOS Full-Frame 24.2MP",
+        "Chế độ lấy nét": "Automatic AF, Continuous AF, Manual Focus",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy Ảnh Canon PowerShot V1 ",
+        "Giá sản phẩm": "14.790.000đ",
+        "Hãng sản phẩm": "canon",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "Compact (P&S)",
+        "Loại cảm biến": "CMOS 1.4",
+        "Chế độ lấy nét": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy Ảnh Canon EOS R5 Mark II (Body Only)",
+        "Giá sản phẩm": "23.890.000đ",
+        "Hãng sản phẩm": "canon",
+        "Màu sắc": "Trắng",
+        "Loại máy ảnh": "Mirrorless (không gương lật)",
+        "Loại cảm biến": "CMOS APS-C 24.2MP",
+        "Chế độ lấy nét": "Automatic AF, Continuous AF, Manual Focus",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Canon PowerShot G7 X Mark II ",
+        "Giá sản phẩm": "22.890.000đ",
+        "Hãng sản phẩm": "canon",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "Compact (P&S)",
+        "Loại cảm biến": "CMOS 1.0 inch",
+        "Chế độ lấy nét": "Single-shot AF, Automatic AF, Continuous AF, DMF, Manual Focus",
+        "Kích thước ảnh": "5472 x 3648"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Canon EOS R100 ",
+        "Giá sản phẩm": "13.290.000đ",
+        "Hãng sản phẩm": "canon",
+        "Màu sắc": "Trắng",
+        "Loại máy ảnh": "Mirrorless (không gương lật)",
+        "Loại cảm biến": "CMOS APS-C 24.2MP",
+        "Chế độ lấy nét": "Automatic AF, Continuous AF, Manual Focus",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Canon EOS R8 (Body Only) ",
+        "Giá sản phẩm": "18.190.000đ",
+        "Hãng sản phẩm": "canon",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "DSLR",
+        "Loại cảm biến": "CMOS Full-Frame 24.2MP",
+        "Chế độ lấy nét": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy Ảnh Canon EOS R50 (Black) ",
+        "Giá sản phẩm": "18.990.000đ",
+        "Hãng sản phẩm": "canon",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "Compact (P&S)",
+        "Loại cảm biến": "CMOS APS-C 24.2MP",
+        "Chế độ lấy nét": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Canon PowerShot G7 X Mark III (Black) ",
+        "Giá sản phẩm": "28.990.000đ",
+        "Hãng sản phẩm": "canon",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "Mirrorless (không gương lật)",
+        "Loại cảm biến": "CMOS APS-C 24.2MP",
+        "Chế độ lấy nét": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Canon EOS 6D Mark II (Body Only)",
+        "Giá sản phẩm": "15.990.000đ",
+        "Hãng sản phẩm": "canon",
+        "Màu sắc": "Trắng",
+        "Loại máy ảnh": "Compact (P&S)",
+        "Loại cảm biến": "CMOS Full-Frame 24.2MP",
+        "Chế độ lấy nét": "Automatic AF, Continuous AF, Manual Focus",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy Ảnh Canon EOS R50 V (Black, Body Only) ",
+        "Giá sản phẩm": "16.290.000đ",
+        "Hãng sản phẩm": "canon",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "Mirrorless (không gương lật)",
+        "Loại cảm biến": "CMOS APS-C 24.2MP",
+        "Chế độ lấy nét": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Fujifilm Instax Mini Evo (Brown)",
+        "Giá sản phẩm": "5.150.000đ",
+        "Hãng sản phẩm": "Fujifilm",
+        "Màu sắc": "Nâu",
+        "Loại máy ảnh": "Instant",
+        "Loại cảm biến": "CMOS 1/5 inch",
+        "Chế độ lấy nét": "Fixed Focus",
+        "Kích thước ảnh": "2560 x 1920"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Fujifilm GFX 100 II ",
+        "Giá sản phẩm": "192.500.000đ",
+        "Hãng sản phẩm": "Fujifilm",
+        "Màu sắc": "Trắng",
+        "Loại máy ảnh": "Mirrorless (không gương lật)",
+        "Loại cảm biến": "X-Trans CMOS 4 APS-C 24.2MP",
+        "Chế độ lấy nét": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Fujifilm X-S20 ",
+        "Giá sản phẩm": "38.490.000đ",
+        "Hãng sản phẩm": "Fujifilm",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "Compact (P&S)",
+        "Loại cảm biến": "X-Trans CMOS 4 APS-C 24.2MP",
+        "Chế độ lấy nét": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Fujifilm X-S20 (Body Only) ",
+        "Giá sản phẩm": "35.490.000đ",
+        "Hãng sản phẩm": "Fujifilm",
+        "Màu sắc": "Trắng",
+        "Loại máy ảnh": "Mirrorless (không gương lật)",
+        "Loại cảm biến": "CMOS APS-C 24.2MP",
+        "Chế độ lấy nét": "Single-shot AF, Automatic AF, Continuous AF, DMF, Manual Focus",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Fujifilm Instax SQUARE SQ1 (Glacier Blue)",
+        "Giá sản phẩm": "2.890.000đ",
+        "Hãng sản phẩm": "Fujifilm",
+        "Màu sắc": "Xanh blue",
+        "Loại máy ảnh": "Instant",
+        "Loại cảm biến": "CMOS 1/5 inch",
+        "Chế độ lấy nét": "Fixed Focus",
+        "Kích thước ảnh": "2560 x 1920"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Fujifilm GFX100RF (Black) ",
+        "Giá sản phẩm": "144.990.000đ",
+        "Hãng sản phẩm": "Fujifilm",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "Mirrorless (không gương lật)",
+        "Loại cảm biến": "X-Trans CMOS 4 APS-C 24.2MP",
+        "Chế độ lấy nét": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Fujifilm Instax Mini Evo (Black) ",
+        "Giá sản phẩm": "5.150.000đ",
+        "Hãng sản phẩm": "Fujifilm",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "Instant",
+        "Loại cảm biến": "CMOS 1/5 inch",
+        "Chế độ lấy nét": "Fixed Focus",
+        "Kích thước ảnh": "2560 x 1920"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Fujifilm X-M5",
+        "Giá sản phẩm": "30.990.000đ",
+        "Hãng sản phẩm": "Fujifilm",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "Compact (P&S)",
+        "Loại cảm biến": "X-Trans CMOS 4 APS-C 24.2MP",
+        "Chế độ lấy nét": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Fujifilm GFX100RF (Silver)",
+        "Giá sản phẩm": "26.790.000đ",
+        "Hãng sản phẩm": "Fujifilm",
+        "Màu sắc": "Bạc",
+        "Loại máy ảnh": "Mirrorless (không gương lật)",
+        "Loại cảm biến": "CMOS APS-C 24.2MP",
+        "Chế độ lấy nét": "Single-shot AF, Automatic AF, Continuous AF, DMF, Manual Focus",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy Ảnh Fujifilm X-M5 (Silver) ",
+        "Giá sản phẩm": "28.490.000đ",
+        "Hãng sản phẩm": "Fujifilm",
+        "Màu sắc": "Bạc",
+        "Loại máy ảnh": "Compact (P&S)",
+        "Loại cảm biến": "CMOS APS-C 24.2MP",
+        "Chế độ lấy nét": "Single-shot AF, Automatic AF, Continuous AF, DMF, Manual Focus",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Fujifilm X-M5 ",
+        "Giá sản phẩm": "31.490.000đ",
+        "Hãng sản phẩm": "Fujifilm",
+        "Màu sắc": "Trắng",
+        "Loại máy ảnh": "Mirrorless (không gương lật)",
+        "Loại cảm biến": "X-Trans CMOS 4 APS-C 24.2MP",
+        "Chế độ lấy nét": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Fujifilm X100VI (Silver)",
+        "Giá sản phẩm": "36.590.000đ",
+        "Hãng sản phẩm": "Fujifilm",
+        "Màu sắc": "Bạc",
+        "Loại máy ảnh": "Compact (P&S)",
+        "Loại cảm biến": "X-Trans CMOS 4 APS-C 24.2MP",
+        "Chế độ lấy nét": "Single-shot AF, Automatic AF, Continuous AF, DMF, Manual Focus",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Fujifilm X100VI (Black) ",
+        "Giá sản phẩm": "36.890.000đ",
+        "Hãng sản phẩm": "Fujifilm",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "Compact (P&S)",
+        "Loại cảm biến": "CMOS APS-C 24.2MP",
+        "Chế độ lấy nét": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Fujifilm X-T50",
+        "Giá sản phẩm": "46.490.000đ",
+        "Hãng sản phẩm": "Fujifilm",
+        "Màu sắc": "Trắng",
+        "Loại máy ảnh": "Mirrorless (không gương lật)",
+        "Loại cảm biến": "X-Trans CMOS 4 APS-C 24.2MP",
+        "Chế độ lấy nét": "Single-shot AF, Automatic AF, Continuous AF, DMF, Manual Focus",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Fujifilm X-T50 (Black, Body Only) ",
+        "Giá sản phẩm": "35.990.000đ",
+        "Hãng sản phẩm": "Fujifilm",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "Mirrorless (không gương lật)",
+        "Loại cảm biến": "X-Trans CMOS 4 APS-C 24.2MP",
+        "Chế độ lấy nét": "Single-shot AF, Automatic AF, Continuous AF, DMF, Manual Focus",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy Ảnh Fujifilm GFX 100S II ",
+        "Giá sản phẩm": "132.990.000đ",
+        "Hãng sản phẩm": "Fujifilm",
+        "Màu sắc": "Trắng",
+        "Loại máy ảnh": "Compact (P&S)",
+        "Loại cảm biến": "CMOS APS-C 24.2MP",
+        "Chế độ lấy nét": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Fujifilm X-S20 ",
+        "Giá sản phẩm": "46.490.000đ",
+        "Hãng sản phẩm": "Fujifilm",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "Mirrorless (không gương lật)",
+        "Loại cảm biến": "X-Trans CMOS 4 APS-C 24.2MP",
+        "Chế độ lấy nét": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy Ảnh Fujifilm X-M5 (Black) ",
+        "Giá sản phẩm": "27.990.000đ",
+        "Hãng sản phẩm": "Fujifilm",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "Mirrorless (không gương lật)",
+        "Loại cảm biến": "X-Trans CMOS 4 APS-C 24.2MP",
+        "Chế độ lấy nét": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Fujifilm X-T50 (Silver, Body Only) ",
+        "Giá sản phẩm": "35.990.000đ",
+        "Hãng sản phẩm": "Fujifilm",
+        "Màu sắc": "Bạc",
+        "Loại máy ảnh": "Compact (P&S)",
+        "Loại cảm biến": "CMOS APS-C 24.2MP",
+        "Chế độ lấy nét": "Single-shot AF, Automatic AF, Continuous AF, DMF, Manual Focus",
+        "Kích thước ảnh": "6000 x 4000"
+    },
+    {
+        "Tên sản phẩm": "Máy ảnh Fujifilm X-H2",
+        "Giá sản phẩm": "52.990.000đ",
+        "Hãng sản phẩm": "Fujifilm",
+        "Màu sắc": "Đen",
+        "Loại máy ảnh": "Mirrorless (không gương lật)",
+        "Loại cảm biến": "X-Trans CMOS 4 APS-C 24.2MP",
+        "Chế độ lấy nét": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Kích thước ảnh": "6000 x 4000"
+    }
+]

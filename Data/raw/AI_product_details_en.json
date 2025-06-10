@@ -1,0 +1,702 @@
+[
+    {
+        "Product name": "Sony ZV-E10 digital camera",
+        "Product price": "15,290,000 VND",
+        "Product company": "Sony",
+        "Color": "Black",
+        "Camera": "Mirrorless.",
+        "Sensor type": "Exmor CMOS (APS-C) 23.5 x 15.6mm",
+        "Focus mode": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Sony ZV-1 digital camera",
+        "Product price": "15,490,000 VND",
+        "Product company": "Sony",
+        "Color": "Black",
+        "Camera": "Compact (P&S)",
+        "Sensor type": "Exmor RS CMOS 1.0",
+        "Focus mode": "Single-shot of, Automatic of, Continuous Of, DMF, Manual Focus",
+        "Photo size": "5472 x 3648"
+    },
+    {
+        "Product name": "Fujifilm Instax camera camera 12",
+        "Product price": "2,290,000 VND",
+        "Product company": "Fujifilm",
+        "Color": "White",
+        "Camera": "Instant",
+        "Sensor type": "CMOS 1/5 inch",
+        "Focus mode": "Fixed Focus",
+        "Photo size": "2560 x 1920"
+    },
+    {
+        "Product name": "Fujifilm Instax Mini Evo camera",
+        "Product price": "5,590,000 VND",
+        "Product company": "Fujifilm",
+        "Color": "Black",
+        "Camera": "Instant",
+        "Sensor type": "CMOS 1/5 inch",
+        "Focus mode": "Fixed Focus",
+        "Photo size": "2560 x 1920"
+    },
+    {
+        "Product name": "Sony ZV-E10L digital camera",
+        "Product price": "17,290,000 VND",
+        "Product company": "Sony",
+        "Color": "Black",
+        "Camera": "Mirrorless.",
+        "Sensor type": "Exmor CMOS (APS-C) 23.5 x 15.6mm",
+        "Focus mode": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Sony ZV-1F digital camera",
+        "Product price": "13,990,000 VND",
+        "Product company": "Sony",
+        "Color": "White",
+        "Camera": "Compact (P&S)",
+        "Sensor type": "Exmor RS CMOS 1.0",
+        "Focus mode": "Single-shot of, Automatic of, Continuous Of, DMF, Manual Focus",
+        "Photo size": "5472 x 3648"
+    },
+    {
+        "Product name": "Sony ILCE-6400 digital camera (Body only)",
+        "Product price": "18,490,000 VND",
+        "Product company": "Sony",
+        "Color": "Black",
+        "Camera": "Mirrorless.",
+        "Sensor type": "Exmor CMOS (APS-C) 23.5 x 15.6mm",
+        "Focus mode": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Sony Ilce-6400M digital camera",
+        "Product price": "25,990,000 VND",
+        "Product company": "Sony",
+        "Color": "Black",
+        "Camera": "Mirrorless.",
+        "Sensor type": "Exmor CMOS (APS-C) 23.5 x 15.6mm",
+        "Focus mode": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Instax camera takes immediately mini 99",
+        "Product price": "4,890,000 VND",
+        "Product company": "Fujifilm",
+        "Color": "Black",
+        "Camera": "Instant",
+        "Sensor type": "CMOS 1/5 inch",
+        "Focus mode": "Fixed Focus",
+        "Photo size": "2560 x 1920"
+    },
+    {
+        "Product name": "Sony Full-Frame Alpha 7C Digital Camera (Body Only)",
+        "Product price": "30,990,000 VND",
+        "Product company": "Sony",
+        "Color": "Black",
+        "Camera": "Mirrorless.",
+        "Sensor type": "Exmor R CMOS Full Frame (35.6 x 23.8mm)",
+        "Focus mode": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Photo size": "7008 x 4672"
+    },
+    {
+        "Product name": "Sony ZV-1 II Vlog on the Go_Lite",
+        "Product price": "20,990,000 VND",
+        "Product company": "Sony",
+        "Color": "Black",
+        "Camera": "Compact (P&S)",
+        "Sensor type": "CMOS Exmor RS BSI 1\"",
+        "Focus mode": "Single-shot of, Automatic of, Continuous Of, DMF, Manual Focus",
+        "Photo size": "5472 x 3648"
+    },
+    {
+        "Product name": "Sony Ilce-6700 digital camera (Body only)",
+        "Product price": "35,990,000 VND",
+        "Product company": "Sony",
+        "Color": "Black",
+        "Camera": "Mirrorless.",
+        "Sensor type": "Exmor R CMOS (APS-C) 23.3 x 15.5mm",
+        "Focus mode": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Sony ZV1 II digital camera",
+        "Product price": "19,990,000 VND",
+        "Product company": "Sony",
+        "Color": "Black",
+        "Camera": "Compact (P&S)",
+        "Sensor type": "Exmor RS CMOS 1.0",
+        "Focus mode": "Single-shot of, Automatic of, Continuous Of, DMF, Manual Focus",
+        "Photo size": "5472 x 3648"
+    },
+    {
+        "Product name": "Canon EOS R10 (Body) camera",
+        "Product price": "21,990,000 VND",
+        "Product company": "Canon",
+        "Color": "Black",
+        "Camera": "Mirrorless.",
+        "Sensor type": "CMOS APS-C 24.2MP",
+        "Focus mode": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Sony ZV-E10 II / ZV-E10m2 camera",
+        "Product price": "25,490,000 VND",
+        "Product company": "Sony",
+        "Color": "Black",
+        "Camera": "Mirrorless.",
+        "Sensor type": "CMOS Exmor R APS-C 26MP",
+        "Focus mode": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Canon Powershot G7 X Mark III camera",
+        "Product price": "24,500,000 VND",
+        "Product company": "Canon",
+        "Color": "Black",
+        "Camera": "Compact (P&S)",
+        "Sensor type": "CMOS 1.0 inch",
+        "Focus mode": "Single-shot of, Automatic of, Continuous Of, DMF, Manual Focus",
+        "Photo size": "5472 x 3648"
+    },
+    {
+        "Product name": "Canon EOS R6 Mark II camera (Body)",
+        "Product price": "44,590,000 VND",
+        "Product company": "Canon",
+        "Color": "Black",
+        "Camera": "Mirrorless.",
+        "Sensor type": "CMOS Full-Frame 24.2MP",
+        "Focus mode": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Canon EOS 750D camera",
+        "Product price": "21,950,000 VND",
+        "Product company": "Canon",
+        "Color": "White",
+        "Camera": "DSLR",
+        "Sensor type": "CMOS APS-C 24.2MP",
+        "Focus mode": "Automatic of, Continuous of, Manual Focus",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Sony Cybershot DSC-HX99 camera",
+        "Product price": "18,290,000 VND",
+        "Product company": "Sony",
+        "Color": "White",
+        "Camera": "Compact (P&S)",
+        "Sensor type": "Exmor RS CMOS 1/2.3 inch",
+        "Focus mode": "Single-shot of, Automatic of, Continuous Of, DMF, Manual Focus",
+        "Photo size": "4896 x 3672"
+    },
+    {
+        "Product name": "Fujifilm X100V camera",
+        "Product price": "17,390,000 VND",
+        "Product company": "Fujifilm",
+        "Color": "Black",
+        "Camera": "Compact (P&S)",
+        "Sensor type": "X-Trans CMOS 4 APS-C 24.2MP",
+        "Focus mode": "Single-shot of, Automatic of, Continuous Of, DMF, Manual Focus",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Sony Cybershot DSC-W810 camera",
+        "Product price": "28,850,000 VND",
+        "Product company": "Sony",
+        "Color": "White",
+        "Camera": "Compact (P&S)",
+        "Sensor type": "Super HAD CCD 1/2.3 inch",
+        "Focus mode": "Single-shot of, Automatic of, Continuous of, Manual Focus",
+        "Photo size": "5152 x 3864"
+    },
+    {
+        "Product name": "Fujifilm X-A3 camera (Body)",
+        "Product price": "23,290,000 VND",
+        "Product company": "Fujifilm",
+        "Color": "Black",
+        "Camera": "Mirrorless.",
+        "Sensor type": "CMOS APS-C 24.2MP",
+        "Focus mode": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Sony Cypershot DSC-RX100 Mark VII camera",
+        "Product price": "21,490,000 VND",
+        "Product company": "Sony",
+        "Color": "Black",
+        "Camera": "Compact (P&S)",
+        "Sensor type": "Exmor RS CMOS 1.0",
+        "Focus mode": "Single-shot of, Automatic of, Continuous Of, DMF, Manual Focus",
+        "Photo size": "5472 x 3648"
+    },
+    {
+        "Product name": "Film camera Kodak Ektar H35N",
+        "Product price": "5,950,000 VND",
+        "Product company": "Kodak",
+        "Color": "White",
+        "Camera": "Instant",
+        "Sensor type": "Film (Half Frame)",
+        "Focus mode": "Fixed Focus",
+        "Photo size": "800 x 600"
+    },
+    {
+        "Product name": "Fujifilm X-T100 (Body) camera",
+        "Product price": "26,990,000 VND",
+        "Product company": "Fujifilm",
+        "Color": "Black",
+        "Camera": "Mirrorless.",
+        "Sensor type": "CMOS APS-C 24.2MP",
+        "Focus mode": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Camera Kodak Mini Shot 3 C300R",
+        "Product price": "16,290,000 VND",
+        "Product company": "Kodak",
+        "Color": "White",
+        "Camera": "Instant",
+        "Sensor type": "CMOS 1/3 inch",
+        "Focus mode": "Fixed Focus",
+        "Photo size": "2560 x 1920"
+    },
+    {
+        "Product name": "Camera Kodak Mini Shot 3 C300R",
+        "Product price": "12,490,000 VND",
+        "Product company": "Kodak",
+        "Color": "Yellow",
+        "Camera": "Instant",
+        "Sensor type": "CMOS 1/3 inch",
+        "Focus mode": "Fixed Focus",
+        "Photo size": "2560 x 1920"
+    },
+    {
+        "Product name": "Sony Alpha 7 IV / ILCE-7M4 camera",
+        "Product price": "15,490,000 VND",
+        "Product company": "Sony",
+        "Color": "White",
+        "Camera": "Mirrorless.",
+        "Sensor type": "Exmor R CMOS Full Frame 35mm",
+        "Focus mode": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Photo size": "7008 x 4672"
+    },
+    {
+        "Product name": "Camera Kodak Mini Shot 3 C300R",
+        "Product price": "17,590,000 VND",
+        "Product company": "Kodak",
+        "Color": "White",
+        "Camera": "Instant",
+        "Sensor type": "CMOS 1/3 inch",
+        "Focus mode": "Fixed Focus",
+        "Photo size": "2560 x 1920"
+    },
+    {
+        "Product name": "Sony E 50mm F1.8 OSS camera lens",
+        "Product price": "6,990,000 VND",
+        "Product company": "sony",
+        "Color": "Black",
+        "Camera": "Mirrorless.",
+        "Sensor type": "Exmor RS CMOS 1.0",
+        "Focus mode": "Single-shot of, Automatic of, Continuous Of, DMF, Manual Focus",
+        "Photo size": "5472 x 3648"
+    },
+    {
+        "Product name": "Sony E 11mm F1.8 camera lens",
+        "Product price": "10,990,000 VND",
+        "Product company": "sony",
+        "Color": "White",
+        "Camera": "Compact (P&S)",
+        "Sensor type": "Super HAD CCD 1/2.3 inch",
+        "Focus mode": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Sony Cypershot DSC-RX100 Mark VII camera",
+        "Product price": "29,590,000 VND",
+        "Product company": "sony",
+        "Color": "Black",
+        "Camera": "Mirrorless.",
+        "Sensor type": "CMOS Exmor R APS-C 26MP",
+        "Focus mode": "Single-shot of, Automatic of, Continuous Of, DMF, Manual Focus",
+        "Photo size": "5472 x 3648"
+    },
+    {
+        "Product name": "Sony Alpha 7 IV / ILCE-7M4 camera",
+        "Product price": "13,990,000 VND",
+        "Product company": "sony",
+        "Color": "Black",
+        "Camera": "Compact (P&S)",
+        "Sensor type": "Exmor R CMOS, Full Frame 35mm",
+        "Focus mode": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Photo size": "7008 x 4672"
+    },
+    {
+        "Product name": "Sony Alpha A7 Mark IV camera (Body)",
+        "Product price": "19,190,000 VND",
+        "Product company": "sony",
+        "Color": "Black",
+        "Camera": "Compact (P&S)",
+        "Sensor type": "CMOS Exmor R 33MP",
+        "Focus mode": "Single-shot of, Automatic of, Continuous Of, DMF, Manual Focus",
+        "Photo size": "5472 x 3648"
+    },
+    {
+        "Product name": "Sony Alpha A7 Mark III camera (Body)",
+        "Product price": "24,790,000 VND",
+        "Product company": "sony",
+        "Color": "White",
+        "Camera": "Mirrorless.",
+        "Sensor type": "CMOS Exmor R APS-C 26MP",
+        "Focus mode": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Photo size": "5472 x 3648"
+    },
+    {
+        "Product name": "Sony Full-Frame Alpha 7C digital camera",
+        "Product price": "43,990,000 VND",
+        "Product company": "sony",
+        "Color": "Black",
+        "Camera": "Compact (P&S)",
+        "Sensor type": "Sony E-mount",
+        "Focus mode": "Single-shot of, Automatic of, Continuous Of, DMF, Manual Focus",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Sony Ilce-6400M digital camera",
+        "Product price": "25,990,000 VND",
+        "Product company": "sony",
+        "Color": "White",
+        "Camera": "Mirrorless.",
+        "Sensor type": "CMOS Exmor R APS-C 26MP",
+        "Focus mode": "Single-shot of, Automatic of, Continuous Of, DMF, Manual Focus",
+        "Photo size": "7008 x 4672"
+    },
+    {
+        "Product name": "Sony Alpha A7C (Body) camera",
+        "Product price": "19,890,000 VND",
+        "Product company": "sony",
+        "Color": "White",
+        "Camera": "Compact (P&S)",
+        "Sensor type": "Exmor RS CMOS 1.0",
+        "Focus mode": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Photo size": "5472 x 3648"
+    },
+    {
+        "Product name": "Canon EOS R50 Camera (White)",
+        "Product price": "19,490,000 VND",
+        "Product company": "canon",
+        "Color": "White",
+        "Camera": "DSLR",
+        "Sensor type": "CMOS APS-C 24.2MP",
+        "Focus mode": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Canon EOS RP camera (Body only)",
+        "Product price": "19,890,000 VND",
+        "Product company": "canon",
+        "Color": "Black",
+        "Camera": "Mirrorless.",
+        "Sensor type": "CMOS Full-Frame 24.2MP",
+        "Focus mode": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Canon EOS R50 V camera",
+        "Product price": "19,990,000 VND",
+        "Product company": "canon",
+        "Color": "White",
+        "Camera": "DSLR",
+        "Sensor type": "CMOS Full-Frame 24.2MP",
+        "Focus mode": "Automatic of, Continuous of, Manual Focus",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Canon Powershot V1 camera",
+        "Product price": "14,790,000 VND",
+        "Product company": "canon",
+        "Color": "Black",
+        "Camera": "Compact (P&S)",
+        "Sensor type": "CMOS 1.4",
+        "Focus mode": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Canon EOS R5 Mark II camera (Body only)",
+        "Product price": "23,890,000 VND",
+        "Product company": "canon",
+        "Color": "White",
+        "Camera": "Mirrorless.",
+        "Sensor type": "CMOS APS-C 24.2MP",
+        "Focus mode": "Automatic of, Continuous of, Manual Focus",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Canon Powershot G7 X Mark II camera",
+        "Product price": "22,890,000 VND",
+        "Product company": "canon",
+        "Color": "Black",
+        "Camera": "Compact (P&S)",
+        "Sensor type": "CMOS 1.0 inch",
+        "Focus mode": "Single-shot of, Automatic of, Continuous Of, DMF, Manual Focus",
+        "Photo size": "5472 x 3648"
+    },
+    {
+        "Product name": "Canon EOS R100 camera",
+        "Product price": "13,290,000 VND",
+        "Product company": "canon",
+        "Color": "White",
+        "Camera": "Mirrorless.",
+        "Sensor type": "CMOS APS-C 24.2MP",
+        "Focus mode": "Automatic of, Continuous of, Manual Focus",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Canon EOS R8 Camera (Body Only)",
+        "Product price": "18,190,000 VND",
+        "Product company": "canon",
+        "Color": "Black",
+        "Camera": "DSLR",
+        "Sensor type": "CMOS Full-Frame 24.2MP",
+        "Focus mode": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Canon EOS R50 (Black) camera",
+        "Product price": "18,990,000 VND",
+        "Product company": "canon",
+        "Color": "Black",
+        "Camera": "Compact (P&S)",
+        "Sensor type": "CMOS APS-C 24.2MP",
+        "Focus mode": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Canon Powershot G7 X Mark III camera (Black)",
+        "Product price": "28,990,000 VND",
+        "Product company": "canon",
+        "Color": "Black",
+        "Camera": "Mirrorless.",
+        "Sensor type": "CMOS APS-C 24.2MP",
+        "Focus mode": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Canon EOS 6D Mark II camera (Body only)",
+        "Product price": "15,990,000 VND",
+        "Product company": "canon",
+        "Color": "White",
+        "Camera": "Compact (P&S)",
+        "Sensor type": "CMOS Full-Frame 24.2MP",
+        "Focus mode": "Automatic of, Continuous of, Manual Focus",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Canon EOS R50 V camera (Black, Body Only)",
+        "Product price": "16,290,000 VND",
+        "Product company": "canon",
+        "Color": "Black",
+        "Camera": "Mirrorless.",
+        "Sensor type": "CMOS APS-C 24.2MP",
+        "Focus mode": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Fujifilm Instax Mini Evo camera (Brown)",
+        "Product price": "5,150,000 VND",
+        "Product company": "Fujifilm",
+        "Color": "Brown",
+        "Camera": "Instant",
+        "Sensor type": "CMOS 1/5 inch",
+        "Focus mode": "Fixed Focus",
+        "Photo size": "2560 x 1920"
+    },
+    {
+        "Product name": "Fujifilm GFX 100 II camera",
+        "Product price": "192,500,000 VND",
+        "Product company": "Fujifilm",
+        "Color": "White",
+        "Camera": "Mirrorless.",
+        "Sensor type": "X-Trans CMOS 4 APS-C 24.2MP",
+        "Focus mode": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Fujifilm X-S20 camera",
+        "Product price": "38,490,000 VND",
+        "Product company": "Fujifilm",
+        "Color": "Black",
+        "Camera": "Compact (P&S)",
+        "Sensor type": "X-Trans CMOS 4 APS-C 24.2MP",
+        "Focus mode": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Fujifilm X-S20 camera (Body only)",
+        "Product price": "35,490,000 VND",
+        "Product company": "Fujifilm",
+        "Color": "White",
+        "Camera": "Mirrorless.",
+        "Sensor type": "CMOS APS-C 24.2MP",
+        "Focus mode": "Single-shot of, Automatic of, Continuous Of, DMF, Manual Focus",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Fujifilm Instax Square SQ1 camera (Glacier Blue)",
+        "Product price": "2,890,000 VND",
+        "Product company": "Fujifilm",
+        "Color": "Blue Blue",
+        "Camera": "Instant",
+        "Sensor type": "CMOS 1/5 inch",
+        "Focus mode": "Fixed Focus",
+        "Photo size": "2560 x 1920"
+    },
+    {
+        "Product name": "Fujifilm GFX100RF (Black) camera",
+        "Product price": "144,990,000 VND",
+        "Product company": "Fujifilm",
+        "Color": "Black",
+        "Camera": "Mirrorless.",
+        "Sensor type": "X-Trans CMOS 4 APS-C 24.2MP",
+        "Focus mode": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Fujifilm Instax Mini Evo Camera (Black)",
+        "Product price": "5,150,000 VND",
+        "Product company": "Fujifilm",
+        "Color": "Black",
+        "Camera": "Instant",
+        "Sensor type": "CMOS 1/5 inch",
+        "Focus mode": "Fixed Focus",
+        "Photo size": "2560 x 1920"
+    },
+    {
+        "Product name": "Fujifilm X-M camera",
+        "Product price": "30,990,000 VND",
+        "Product company": "Fujifilm",
+        "Color": "Black",
+        "Camera": "Compact (P&S)",
+        "Sensor type": "X-Trans CMOS 4 APS-C 24.2MP",
+        "Focus mode": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Fujifilm GFX100RF (Silver) camera",
+        "Product price": "26,790,000 VND",
+        "Product company": "Fujifilm",
+        "Color": "Silver",
+        "Camera": "Mirrorless.",
+        "Sensor type": "CMOS APS-C 24.2MP",
+        "Focus mode": "Single-shot of, Automatic of, Continuous Of, DMF, Manual Focus",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Fujifilm X-M (Silver) camera",
+        "Product price": "28,490,000 VND",
+        "Product company": "Fujifilm",
+        "Color": "Silver",
+        "Camera": "Compact (P&S)",
+        "Sensor type": "CMOS APS-C 24.2MP",
+        "Focus mode": "Single-shot of, Automatic of, Continuous Of, DMF, Manual Focus",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Fujifilm X-M camera",
+        "Product price": "31,490,000 VND",
+        "Product company": "Fujifilm",
+        "Color": "White",
+        "Camera": "Mirrorless.",
+        "Sensor type": "X-Trans CMOS 4 APS-C 24.2MP",
+        "Focus mode": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Fujifilm X100VI (Silver) camera",
+        "Product price": "36,590,000 VND",
+        "Product company": "Fujifilm",
+        "Color": "Silver",
+        "Camera": "Compact (P&S)",
+        "Sensor type": "X-Trans CMOS 4 APS-C 24.2MP",
+        "Focus mode": "Single-shot of, Automatic of, Continuous Of, DMF, Manual Focus",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Fujifilm X100VI (Black) camera",
+        "Product price": "36,890,000 VND",
+        "Product company": "Fujifilm",
+        "Color": "Black",
+        "Camera": "Compact (P&S)",
+        "Sensor type": "CMOS APS-C 24.2MP",
+        "Focus mode": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Fujifilm X-T50 camera",
+        "Product price": "46,490,000 VND",
+        "Product company": "Fujifilm",
+        "Color": "White",
+        "Camera": "Mirrorless.",
+        "Sensor type": "X-Trans CMOS 4 APS-C 24.2MP",
+        "Focus mode": "Single-shot of, Automatic of, Continuous Of, DMF, Manual Focus",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Fujifilm X-T50 camera (Black, Body Only)",
+        "Product price": "35,990,000 VND",
+        "Product company": "Fujifilm",
+        "Color": "Black",
+        "Camera": "Mirrorless.",
+        "Sensor type": "X-Trans CMOS 4 APS-C 24.2MP",
+        "Focus mode": "Single-shot of, Automatic of, Continuous Of, DMF, Manual Focus",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Fujifilm GFX 100S II camera",
+        "Product price": "132,990,000 VND",
+        "Product company": "Fujifilm",
+        "Color": "White",
+        "Camera": "Compact (P&S)",
+        "Sensor type": "CMOS APS-C 24.2MP",
+        "Focus mode": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Fujifilm X-S20 camera",
+        "Product price": "46,490,000 VND",
+        "Product company": "Fujifilm",
+        "Color": "Black",
+        "Camera": "Mirrorless.",
+        "Sensor type": "X-Trans CMOS 4 APS-C 24.2MP",
+        "Focus mode": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Fujifilm X-M (Black) camera",
+        "Product price": "27,990,000 VND",
+        "Product company": "Fujifilm",
+        "Color": "Black",
+        "Camera": "Mirrorless.",
+        "Sensor type": "X-Trans CMOS 4 APS-C 24.2MP",
+        "Focus mode": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Fujifilm X-T50 camera (Silver, Body Only)",
+        "Product price": "35,990,000 VND",
+        "Product company": "Fujifilm",
+        "Color": "Silver",
+        "Camera": "Compact (P&S)",
+        "Sensor type": "CMOS APS-C 24.2MP",
+        "Focus mode": "Single-shot of, Automatic of, Continuous Of, DMF, Manual Focus",
+        "Photo size": "6000 x 4000"
+    },
+    {
+        "Product name": "Fujifilm x-H2 camera",
+        "Product price": "52,990,000 VND",
+        "Product company": "Fujifilm",
+        "Color": "Black",
+        "Camera": "Mirrorless.",
+        "Sensor type": "X-Trans CMOS 4 APS-C 24.2MP",
+        "Focus mode": "Automatic (A), Continuous-Servo AF (C), Direct Manual Focus (DMF), Manual Focus (M), Single-Servo AF (S)",
+        "Photo size": "6000 x 4000"
+    }
+]

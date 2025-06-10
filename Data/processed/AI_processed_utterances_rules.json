@@ -1,0 +1,2681 @@
+[
+    {
+        "processed_text": "Sản phẩm có bảo hành không?",
+        "tokens": [
+            "sản_phẩm",
+            "bảo_hành"
+        ],
+        "token_frequency": {
+            "sản_phẩm": 1,
+            "bảo_hành": 1
+        },
+        "original_item": {
+            "Intent": "ask_warranty",
+            "Response": [
+                "Máy ảnh được bảo hành 24 tháng, còn ống kính bảo hành 12 tháng chính hãng. Bạn đang quan tâm đến sản phẩm nào?",
+                "Dạ, sản phẩm được bảo hành chính hãng 12 tháng trên toàn quốc bạn nhé!",
+                "Tùy sản phẩm sẽ có thời gian bảo hành khác nhau. Bạn cho mình biết mã sản phẩm để kiểm tra cụ thể nhé.",
+                "Bên mình cam kết bảo hành 1 đổi 1 trong 7 ngày nếu sản phẩm bị lỗi do nhà sản xuất.",
+                "Sản phẩm có phiếu bảo hành chính hãng kèm theo. Bạn có thể mang tới trung tâm hoặc bên mình đều được hỗ trợ.",
+                "Bảo hành áp dụng từ ngày mua hàng, vui lòng giữ lại hóa đơn hoặc thông tin đặt hàng để tiện xử lý bạn nha!",
+                "Bảo hành 12 tháng tại tất cả trung tâm ủy quyền của hãng. Cần mình gửi địa chỉ trung tâm gần bạn không ạ?",
+                "Máy ảnh và ống kính đều được bảo hành chính hãng. Một số phụ kiện như pin, sạc có bảo hành 3–6 tháng tuỳ loại.",
+                "Dạ, khi có sự cố kỹ thuật, bạn chỉ cần liên hệ bên mình hoặc đem máy tới trung tâm bảo hành để được hỗ trợ nhanh nhất.",
+                "Bạn có thể gia hạn bảo hành thêm 6–12 tháng với gói mở rộng. Có muốn mình tư vấn không ạ?",
+                "Bên mình hỗ trợ kiểm tra bảo hành theo số serial. Bạn có thể gửi mã máy để mình tra giúp nha!"
+            ]
+        }
+    },
+    {
+        "processed_text": "Bảo hành bao lâu?",
+        "tokens": [
+            "bảo_hành"
+        ],
+        "token_frequency": {
+            "bảo_hành": 1
+        },
+        "original_item": {
+            "Intent": "ask_warranty",
+            "Response": [
+                "Máy ảnh được bảo hành 24 tháng, còn ống kính bảo hành 12 tháng chính hãng. Bạn đang quan tâm đến sản phẩm nào?",
+                "Dạ, sản phẩm được bảo hành chính hãng 12 tháng trên toàn quốc bạn nhé!",
+                "Tùy sản phẩm sẽ có thời gian bảo hành khác nhau. Bạn cho mình biết mã sản phẩm để kiểm tra cụ thể nhé.",
+                "Bên mình cam kết bảo hành 1 đổi 1 trong 7 ngày nếu sản phẩm bị lỗi do nhà sản xuất.",
+                "Sản phẩm có phiếu bảo hành chính hãng kèm theo. Bạn có thể mang tới trung tâm hoặc bên mình đều được hỗ trợ.",
+                "Bảo hành áp dụng từ ngày mua hàng, vui lòng giữ lại hóa đơn hoặc thông tin đặt hàng để tiện xử lý bạn nha!",
+                "Bảo hành 12 tháng tại tất cả trung tâm ủy quyền của hãng. Cần mình gửi địa chỉ trung tâm gần bạn không ạ?",
+                "Máy ảnh và ống kính đều được bảo hành chính hãng. Một số phụ kiện như pin, sạc có bảo hành 3–6 tháng tuỳ loại.",
+                "Dạ, khi có sự cố kỹ thuật, bạn chỉ cần liên hệ bên mình hoặc đem máy tới trung tâm bảo hành để được hỗ trợ nhanh nhất.",
+                "Bạn có thể gia hạn bảo hành thêm 6–12 tháng với gói mở rộng. Có muốn mình tư vấn không ạ?",
+                "Bên mình hỗ trợ kiểm tra bảo hành theo số serial. Bạn có thể gửi mã máy để mình tra giúp nha!"
+            ]
+        }
+    },
+    {
+        "processed_text": "Chính sách bảo hành thế nào?",
+        "tokens": [
+            "chính_sách",
+            "bảo_hành"
+        ],
+        "token_frequency": {
+            "chính_sách": 1,
+            "bảo_hành": 1
+        },
+        "original_item": {
+            "Intent": "ask_warranty",
+            "Response": [
+                "Máy ảnh được bảo hành 24 tháng, còn ống kính bảo hành 12 tháng chính hãng. Bạn đang quan tâm đến sản phẩm nào?",
+                "Dạ, sản phẩm được bảo hành chính hãng 12 tháng trên toàn quốc bạn nhé!",
+                "Tùy sản phẩm sẽ có thời gian bảo hành khác nhau. Bạn cho mình biết mã sản phẩm để kiểm tra cụ thể nhé.",
+                "Bên mình cam kết bảo hành 1 đổi 1 trong 7 ngày nếu sản phẩm bị lỗi do nhà sản xuất.",
+                "Sản phẩm có phiếu bảo hành chính hãng kèm theo. Bạn có thể mang tới trung tâm hoặc bên mình đều được hỗ trợ.",
+                "Bảo hành áp dụng từ ngày mua hàng, vui lòng giữ lại hóa đơn hoặc thông tin đặt hàng để tiện xử lý bạn nha!",
+                "Bảo hành 12 tháng tại tất cả trung tâm ủy quyền của hãng. Cần mình gửi địa chỉ trung tâm gần bạn không ạ?",
+                "Máy ảnh và ống kính đều được bảo hành chính hãng. Một số phụ kiện như pin, sạc có bảo hành 3–6 tháng tuỳ loại.",
+                "Dạ, khi có sự cố kỹ thuật, bạn chỉ cần liên hệ bên mình hoặc đem máy tới trung tâm bảo hành để được hỗ trợ nhanh nhất.",
+                "Bạn có thể gia hạn bảo hành thêm 6–12 tháng với gói mở rộng. Có muốn mình tư vấn không ạ?",
+                "Bên mình hỗ trợ kiểm tra bảo hành theo số serial. Bạn có thể gửi mã máy để mình tra giúp nha!"
+            ]
+        }
+    },
+    {
+        "processed_text": "Có bảo hành chính hãng không?",
+        "tokens": [
+            "bảo_hành_chính",
+            "hãng"
+        ],
+        "token_frequency": {
+            "bảo_hành_chính": 1,
+            "hãng": 1
+        },
+        "original_item": {
+            "Intent": "ask_warranty",
+            "Response": [
+                "Máy ảnh được bảo hành 24 tháng, còn ống kính bảo hành 12 tháng chính hãng. Bạn đang quan tâm đến sản phẩm nào?",
+                "Dạ, sản phẩm được bảo hành chính hãng 12 tháng trên toàn quốc bạn nhé!",
+                "Tùy sản phẩm sẽ có thời gian bảo hành khác nhau. Bạn cho mình biết mã sản phẩm để kiểm tra cụ thể nhé.",
+                "Bên mình cam kết bảo hành 1 đổi 1 trong 7 ngày nếu sản phẩm bị lỗi do nhà sản xuất.",
+                "Sản phẩm có phiếu bảo hành chính hãng kèm theo. Bạn có thể mang tới trung tâm hoặc bên mình đều được hỗ trợ.",
+                "Bảo hành áp dụng từ ngày mua hàng, vui lòng giữ lại hóa đơn hoặc thông tin đặt hàng để tiện xử lý bạn nha!",
+                "Bảo hành 12 tháng tại tất cả trung tâm ủy quyền của hãng. Cần mình gửi địa chỉ trung tâm gần bạn không ạ?",
+                "Máy ảnh và ống kính đều được bảo hành chính hãng. Một số phụ kiện như pin, sạc có bảo hành 3–6 tháng tuỳ loại.",
+                "Dạ, khi có sự cố kỹ thuật, bạn chỉ cần liên hệ bên mình hoặc đem máy tới trung tâm bảo hành để được hỗ trợ nhanh nhất.",
+                "Bạn có thể gia hạn bảo hành thêm 6–12 tháng với gói mở rộng. Có muốn mình tư vấn không ạ?",
+                "Bên mình hỗ trợ kiểm tra bảo hành theo số serial. Bạn có thể gửi mã máy để mình tra giúp nha!"
+            ]
+        }
+    },
+    {
+        "processed_text": "Thời gian bảo hành là bao lâu?",
+        "tokens": [
+            "bảo_hành"
+        ],
+        "token_frequency": {
+            "bảo_hành": 1
+        },
+        "original_item": {
+            "Intent": "ask_warranty",
+            "Response": [
+                "Máy ảnh được bảo hành 24 tháng, còn ống kính bảo hành 12 tháng chính hãng. Bạn đang quan tâm đến sản phẩm nào?",
+                "Dạ, sản phẩm được bảo hành chính hãng 12 tháng trên toàn quốc bạn nhé!",
+                "Tùy sản phẩm sẽ có thời gian bảo hành khác nhau. Bạn cho mình biết mã sản phẩm để kiểm tra cụ thể nhé.",
+                "Bên mình cam kết bảo hành 1 đổi 1 trong 7 ngày nếu sản phẩm bị lỗi do nhà sản xuất.",
+                "Sản phẩm có phiếu bảo hành chính hãng kèm theo. Bạn có thể mang tới trung tâm hoặc bên mình đều được hỗ trợ.",
+                "Bảo hành áp dụng từ ngày mua hàng, vui lòng giữ lại hóa đơn hoặc thông tin đặt hàng để tiện xử lý bạn nha!",
+                "Bảo hành 12 tháng tại tất cả trung tâm ủy quyền của hãng. Cần mình gửi địa chỉ trung tâm gần bạn không ạ?",
+                "Máy ảnh và ống kính đều được bảo hành chính hãng. Một số phụ kiện như pin, sạc có bảo hành 3–6 tháng tuỳ loại.",
+                "Dạ, khi có sự cố kỹ thuật, bạn chỉ cần liên hệ bên mình hoặc đem máy tới trung tâm bảo hành để được hỗ trợ nhanh nhất.",
+                "Bạn có thể gia hạn bảo hành thêm 6–12 tháng với gói mở rộng. Có muốn mình tư vấn không ạ?",
+                "Bên mình hỗ trợ kiểm tra bảo hành theo số serial. Bạn có thể gửi mã máy để mình tra giúp nha!"
+            ]
+        }
+    },
+    {
+        "processed_text": "Nếu hư thì có được bảo hành không?",
+        "tokens": [
+            "hư",
+            "bảo_hành"
+        ],
+        "token_frequency": {
+            "hư": 1,
+            "bảo_hành": 1
+        },
+        "original_item": {
+            "Intent": "ask_warranty",
+            "Response": [
+                "Máy ảnh được bảo hành 24 tháng, còn ống kính bảo hành 12 tháng chính hãng. Bạn đang quan tâm đến sản phẩm nào?",
+                "Dạ, sản phẩm được bảo hành chính hãng 12 tháng trên toàn quốc bạn nhé!",
+                "Tùy sản phẩm sẽ có thời gian bảo hành khác nhau. Bạn cho mình biết mã sản phẩm để kiểm tra cụ thể nhé.",
+                "Bên mình cam kết bảo hành 1 đổi 1 trong 7 ngày nếu sản phẩm bị lỗi do nhà sản xuất.",
+                "Sản phẩm có phiếu bảo hành chính hãng kèm theo. Bạn có thể mang tới trung tâm hoặc bên mình đều được hỗ trợ.",
+                "Bảo hành áp dụng từ ngày mua hàng, vui lòng giữ lại hóa đơn hoặc thông tin đặt hàng để tiện xử lý bạn nha!",
+                "Bảo hành 12 tháng tại tất cả trung tâm ủy quyền của hãng. Cần mình gửi địa chỉ trung tâm gần bạn không ạ?",
+                "Máy ảnh và ống kính đều được bảo hành chính hãng. Một số phụ kiện như pin, sạc có bảo hành 3–6 tháng tuỳ loại.",
+                "Dạ, khi có sự cố kỹ thuật, bạn chỉ cần liên hệ bên mình hoặc đem máy tới trung tâm bảo hành để được hỗ trợ nhanh nhất.",
+                "Bạn có thể gia hạn bảo hành thêm 6–12 tháng với gói mở rộng. Có muốn mình tư vấn không ạ?",
+                "Bên mình hỗ trợ kiểm tra bảo hành theo số serial. Bạn có thể gửi mã máy để mình tra giúp nha!"
+            ]
+        }
+    },
+    {
+        "processed_text": "Bảo hành ở đâu vậy?",
+        "tokens": [
+            "bảo_hành",
+            "đâu_vậy"
+        ],
+        "token_frequency": {
+            "bảo_hành": 1,
+            "đâu_vậy": 1
+        },
+        "original_item": {
+            "Intent": "ask_warranty",
+            "Response": [
+                "Máy ảnh được bảo hành 24 tháng, còn ống kính bảo hành 12 tháng chính hãng. Bạn đang quan tâm đến sản phẩm nào?",
+                "Dạ, sản phẩm được bảo hành chính hãng 12 tháng trên toàn quốc bạn nhé!",
+                "Tùy sản phẩm sẽ có thời gian bảo hành khác nhau. Bạn cho mình biết mã sản phẩm để kiểm tra cụ thể nhé.",
+                "Bên mình cam kết bảo hành 1 đổi 1 trong 7 ngày nếu sản phẩm bị lỗi do nhà sản xuất.",
+                "Sản phẩm có phiếu bảo hành chính hãng kèm theo. Bạn có thể mang tới trung tâm hoặc bên mình đều được hỗ trợ.",
+                "Bảo hành áp dụng từ ngày mua hàng, vui lòng giữ lại hóa đơn hoặc thông tin đặt hàng để tiện xử lý bạn nha!",
+                "Bảo hành 12 tháng tại tất cả trung tâm ủy quyền của hãng. Cần mình gửi địa chỉ trung tâm gần bạn không ạ?",
+                "Máy ảnh và ống kính đều được bảo hành chính hãng. Một số phụ kiện như pin, sạc có bảo hành 3–6 tháng tuỳ loại.",
+                "Dạ, khi có sự cố kỹ thuật, bạn chỉ cần liên hệ bên mình hoặc đem máy tới trung tâm bảo hành để được hỗ trợ nhanh nhất.",
+                "Bạn có thể gia hạn bảo hành thêm 6–12 tháng với gói mở rộng. Có muốn mình tư vấn không ạ?",
+                "Bên mình hỗ trợ kiểm tra bảo hành theo số serial. Bạn có thể gửi mã máy để mình tra giúp nha!"
+            ]
+        }
+    },
+    {
+        "processed_text": "Có được đổi mới trong thời gian bảo hành không?",
+        "tokens": [
+            "đổi_mới",
+            "bảo_hành"
+        ],
+        "token_frequency": {
+            "đổi_mới": 1,
+            "bảo_hành": 1
+        },
+        "original_item": {
+            "Intent": "ask_warranty",
+            "Response": [
+                "Máy ảnh được bảo hành 24 tháng, còn ống kính bảo hành 12 tháng chính hãng. Bạn đang quan tâm đến sản phẩm nào?",
+                "Dạ, sản phẩm được bảo hành chính hãng 12 tháng trên toàn quốc bạn nhé!",
+                "Tùy sản phẩm sẽ có thời gian bảo hành khác nhau. Bạn cho mình biết mã sản phẩm để kiểm tra cụ thể nhé.",
+                "Bên mình cam kết bảo hành 1 đổi 1 trong 7 ngày nếu sản phẩm bị lỗi do nhà sản xuất.",
+                "Sản phẩm có phiếu bảo hành chính hãng kèm theo. Bạn có thể mang tới trung tâm hoặc bên mình đều được hỗ trợ.",
+                "Bảo hành áp dụng từ ngày mua hàng, vui lòng giữ lại hóa đơn hoặc thông tin đặt hàng để tiện xử lý bạn nha!",
+                "Bảo hành 12 tháng tại tất cả trung tâm ủy quyền của hãng. Cần mình gửi địa chỉ trung tâm gần bạn không ạ?",
+                "Máy ảnh và ống kính đều được bảo hành chính hãng. Một số phụ kiện như pin, sạc có bảo hành 3–6 tháng tuỳ loại.",
+                "Dạ, khi có sự cố kỹ thuật, bạn chỉ cần liên hệ bên mình hoặc đem máy tới trung tâm bảo hành để được hỗ trợ nhanh nhất.",
+                "Bạn có thể gia hạn bảo hành thêm 6–12 tháng với gói mở rộng. Có muốn mình tư vấn không ạ?",
+                "Bên mình hỗ trợ kiểm tra bảo hành theo số serial. Bạn có thể gửi mã máy để mình tra giúp nha!"
+            ]
+        }
+    },
+    {
+        "processed_text": "Có phiếu bảo hành kèm theo không?",
+        "tokens": [
+            "phiếu",
+            "bảo_hành",
+            "kèm"
+        ],
+        "token_frequency": {
+            "phiếu": 1,
+            "bảo_hành": 1,
+            "kèm": 1
+        },
+        "original_item": {
+            "Intent": "ask_warranty",
+            "Response": [
+                "Máy ảnh được bảo hành 24 tháng, còn ống kính bảo hành 12 tháng chính hãng. Bạn đang quan tâm đến sản phẩm nào?",
+                "Dạ, sản phẩm được bảo hành chính hãng 12 tháng trên toàn quốc bạn nhé!",
+                "Tùy sản phẩm sẽ có thời gian bảo hành khác nhau. Bạn cho mình biết mã sản phẩm để kiểm tra cụ thể nhé.",
+                "Bên mình cam kết bảo hành 1 đổi 1 trong 7 ngày nếu sản phẩm bị lỗi do nhà sản xuất.",
+                "Sản phẩm có phiếu bảo hành chính hãng kèm theo. Bạn có thể mang tới trung tâm hoặc bên mình đều được hỗ trợ.",
+                "Bảo hành áp dụng từ ngày mua hàng, vui lòng giữ lại hóa đơn hoặc thông tin đặt hàng để tiện xử lý bạn nha!",
+                "Bảo hành 12 tháng tại tất cả trung tâm ủy quyền của hãng. Cần mình gửi địa chỉ trung tâm gần bạn không ạ?",
+                "Máy ảnh và ống kính đều được bảo hành chính hãng. Một số phụ kiện như pin, sạc có bảo hành 3–6 tháng tuỳ loại.",
+                "Dạ, khi có sự cố kỹ thuật, bạn chỉ cần liên hệ bên mình hoặc đem máy tới trung tâm bảo hành để được hỗ trợ nhanh nhất.",
+                "Bạn có thể gia hạn bảo hành thêm 6–12 tháng với gói mở rộng. Có muốn mình tư vấn không ạ?",
+                "Bên mình hỗ trợ kiểm tra bảo hành theo số serial. Bạn có thể gửi mã máy để mình tra giúp nha!"
+            ]
+        }
+    },
+    {
+        "processed_text": "Bảo hành sản phẩm này thế nào?",
+        "tokens": [
+            "bảo_hành",
+            "sản_phẩm"
+        ],
+        "token_frequency": {
+            "bảo_hành": 1,
+            "sản_phẩm": 1
+        },
+        "original_item": {
+            "Intent": "ask_warranty",
+            "Response": [
+                "Máy ảnh được bảo hành 24 tháng, còn ống kính bảo hành 12 tháng chính hãng. Bạn đang quan tâm đến sản phẩm nào?",
+                "Dạ, sản phẩm được bảo hành chính hãng 12 tháng trên toàn quốc bạn nhé!",
+                "Tùy sản phẩm sẽ có thời gian bảo hành khác nhau. Bạn cho mình biết mã sản phẩm để kiểm tra cụ thể nhé.",
+                "Bên mình cam kết bảo hành 1 đổi 1 trong 7 ngày nếu sản phẩm bị lỗi do nhà sản xuất.",
+                "Sản phẩm có phiếu bảo hành chính hãng kèm theo. Bạn có thể mang tới trung tâm hoặc bên mình đều được hỗ trợ.",
+                "Bảo hành áp dụng từ ngày mua hàng, vui lòng giữ lại hóa đơn hoặc thông tin đặt hàng để tiện xử lý bạn nha!",
+                "Bảo hành 12 tháng tại tất cả trung tâm ủy quyền của hãng. Cần mình gửi địa chỉ trung tâm gần bạn không ạ?",
+                "Máy ảnh và ống kính đều được bảo hành chính hãng. Một số phụ kiện như pin, sạc có bảo hành 3–6 tháng tuỳ loại.",
+                "Dạ, khi có sự cố kỹ thuật, bạn chỉ cần liên hệ bên mình hoặc đem máy tới trung tâm bảo hành để được hỗ trợ nhanh nhất.",
+                "Bạn có thể gia hạn bảo hành thêm 6–12 tháng với gói mở rộng. Có muốn mình tư vấn không ạ?",
+                "Bên mình hỗ trợ kiểm tra bảo hành theo số serial. Bạn có thể gửi mã máy để mình tra giúp nha!"
+            ]
+        }
+    },
+    {
+        "processed_text": "Mình cần biết thông tin bảo hành",
+        "tokens": [
+            "thông",
+            "bảo_hành"
+        ],
+        "token_frequency": {
+            "thông": 1,
+            "bảo_hành": 1
+        },
+        "original_item": {
+            "Intent": "ask_warranty",
+            "Response": [
+                "Máy ảnh được bảo hành 24 tháng, còn ống kính bảo hành 12 tháng chính hãng. Bạn đang quan tâm đến sản phẩm nào?",
+                "Dạ, sản phẩm được bảo hành chính hãng 12 tháng trên toàn quốc bạn nhé!",
+                "Tùy sản phẩm sẽ có thời gian bảo hành khác nhau. Bạn cho mình biết mã sản phẩm để kiểm tra cụ thể nhé.",
+                "Bên mình cam kết bảo hành 1 đổi 1 trong 7 ngày nếu sản phẩm bị lỗi do nhà sản xuất.",
+                "Sản phẩm có phiếu bảo hành chính hãng kèm theo. Bạn có thể mang tới trung tâm hoặc bên mình đều được hỗ trợ.",
+                "Bảo hành áp dụng từ ngày mua hàng, vui lòng giữ lại hóa đơn hoặc thông tin đặt hàng để tiện xử lý bạn nha!",
+                "Bảo hành 12 tháng tại tất cả trung tâm ủy quyền của hãng. Cần mình gửi địa chỉ trung tâm gần bạn không ạ?",
+                "Máy ảnh và ống kính đều được bảo hành chính hãng. Một số phụ kiện như pin, sạc có bảo hành 3–6 tháng tuỳ loại.",
+                "Dạ, khi có sự cố kỹ thuật, bạn chỉ cần liên hệ bên mình hoặc đem máy tới trung tâm bảo hành để được hỗ trợ nhanh nhất.",
+                "Bạn có thể gia hạn bảo hành thêm 6–12 tháng với gói mở rộng. Có muốn mình tư vấn không ạ?",
+                "Bên mình hỗ trợ kiểm tra bảo hành theo số serial. Bạn có thể gửi mã máy để mình tra giúp nha!"
+            ]
+        }
+    },
+    {
+        "processed_text": "Bảo hành mấy tháng?",
+        "tokens": [
+            "bảo_hành"
+        ],
+        "token_frequency": {
+            "bảo_hành": 1
+        },
+        "original_item": {
+            "Intent": "ask_warranty",
+            "Response": [
+                "Máy ảnh được bảo hành 24 tháng, còn ống kính bảo hành 12 tháng chính hãng. Bạn đang quan tâm đến sản phẩm nào?",
+                "Dạ, sản phẩm được bảo hành chính hãng 12 tháng trên toàn quốc bạn nhé!",
+                "Tùy sản phẩm sẽ có thời gian bảo hành khác nhau. Bạn cho mình biết mã sản phẩm để kiểm tra cụ thể nhé.",
+                "Bên mình cam kết bảo hành 1 đổi 1 trong 7 ngày nếu sản phẩm bị lỗi do nhà sản xuất.",
+                "Sản phẩm có phiếu bảo hành chính hãng kèm theo. Bạn có thể mang tới trung tâm hoặc bên mình đều được hỗ trợ.",
+                "Bảo hành áp dụng từ ngày mua hàng, vui lòng giữ lại hóa đơn hoặc thông tin đặt hàng để tiện xử lý bạn nha!",
+                "Bảo hành 12 tháng tại tất cả trung tâm ủy quyền của hãng. Cần mình gửi địa chỉ trung tâm gần bạn không ạ?",
+                "Máy ảnh và ống kính đều được bảo hành chính hãng. Một số phụ kiện như pin, sạc có bảo hành 3–6 tháng tuỳ loại.",
+                "Dạ, khi có sự cố kỹ thuật, bạn chỉ cần liên hệ bên mình hoặc đem máy tới trung tâm bảo hành để được hỗ trợ nhanh nhất.",
+                "Bạn có thể gia hạn bảo hành thêm 6–12 tháng với gói mở rộng. Có muốn mình tư vấn không ạ?",
+                "Bên mình hỗ trợ kiểm tra bảo hành theo số serial. Bạn có thể gửi mã máy để mình tra giúp nha!"
+            ]
+        }
+    },
+    {
+        "processed_text": "Có hỗ trợ bảo hành không?",
+        "tokens": [
+            "hỗ_trợ",
+            "bảo_hành"
+        ],
+        "token_frequency": {
+            "hỗ_trợ": 1,
+            "bảo_hành": 1
+        },
+        "original_item": {
+            "Intent": "ask_warranty",
+            "Response": [
+                "Máy ảnh được bảo hành 24 tháng, còn ống kính bảo hành 12 tháng chính hãng. Bạn đang quan tâm đến sản phẩm nào?",
+                "Dạ, sản phẩm được bảo hành chính hãng 12 tháng trên toàn quốc bạn nhé!",
+                "Tùy sản phẩm sẽ có thời gian bảo hành khác nhau. Bạn cho mình biết mã sản phẩm để kiểm tra cụ thể nhé.",
+                "Bên mình cam kết bảo hành 1 đổi 1 trong 7 ngày nếu sản phẩm bị lỗi do nhà sản xuất.",
+                "Sản phẩm có phiếu bảo hành chính hãng kèm theo. Bạn có thể mang tới trung tâm hoặc bên mình đều được hỗ trợ.",
+                "Bảo hành áp dụng từ ngày mua hàng, vui lòng giữ lại hóa đơn hoặc thông tin đặt hàng để tiện xử lý bạn nha!",
+                "Bảo hành 12 tháng tại tất cả trung tâm ủy quyền của hãng. Cần mình gửi địa chỉ trung tâm gần bạn không ạ?",
+                "Máy ảnh và ống kính đều được bảo hành chính hãng. Một số phụ kiện như pin, sạc có bảo hành 3–6 tháng tuỳ loại.",
+                "Dạ, khi có sự cố kỹ thuật, bạn chỉ cần liên hệ bên mình hoặc đem máy tới trung tâm bảo hành để được hỗ trợ nhanh nhất.",
+                "Bạn có thể gia hạn bảo hành thêm 6–12 tháng với gói mở rộng. Có muốn mình tư vấn không ạ?",
+                "Bên mình hỗ trợ kiểm tra bảo hành theo số serial. Bạn có thể gửi mã máy để mình tra giúp nha!"
+            ]
+        }
+    },
+    {
+        "processed_text": "Sản phẩm bị lỗi thì xử lý sao?",
+        "tokens": [
+            "sản_phẩm",
+            "lỗi",
+            "xử_lý"
+        ],
+        "token_frequency": {
+            "sản_phẩm": 1,
+            "lỗi": 1,
+            "xử_lý": 1
+        },
+        "original_item": {
+            "Intent": "ask_warranty",
+            "Response": [
+                "Máy ảnh được bảo hành 24 tháng, còn ống kính bảo hành 12 tháng chính hãng. Bạn đang quan tâm đến sản phẩm nào?",
+                "Dạ, sản phẩm được bảo hành chính hãng 12 tháng trên toàn quốc bạn nhé!",
+                "Tùy sản phẩm sẽ có thời gian bảo hành khác nhau. Bạn cho mình biết mã sản phẩm để kiểm tra cụ thể nhé.",
+                "Bên mình cam kết bảo hành 1 đổi 1 trong 7 ngày nếu sản phẩm bị lỗi do nhà sản xuất.",
+                "Sản phẩm có phiếu bảo hành chính hãng kèm theo. Bạn có thể mang tới trung tâm hoặc bên mình đều được hỗ trợ.",
+                "Bảo hành áp dụng từ ngày mua hàng, vui lòng giữ lại hóa đơn hoặc thông tin đặt hàng để tiện xử lý bạn nha!",
+                "Bảo hành 12 tháng tại tất cả trung tâm ủy quyền của hãng. Cần mình gửi địa chỉ trung tâm gần bạn không ạ?",
+                "Máy ảnh và ống kính đều được bảo hành chính hãng. Một số phụ kiện như pin, sạc có bảo hành 3–6 tháng tuỳ loại.",
+                "Dạ, khi có sự cố kỹ thuật, bạn chỉ cần liên hệ bên mình hoặc đem máy tới trung tâm bảo hành để được hỗ trợ nhanh nhất.",
+                "Bạn có thể gia hạn bảo hành thêm 6–12 tháng với gói mở rộng. Có muốn mình tư vấn không ạ?",
+                "Bên mình hỗ trợ kiểm tra bảo hành theo số serial. Bạn có thể gửi mã máy để mình tra giúp nha!"
+            ]
+        }
+    },
+    {
+        "processed_text": "Có trung tâm bảo hành ở TP.HCM không?",
+        "tokens": [
+            "bảo_hành"
+        ],
+        "token_frequency": {
+            "bảo_hành": 1
+        },
+        "original_item": {
+            "Intent": "ask_warranty",
+            "Response": [
+                "Máy ảnh được bảo hành 24 tháng, còn ống kính bảo hành 12 tháng chính hãng. Bạn đang quan tâm đến sản phẩm nào?",
+                "Dạ, sản phẩm được bảo hành chính hãng 12 tháng trên toàn quốc bạn nhé!",
+                "Tùy sản phẩm sẽ có thời gian bảo hành khác nhau. Bạn cho mình biết mã sản phẩm để kiểm tra cụ thể nhé.",
+                "Bên mình cam kết bảo hành 1 đổi 1 trong 7 ngày nếu sản phẩm bị lỗi do nhà sản xuất.",
+                "Sản phẩm có phiếu bảo hành chính hãng kèm theo. Bạn có thể mang tới trung tâm hoặc bên mình đều được hỗ trợ.",
+                "Bảo hành áp dụng từ ngày mua hàng, vui lòng giữ lại hóa đơn hoặc thông tin đặt hàng để tiện xử lý bạn nha!",
+                "Bảo hành 12 tháng tại tất cả trung tâm ủy quyền của hãng. Cần mình gửi địa chỉ trung tâm gần bạn không ạ?",
+                "Máy ảnh và ống kính đều được bảo hành chính hãng. Một số phụ kiện như pin, sạc có bảo hành 3–6 tháng tuỳ loại.",
+                "Dạ, khi có sự cố kỹ thuật, bạn chỉ cần liên hệ bên mình hoặc đem máy tới trung tâm bảo hành để được hỗ trợ nhanh nhất.",
+                "Bạn có thể gia hạn bảo hành thêm 6–12 tháng với gói mở rộng. Có muốn mình tư vấn không ạ?",
+                "Bên mình hỗ trợ kiểm tra bảo hành theo số serial. Bạn có thể gửi mã máy để mình tra giúp nha!"
+            ]
+        }
+    },
+    {
+        "processed_text": "Hết bảo hành thì có sửa được không?",
+        "tokens": [
+            "bảo_hành",
+            "sửa"
+        ],
+        "token_frequency": {
+            "bảo_hành": 1,
+            "sửa": 1
+        },
+        "original_item": {
+            "Intent": "ask_warranty",
+            "Response": [
+                "Máy ảnh được bảo hành 24 tháng, còn ống kính bảo hành 12 tháng chính hãng. Bạn đang quan tâm đến sản phẩm nào?",
+                "Dạ, sản phẩm được bảo hành chính hãng 12 tháng trên toàn quốc bạn nhé!",
+                "Tùy sản phẩm sẽ có thời gian bảo hành khác nhau. Bạn cho mình biết mã sản phẩm để kiểm tra cụ thể nhé.",
+                "Bên mình cam kết bảo hành 1 đổi 1 trong 7 ngày nếu sản phẩm bị lỗi do nhà sản xuất.",
+                "Sản phẩm có phiếu bảo hành chính hãng kèm theo. Bạn có thể mang tới trung tâm hoặc bên mình đều được hỗ trợ.",
+                "Bảo hành áp dụng từ ngày mua hàng, vui lòng giữ lại hóa đơn hoặc thông tin đặt hàng để tiện xử lý bạn nha!",
+                "Bảo hành 12 tháng tại tất cả trung tâm ủy quyền của hãng. Cần mình gửi địa chỉ trung tâm gần bạn không ạ?",
+                "Máy ảnh và ống kính đều được bảo hành chính hãng. Một số phụ kiện như pin, sạc có bảo hành 3–6 tháng tuỳ loại.",
+                "Dạ, khi có sự cố kỹ thuật, bạn chỉ cần liên hệ bên mình hoặc đem máy tới trung tâm bảo hành để được hỗ trợ nhanh nhất.",
+                "Bạn có thể gia hạn bảo hành thêm 6–12 tháng với gói mở rộng. Có muốn mình tư vấn không ạ?",
+                "Bên mình hỗ trợ kiểm tra bảo hành theo số serial. Bạn có thể gửi mã máy để mình tra giúp nha!"
+            ]
+        }
+    },
+    {
+        "processed_text": "Máy mình còn trong thời gian bảo hành không?",
+        "tokens": [
+            "máy",
+            "bảo_hành"
+        ],
+        "token_frequency": {
+            "máy": 1,
+            "bảo_hành": 1
+        },
+        "original_item": {
+            "Intent": "ask_warranty",
+            "Response": [
+                "Máy ảnh được bảo hành 24 tháng, còn ống kính bảo hành 12 tháng chính hãng. Bạn đang quan tâm đến sản phẩm nào?",
+                "Dạ, sản phẩm được bảo hành chính hãng 12 tháng trên toàn quốc bạn nhé!",
+                "Tùy sản phẩm sẽ có thời gian bảo hành khác nhau. Bạn cho mình biết mã sản phẩm để kiểm tra cụ thể nhé.",
+                "Bên mình cam kết bảo hành 1 đổi 1 trong 7 ngày nếu sản phẩm bị lỗi do nhà sản xuất.",
+                "Sản phẩm có phiếu bảo hành chính hãng kèm theo. Bạn có thể mang tới trung tâm hoặc bên mình đều được hỗ trợ.",
+                "Bảo hành áp dụng từ ngày mua hàng, vui lòng giữ lại hóa đơn hoặc thông tin đặt hàng để tiện xử lý bạn nha!",
+                "Bảo hành 12 tháng tại tất cả trung tâm ủy quyền của hãng. Cần mình gửi địa chỉ trung tâm gần bạn không ạ?",
+                "Máy ảnh và ống kính đều được bảo hành chính hãng. Một số phụ kiện như pin, sạc có bảo hành 3–6 tháng tuỳ loại.",
+                "Dạ, khi có sự cố kỹ thuật, bạn chỉ cần liên hệ bên mình hoặc đem máy tới trung tâm bảo hành để được hỗ trợ nhanh nhất.",
+                "Bạn có thể gia hạn bảo hành thêm 6–12 tháng với gói mở rộng. Có muốn mình tư vấn không ạ?",
+                "Bên mình hỗ trợ kiểm tra bảo hành theo số serial. Bạn có thể gửi mã máy để mình tra giúp nha!"
+            ]
+        }
+    },
+    {
+        "processed_text": "Đem ra cửa hàng bảo hành được không?",
+        "tokens": [
+            "đem",
+            "cửa_hàng",
+            "bảo_hành"
+        ],
+        "token_frequency": {
+            "đem": 1,
+            "cửa_hàng": 1,
+            "bảo_hành": 1
+        },
+        "original_item": {
+            "Intent": "ask_warranty",
+            "Response": [
+                "Máy ảnh được bảo hành 24 tháng, còn ống kính bảo hành 12 tháng chính hãng. Bạn đang quan tâm đến sản phẩm nào?",
+                "Dạ, sản phẩm được bảo hành chính hãng 12 tháng trên toàn quốc bạn nhé!",
+                "Tùy sản phẩm sẽ có thời gian bảo hành khác nhau. Bạn cho mình biết mã sản phẩm để kiểm tra cụ thể nhé.",
+                "Bên mình cam kết bảo hành 1 đổi 1 trong 7 ngày nếu sản phẩm bị lỗi do nhà sản xuất.",
+                "Sản phẩm có phiếu bảo hành chính hãng kèm theo. Bạn có thể mang tới trung tâm hoặc bên mình đều được hỗ trợ.",
+                "Bảo hành áp dụng từ ngày mua hàng, vui lòng giữ lại hóa đơn hoặc thông tin đặt hàng để tiện xử lý bạn nha!",
+                "Bảo hành 12 tháng tại tất cả trung tâm ủy quyền của hãng. Cần mình gửi địa chỉ trung tâm gần bạn không ạ?",
+                "Máy ảnh và ống kính đều được bảo hành chính hãng. Một số phụ kiện như pin, sạc có bảo hành 3–6 tháng tuỳ loại.",
+                "Dạ, khi có sự cố kỹ thuật, bạn chỉ cần liên hệ bên mình hoặc đem máy tới trung tâm bảo hành để được hỗ trợ nhanh nhất.",
+                "Bạn có thể gia hạn bảo hành thêm 6–12 tháng với gói mở rộng. Có muốn mình tư vấn không ạ?",
+                "Bên mình hỗ trợ kiểm tra bảo hành theo số serial. Bạn có thể gửi mã máy để mình tra giúp nha!"
+            ]
+        }
+    },
+    {
+        "processed_text": "Cần giấy tờ gì để bảo hành?",
+        "tokens": [
+            "giấy_tờ",
+            "bảo_hành"
+        ],
+        "token_frequency": {
+            "giấy_tờ": 1,
+            "bảo_hành": 1
+        },
+        "original_item": {
+            "Intent": "ask_warranty",
+            "Response": [
+                "Máy ảnh được bảo hành 24 tháng, còn ống kính bảo hành 12 tháng chính hãng. Bạn đang quan tâm đến sản phẩm nào?",
+                "Dạ, sản phẩm được bảo hành chính hãng 12 tháng trên toàn quốc bạn nhé!",
+                "Tùy sản phẩm sẽ có thời gian bảo hành khác nhau. Bạn cho mình biết mã sản phẩm để kiểm tra cụ thể nhé.",
+                "Bên mình cam kết bảo hành 1 đổi 1 trong 7 ngày nếu sản phẩm bị lỗi do nhà sản xuất.",
+                "Sản phẩm có phiếu bảo hành chính hãng kèm theo. Bạn có thể mang tới trung tâm hoặc bên mình đều được hỗ trợ.",
+                "Bảo hành áp dụng từ ngày mua hàng, vui lòng giữ lại hóa đơn hoặc thông tin đặt hàng để tiện xử lý bạn nha!",
+                "Bảo hành 12 tháng tại tất cả trung tâm ủy quyền của hãng. Cần mình gửi địa chỉ trung tâm gần bạn không ạ?",
+                "Máy ảnh và ống kính đều được bảo hành chính hãng. Một số phụ kiện như pin, sạc có bảo hành 3–6 tháng tuỳ loại.",
+                "Dạ, khi có sự cố kỹ thuật, bạn chỉ cần liên hệ bên mình hoặc đem máy tới trung tâm bảo hành để được hỗ trợ nhanh nhất.",
+                "Bạn có thể gia hạn bảo hành thêm 6–12 tháng với gói mở rộng. Có muốn mình tư vấn không ạ?",
+                "Bên mình hỗ trợ kiểm tra bảo hành theo số serial. Bạn có thể gửi mã máy để mình tra giúp nha!"
+            ]
+        }
+    },
+    {
+        "processed_text": "Có cần hóa đơn khi bảo hành không?",
+        "tokens": [
+            "cần_hóa",
+            "đơn",
+            "bảo_hành"
+        ],
+        "token_frequency": {
+            "cần_hóa": 1,
+            "đơn": 1,
+            "bảo_hành": 1
+        },
+        "original_item": {
+            "Intent": "ask_warranty",
+            "Response": [
+                "Máy ảnh được bảo hành 24 tháng, còn ống kính bảo hành 12 tháng chính hãng. Bạn đang quan tâm đến sản phẩm nào?",
+                "Dạ, sản phẩm được bảo hành chính hãng 12 tháng trên toàn quốc bạn nhé!",
+                "Tùy sản phẩm sẽ có thời gian bảo hành khác nhau. Bạn cho mình biết mã sản phẩm để kiểm tra cụ thể nhé.",
+                "Bên mình cam kết bảo hành 1 đổi 1 trong 7 ngày nếu sản phẩm bị lỗi do nhà sản xuất.",
+                "Sản phẩm có phiếu bảo hành chính hãng kèm theo. Bạn có thể mang tới trung tâm hoặc bên mình đều được hỗ trợ.",
+                "Bảo hành áp dụng từ ngày mua hàng, vui lòng giữ lại hóa đơn hoặc thông tin đặt hàng để tiện xử lý bạn nha!",
+                "Bảo hành 12 tháng tại tất cả trung tâm ủy quyền của hãng. Cần mình gửi địa chỉ trung tâm gần bạn không ạ?",
+                "Máy ảnh và ống kính đều được bảo hành chính hãng. Một số phụ kiện như pin, sạc có bảo hành 3–6 tháng tuỳ loại.",
+                "Dạ, khi có sự cố kỹ thuật, bạn chỉ cần liên hệ bên mình hoặc đem máy tới trung tâm bảo hành để được hỗ trợ nhanh nhất.",
+                "Bạn có thể gia hạn bảo hành thêm 6–12 tháng với gói mở rộng. Có muốn mình tư vấn không ạ?",
+                "Bên mình hỗ trợ kiểm tra bảo hành theo số serial. Bạn có thể gửi mã máy để mình tra giúp nha!"
+            ]
+        }
+    },
+    {
+        "processed_text": "Nếu rơi vỡ thì có được bảo hành không?",
+        "tokens": [
+            "rơi",
+            "vỡ",
+            "bảo_hành"
+        ],
+        "token_frequency": {
+            "rơi": 1,
+            "vỡ": 1,
+            "bảo_hành": 1
+        },
+        "original_item": {
+            "Intent": "ask_warranty",
+            "Response": [
+                "Máy ảnh được bảo hành 24 tháng, còn ống kính bảo hành 12 tháng chính hãng. Bạn đang quan tâm đến sản phẩm nào?",
+                "Dạ, sản phẩm được bảo hành chính hãng 12 tháng trên toàn quốc bạn nhé!",
+                "Tùy sản phẩm sẽ có thời gian bảo hành khác nhau. Bạn cho mình biết mã sản phẩm để kiểm tra cụ thể nhé.",
+                "Bên mình cam kết bảo hành 1 đổi 1 trong 7 ngày nếu sản phẩm bị lỗi do nhà sản xuất.",
+                "Sản phẩm có phiếu bảo hành chính hãng kèm theo. Bạn có thể mang tới trung tâm hoặc bên mình đều được hỗ trợ.",
+                "Bảo hành áp dụng từ ngày mua hàng, vui lòng giữ lại hóa đơn hoặc thông tin đặt hàng để tiện xử lý bạn nha!",
+                "Bảo hành 12 tháng tại tất cả trung tâm ủy quyền của hãng. Cần mình gửi địa chỉ trung tâm gần bạn không ạ?",
+                "Máy ảnh và ống kính đều được bảo hành chính hãng. Một số phụ kiện như pin, sạc có bảo hành 3–6 tháng tuỳ loại.",
+                "Dạ, khi có sự cố kỹ thuật, bạn chỉ cần liên hệ bên mình hoặc đem máy tới trung tâm bảo hành để được hỗ trợ nhanh nhất.",
+                "Bạn có thể gia hạn bảo hành thêm 6–12 tháng với gói mở rộng. Có muốn mình tư vấn không ạ?",
+                "Bên mình hỗ trợ kiểm tra bảo hành theo số serial. Bạn có thể gửi mã máy để mình tra giúp nha!"
+            ]
+        }
+    },
+    {
+        "processed_text": "Có thể gia hạn bảo hành không?",
+        "tokens": [
+            "hạn",
+            "bảo_hành"
+        ],
+        "token_frequency": {
+            "hạn": 1,
+            "bảo_hành": 1
+        },
+        "original_item": {
+            "Intent": "ask_warranty",
+            "Response": [
+                "Máy ảnh được bảo hành 24 tháng, còn ống kính bảo hành 12 tháng chính hãng. Bạn đang quan tâm đến sản phẩm nào?",
+                "Dạ, sản phẩm được bảo hành chính hãng 12 tháng trên toàn quốc bạn nhé!",
+                "Tùy sản phẩm sẽ có thời gian bảo hành khác nhau. Bạn cho mình biết mã sản phẩm để kiểm tra cụ thể nhé.",
+                "Bên mình cam kết bảo hành 1 đổi 1 trong 7 ngày nếu sản phẩm bị lỗi do nhà sản xuất.",
+                "Sản phẩm có phiếu bảo hành chính hãng kèm theo. Bạn có thể mang tới trung tâm hoặc bên mình đều được hỗ trợ.",
+                "Bảo hành áp dụng từ ngày mua hàng, vui lòng giữ lại hóa đơn hoặc thông tin đặt hàng để tiện xử lý bạn nha!",
+                "Bảo hành 12 tháng tại tất cả trung tâm ủy quyền của hãng. Cần mình gửi địa chỉ trung tâm gần bạn không ạ?",
+                "Máy ảnh và ống kính đều được bảo hành chính hãng. Một số phụ kiện như pin, sạc có bảo hành 3–6 tháng tuỳ loại.",
+                "Dạ, khi có sự cố kỹ thuật, bạn chỉ cần liên hệ bên mình hoặc đem máy tới trung tâm bảo hành để được hỗ trợ nhanh nhất.",
+                "Bạn có thể gia hạn bảo hành thêm 6–12 tháng với gói mở rộng. Có muốn mình tư vấn không ạ?",
+                "Bên mình hỗ trợ kiểm tra bảo hành theo số serial. Bạn có thể gửi mã máy để mình tra giúp nha!"
+            ]
+        }
+    },
+    {
+        "processed_text": "Bảo hành tính từ khi mua hay khi kích hoạt?",
+        "tokens": [
+            "bảo_hành",
+            "tính",
+            "kích_hoạt"
+        ],
+        "token_frequency": {
+            "bảo_hành": 1,
+            "tính": 1,
+            "kích_hoạt": 1
+        },
+        "original_item": {
+            "Intent": "ask_warranty",
+            "Response": [
+                "Máy ảnh được bảo hành 24 tháng, còn ống kính bảo hành 12 tháng chính hãng. Bạn đang quan tâm đến sản phẩm nào?",
+                "Dạ, sản phẩm được bảo hành chính hãng 12 tháng trên toàn quốc bạn nhé!",
+                "Tùy sản phẩm sẽ có thời gian bảo hành khác nhau. Bạn cho mình biết mã sản phẩm để kiểm tra cụ thể nhé.",
+                "Bên mình cam kết bảo hành 1 đổi 1 trong 7 ngày nếu sản phẩm bị lỗi do nhà sản xuất.",
+                "Sản phẩm có phiếu bảo hành chính hãng kèm theo. Bạn có thể mang tới trung tâm hoặc bên mình đều được hỗ trợ.",
+                "Bảo hành áp dụng từ ngày mua hàng, vui lòng giữ lại hóa đơn hoặc thông tin đặt hàng để tiện xử lý bạn nha!",
+                "Bảo hành 12 tháng tại tất cả trung tâm ủy quyền của hãng. Cần mình gửi địa chỉ trung tâm gần bạn không ạ?",
+                "Máy ảnh và ống kính đều được bảo hành chính hãng. Một số phụ kiện như pin, sạc có bảo hành 3–6 tháng tuỳ loại.",
+                "Dạ, khi có sự cố kỹ thuật, bạn chỉ cần liên hệ bên mình hoặc đem máy tới trung tâm bảo hành để được hỗ trợ nhanh nhất.",
+                "Bạn có thể gia hạn bảo hành thêm 6–12 tháng với gói mở rộng. Có muốn mình tư vấn không ạ?",
+                "Bên mình hỗ trợ kiểm tra bảo hành theo số serial. Bạn có thể gửi mã máy để mình tra giúp nha!"
+            ]
+        }
+    },
+    {
+        "processed_text": "Có bảo hành quốc tế không?",
+        "tokens": [
+            "bảo_hành",
+            "quốc_tế"
+        ],
+        "token_frequency": {
+            "bảo_hành": 1,
+            "quốc_tế": 1
+        },
+        "original_item": {
+            "Intent": "ask_warranty",
+            "Response": [
+                "Máy ảnh được bảo hành 24 tháng, còn ống kính bảo hành 12 tháng chính hãng. Bạn đang quan tâm đến sản phẩm nào?",
+                "Dạ, sản phẩm được bảo hành chính hãng 12 tháng trên toàn quốc bạn nhé!",
+                "Tùy sản phẩm sẽ có thời gian bảo hành khác nhau. Bạn cho mình biết mã sản phẩm để kiểm tra cụ thể nhé.",
+                "Bên mình cam kết bảo hành 1 đổi 1 trong 7 ngày nếu sản phẩm bị lỗi do nhà sản xuất.",
+                "Sản phẩm có phiếu bảo hành chính hãng kèm theo. Bạn có thể mang tới trung tâm hoặc bên mình đều được hỗ trợ.",
+                "Bảo hành áp dụng từ ngày mua hàng, vui lòng giữ lại hóa đơn hoặc thông tin đặt hàng để tiện xử lý bạn nha!",
+                "Bảo hành 12 tháng tại tất cả trung tâm ủy quyền của hãng. Cần mình gửi địa chỉ trung tâm gần bạn không ạ?",
+                "Máy ảnh và ống kính đều được bảo hành chính hãng. Một số phụ kiện như pin, sạc có bảo hành 3–6 tháng tuỳ loại.",
+                "Dạ, khi có sự cố kỹ thuật, bạn chỉ cần liên hệ bên mình hoặc đem máy tới trung tâm bảo hành để được hỗ trợ nhanh nhất.",
+                "Bạn có thể gia hạn bảo hành thêm 6–12 tháng với gói mở rộng. Có muốn mình tư vấn không ạ?",
+                "Bên mình hỗ trợ kiểm tra bảo hành theo số serial. Bạn có thể gửi mã máy để mình tra giúp nha!"
+            ]
+        }
+    },
+    {
+        "processed_text": "Máy Sony ZV-E10 dùng được ống kính nào?",
+        "tokens": [
+            "máy",
+            "sony",
+            "dùng",
+            "ống_kính"
+        ],
+        "token_frequency": {
+            "máy": 1,
+            "sony": 1,
+            "dùng": 1,
+            "ống_kính": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": [
+                "Dạ, máy hỗ trợ ống kính ngàm E của Sony. Bạn đang dùng loại lens nào để mình kiểm tra giúp nhé?",
+                "Sản phẩm tương thích với hầu hết các lens ngàm E. Nếu dùng lens Canon hoặc Nikon, bạn cần thêm ngàm chuyển phù hợp ạ.",
+                "Bạn có thể dùng lens chính hãng hoặc bên thứ ba như Sigma, Tamron miễn là ngàm E. Mình có thể gợi ý vài mẫu nếu bạn cần.",
+                "Dạ có ạ! Máy hỗ trợ kết nối với nhiều phụ kiện như mic, flash, tripod thông dụng. Bạn muốn kết nối thiết bị gì cụ thể để mình kiểm tra nhé?",
+                "Nếu bạn đã có ống kính cũ, chỉ cần kiểm tra lại loại ngàm. Gửi mã lens để mình tra tương thích giúp bạn.",
+                "Máy dùng tốt với lens Sony ngàm E, ngàm FE đều được. Nếu bạn muốn dùng lens DSLR thì cần ngàm chuyển riêng nhé.",
+                "Máy này không hỗ trợ lens Canon ngàm EF trực tiếp, nhưng bạn có thể dùng ngàm chuyển để sử dụng được bình thường.",
+                "Dạ hiện máy chỉ tương thích với các lens ngàm E. Nếu bạn cần gợi ý lens phù hợp cho thể loại chụp cụ thể (chân dung, phong cảnh...), mình hỗ trợ liền nhé!",
+                "Máy có hỗ trợ Bluetooth, Wi-Fi để kết nối với smartphone và phụ kiện. Với mic ngoài, bạn chỉ cần jack 3.5mm là gắn được.",
+                "Bạn có thể dùng tripod chuẩn 1/4 inch là gắn vừa máy. Đây là loại phổ biến cho máy ảnh hiện nay."
+            ]
+        }
+    },
+    {
+        "processed_text": "Ống kính nào tương thích với máy này?",
+        "tokens": [
+            "ống_kính",
+            "tương_thích",
+            "máy"
+        ],
+        "token_frequency": {
+            "ống_kính": 1,
+            "tương_thích": 1,
+            "máy": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": [
+                "Dạ, máy hỗ trợ ống kính ngàm E của Sony. Bạn đang dùng loại lens nào để mình kiểm tra giúp nhé?",
+                "Sản phẩm tương thích với hầu hết các lens ngàm E. Nếu dùng lens Canon hoặc Nikon, bạn cần thêm ngàm chuyển phù hợp ạ.",
+                "Bạn có thể dùng lens chính hãng hoặc bên thứ ba như Sigma, Tamron miễn là ngàm E. Mình có thể gợi ý vài mẫu nếu bạn cần.",
+                "Dạ có ạ! Máy hỗ trợ kết nối với nhiều phụ kiện như mic, flash, tripod thông dụng. Bạn muốn kết nối thiết bị gì cụ thể để mình kiểm tra nhé?",
+                "Nếu bạn đã có ống kính cũ, chỉ cần kiểm tra lại loại ngàm. Gửi mã lens để mình tra tương thích giúp bạn.",
+                "Máy dùng tốt với lens Sony ngàm E, ngàm FE đều được. Nếu bạn muốn dùng lens DSLR thì cần ngàm chuyển riêng nhé.",
+                "Máy này không hỗ trợ lens Canon ngàm EF trực tiếp, nhưng bạn có thể dùng ngàm chuyển để sử dụng được bình thường.",
+                "Dạ hiện máy chỉ tương thích với các lens ngàm E. Nếu bạn cần gợi ý lens phù hợp cho thể loại chụp cụ thể (chân dung, phong cảnh...), mình hỗ trợ liền nhé!",
+                "Máy có hỗ trợ Bluetooth, Wi-Fi để kết nối với smartphone và phụ kiện. Với mic ngoài, bạn chỉ cần jack 3.5mm là gắn được.",
+                "Bạn có thể dùng tripod chuẩn 1/4 inch là gắn vừa máy. Đây là loại phổ biến cho máy ảnh hiện nay."
+            ]
+        }
+    },
+    {
+        "processed_text": "Có thể gắn lens Canon không?",
+        "tokens": [
+            "gắn",
+            "canon"
+        ],
+        "token_frequency": {
+            "gắn": 1,
+            "canon": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": [
+                "Dạ, máy hỗ trợ ống kính ngàm E của Sony. Bạn đang dùng loại lens nào để mình kiểm tra giúp nhé?",
+                "Sản phẩm tương thích với hầu hết các lens ngàm E. Nếu dùng lens Canon hoặc Nikon, bạn cần thêm ngàm chuyển phù hợp ạ.",
+                "Bạn có thể dùng lens chính hãng hoặc bên thứ ba như Sigma, Tamron miễn là ngàm E. Mình có thể gợi ý vài mẫu nếu bạn cần.",
+                "Dạ có ạ! Máy hỗ trợ kết nối với nhiều phụ kiện như mic, flash, tripod thông dụng. Bạn muốn kết nối thiết bị gì cụ thể để mình kiểm tra nhé?",
+                "Nếu bạn đã có ống kính cũ, chỉ cần kiểm tra lại loại ngàm. Gửi mã lens để mình tra tương thích giúp bạn.",
+                "Máy dùng tốt với lens Sony ngàm E, ngàm FE đều được. Nếu bạn muốn dùng lens DSLR thì cần ngàm chuyển riêng nhé.",
+                "Máy này không hỗ trợ lens Canon ngàm EF trực tiếp, nhưng bạn có thể dùng ngàm chuyển để sử dụng được bình thường.",
+                "Dạ hiện máy chỉ tương thích với các lens ngàm E. Nếu bạn cần gợi ý lens phù hợp cho thể loại chụp cụ thể (chân dung, phong cảnh...), mình hỗ trợ liền nhé!",
+                "Máy có hỗ trợ Bluetooth, Wi-Fi để kết nối với smartphone và phụ kiện. Với mic ngoài, bạn chỉ cần jack 3.5mm là gắn được.",
+                "Bạn có thể dùng tripod chuẩn 1/4 inch là gắn vừa máy. Đây là loại phổ biến cho máy ảnh hiện nay."
+            ]
+        }
+    },
+    {
+        "processed_text": "Máy có hỗ trợ ống kính Sony không?",
+        "tokens": [
+            "máy",
+            "hỗ_trợ",
+            "ống_kính",
+            "sony"
+        ],
+        "token_frequency": {
+            "máy": 1,
+            "hỗ_trợ": 1,
+            "ống_kính": 1,
+            "sony": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": [
+                "Dạ, máy hỗ trợ ống kính ngàm E của Sony. Bạn đang dùng loại lens nào để mình kiểm tra giúp nhé?",
+                "Sản phẩm tương thích với hầu hết các lens ngàm E. Nếu dùng lens Canon hoặc Nikon, bạn cần thêm ngàm chuyển phù hợp ạ.",
+                "Bạn có thể dùng lens chính hãng hoặc bên thứ ba như Sigma, Tamron miễn là ngàm E. Mình có thể gợi ý vài mẫu nếu bạn cần.",
+                "Dạ có ạ! Máy hỗ trợ kết nối với nhiều phụ kiện như mic, flash, tripod thông dụng. Bạn muốn kết nối thiết bị gì cụ thể để mình kiểm tra nhé?",
+                "Nếu bạn đã có ống kính cũ, chỉ cần kiểm tra lại loại ngàm. Gửi mã lens để mình tra tương thích giúp bạn.",
+                "Máy dùng tốt với lens Sony ngàm E, ngàm FE đều được. Nếu bạn muốn dùng lens DSLR thì cần ngàm chuyển riêng nhé.",
+                "Máy này không hỗ trợ lens Canon ngàm EF trực tiếp, nhưng bạn có thể dùng ngàm chuyển để sử dụng được bình thường.",
+                "Dạ hiện máy chỉ tương thích với các lens ngàm E. Nếu bạn cần gợi ý lens phù hợp cho thể loại chụp cụ thể (chân dung, phong cảnh...), mình hỗ trợ liền nhé!",
+                "Máy có hỗ trợ Bluetooth, Wi-Fi để kết nối với smartphone và phụ kiện. Với mic ngoài, bạn chỉ cần jack 3.5mm là gắn được.",
+                "Bạn có thể dùng tripod chuẩn 1/4 inch là gắn vừa máy. Đây là loại phổ biến cho máy ảnh hiện nay."
+            ]
+        }
+    },
+    {
+        "processed_text": "Tôi muốn biết máy này dùng được lens gì?",
+        "tokens": [
+            "máy",
+            "dùng"
+        ],
+        "token_frequency": {
+            "máy": 1,
+            "dùng": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": [
+                "Dạ, máy hỗ trợ ống kính ngàm E của Sony. Bạn đang dùng loại lens nào để mình kiểm tra giúp nhé?",
+                "Sản phẩm tương thích với hầu hết các lens ngàm E. Nếu dùng lens Canon hoặc Nikon, bạn cần thêm ngàm chuyển phù hợp ạ.",
+                "Bạn có thể dùng lens chính hãng hoặc bên thứ ba như Sigma, Tamron miễn là ngàm E. Mình có thể gợi ý vài mẫu nếu bạn cần.",
+                "Dạ có ạ! Máy hỗ trợ kết nối với nhiều phụ kiện như mic, flash, tripod thông dụng. Bạn muốn kết nối thiết bị gì cụ thể để mình kiểm tra nhé?",
+                "Nếu bạn đã có ống kính cũ, chỉ cần kiểm tra lại loại ngàm. Gửi mã lens để mình tra tương thích giúp bạn.",
+                "Máy dùng tốt với lens Sony ngàm E, ngàm FE đều được. Nếu bạn muốn dùng lens DSLR thì cần ngàm chuyển riêng nhé.",
+                "Máy này không hỗ trợ lens Canon ngàm EF trực tiếp, nhưng bạn có thể dùng ngàm chuyển để sử dụng được bình thường.",
+                "Dạ hiện máy chỉ tương thích với các lens ngàm E. Nếu bạn cần gợi ý lens phù hợp cho thể loại chụp cụ thể (chân dung, phong cảnh...), mình hỗ trợ liền nhé!",
+                "Máy có hỗ trợ Bluetooth, Wi-Fi để kết nối với smartphone và phụ kiện. Với mic ngoài, bạn chỉ cần jack 3.5mm là gắn được.",
+                "Bạn có thể dùng tripod chuẩn 1/4 inch là gắn vừa máy. Đây là loại phổ biến cho máy ảnh hiện nay."
+            ]
+        }
+    },
+    {
+        "processed_text": "Máy có tương thích với ống kính ngàm E không?",
+        "tokens": [
+            "máy",
+            "tương_thích",
+            "ống_kính",
+            "ngàm"
+        ],
+        "token_frequency": {
+            "máy": 1,
+            "tương_thích": 1,
+            "ống_kính": 1,
+            "ngàm": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": [
+                "Dạ, máy hỗ trợ ống kính ngàm E của Sony. Bạn đang dùng loại lens nào để mình kiểm tra giúp nhé?",
+                "Sản phẩm tương thích với hầu hết các lens ngàm E. Nếu dùng lens Canon hoặc Nikon, bạn cần thêm ngàm chuyển phù hợp ạ.",
+                "Bạn có thể dùng lens chính hãng hoặc bên thứ ba như Sigma, Tamron miễn là ngàm E. Mình có thể gợi ý vài mẫu nếu bạn cần.",
+                "Dạ có ạ! Máy hỗ trợ kết nối với nhiều phụ kiện như mic, flash, tripod thông dụng. Bạn muốn kết nối thiết bị gì cụ thể để mình kiểm tra nhé?",
+                "Nếu bạn đã có ống kính cũ, chỉ cần kiểm tra lại loại ngàm. Gửi mã lens để mình tra tương thích giúp bạn.",
+                "Máy dùng tốt với lens Sony ngàm E, ngàm FE đều được. Nếu bạn muốn dùng lens DSLR thì cần ngàm chuyển riêng nhé.",
+                "Máy này không hỗ trợ lens Canon ngàm EF trực tiếp, nhưng bạn có thể dùng ngàm chuyển để sử dụng được bình thường.",
+                "Dạ hiện máy chỉ tương thích với các lens ngàm E. Nếu bạn cần gợi ý lens phù hợp cho thể loại chụp cụ thể (chân dung, phong cảnh...), mình hỗ trợ liền nhé!",
+                "Máy có hỗ trợ Bluetooth, Wi-Fi để kết nối với smartphone và phụ kiện. Với mic ngoài, bạn chỉ cần jack 3.5mm là gắn được.",
+                "Bạn có thể dùng tripod chuẩn 1/4 inch là gắn vừa máy. Đây là loại phổ biến cho máy ảnh hiện nay."
+            ]
+        }
+    },
+    {
+        "processed_text": "Máy dùng được lens ngàm EF không?",
+        "tokens": [
+            "máy",
+            "dùng",
+            "ngàm",
+            "ong_kinh_ef"
+        ],
+        "token_frequency": {
+            "máy": 1,
+            "dùng": 1,
+            "ngàm": 1,
+            "ong_kinh_ef": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": [
+                "Dạ, máy hỗ trợ ống kính ngàm E của Sony. Bạn đang dùng loại lens nào để mình kiểm tra giúp nhé?",
+                "Sản phẩm tương thích với hầu hết các lens ngàm E. Nếu dùng lens Canon hoặc Nikon, bạn cần thêm ngàm chuyển phù hợp ạ.",
+                "Bạn có thể dùng lens chính hãng hoặc bên thứ ba như Sigma, Tamron miễn là ngàm E. Mình có thể gợi ý vài mẫu nếu bạn cần.",
+                "Dạ có ạ! Máy hỗ trợ kết nối với nhiều phụ kiện như mic, flash, tripod thông dụng. Bạn muốn kết nối thiết bị gì cụ thể để mình kiểm tra nhé?",
+                "Nếu bạn đã có ống kính cũ, chỉ cần kiểm tra lại loại ngàm. Gửi mã lens để mình tra tương thích giúp bạn.",
+                "Máy dùng tốt với lens Sony ngàm E, ngàm FE đều được. Nếu bạn muốn dùng lens DSLR thì cần ngàm chuyển riêng nhé.",
+                "Máy này không hỗ trợ lens Canon ngàm EF trực tiếp, nhưng bạn có thể dùng ngàm chuyển để sử dụng được bình thường.",
+                "Dạ hiện máy chỉ tương thích với các lens ngàm E. Nếu bạn cần gợi ý lens phù hợp cho thể loại chụp cụ thể (chân dung, phong cảnh...), mình hỗ trợ liền nhé!",
+                "Máy có hỗ trợ Bluetooth, Wi-Fi để kết nối với smartphone và phụ kiện. Với mic ngoài, bạn chỉ cần jack 3.5mm là gắn được.",
+                "Bạn có thể dùng tripod chuẩn 1/4 inch là gắn vừa máy. Đây là loại phổ biến cho máy ảnh hiện nay."
+            ]
+        }
+    },
+    {
+        "processed_text": "Tôi có lens cũ, có xài được cho máy này không?",
+        "tokens": [
+            "cũ",
+            "xài",
+            "máy"
+        ],
+        "token_frequency": {
+            "cũ": 1,
+            "xài": 1,
+            "máy": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": [
+                "Dạ, máy hỗ trợ ống kính ngàm E của Sony. Bạn đang dùng loại lens nào để mình kiểm tra giúp nhé?",
+                "Sản phẩm tương thích với hầu hết các lens ngàm E. Nếu dùng lens Canon hoặc Nikon, bạn cần thêm ngàm chuyển phù hợp ạ.",
+                "Bạn có thể dùng lens chính hãng hoặc bên thứ ba như Sigma, Tamron miễn là ngàm E. Mình có thể gợi ý vài mẫu nếu bạn cần.",
+                "Dạ có ạ! Máy hỗ trợ kết nối với nhiều phụ kiện như mic, flash, tripod thông dụng. Bạn muốn kết nối thiết bị gì cụ thể để mình kiểm tra nhé?",
+                "Nếu bạn đã có ống kính cũ, chỉ cần kiểm tra lại loại ngàm. Gửi mã lens để mình tra tương thích giúp bạn.",
+                "Máy dùng tốt với lens Sony ngàm E, ngàm FE đều được. Nếu bạn muốn dùng lens DSLR thì cần ngàm chuyển riêng nhé.",
+                "Máy này không hỗ trợ lens Canon ngàm EF trực tiếp, nhưng bạn có thể dùng ngàm chuyển để sử dụng được bình thường.",
+                "Dạ hiện máy chỉ tương thích với các lens ngàm E. Nếu bạn cần gợi ý lens phù hợp cho thể loại chụp cụ thể (chân dung, phong cảnh...), mình hỗ trợ liền nhé!",
+                "Máy có hỗ trợ Bluetooth, Wi-Fi để kết nối với smartphone và phụ kiện. Với mic ngoài, bạn chỉ cần jack 3.5mm là gắn được.",
+                "Bạn có thể dùng tripod chuẩn 1/4 inch là gắn vừa máy. Đây là loại phổ biến cho máy ảnh hiện nay."
+            ]
+        }
+    },
+    {
+        "processed_text": "Có cần ngàm chuyển không khi dùng ống kính khác hãng?",
+        "tokens": [
+            "ngàm",
+            "chuyển",
+            "dùng",
+            "ống_kính",
+            "hãng"
+        ],
+        "token_frequency": {
+            "ngàm": 1,
+            "chuyển": 1,
+            "dùng": 1,
+            "ống_kính": 1,
+            "hãng": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": [
+                "Dạ, máy hỗ trợ ống kính ngàm E của Sony. Bạn đang dùng loại lens nào để mình kiểm tra giúp nhé?",
+                "Sản phẩm tương thích với hầu hết các lens ngàm E. Nếu dùng lens Canon hoặc Nikon, bạn cần thêm ngàm chuyển phù hợp ạ.",
+                "Bạn có thể dùng lens chính hãng hoặc bên thứ ba như Sigma, Tamron miễn là ngàm E. Mình có thể gợi ý vài mẫu nếu bạn cần.",
+                "Dạ có ạ! Máy hỗ trợ kết nối với nhiều phụ kiện như mic, flash, tripod thông dụng. Bạn muốn kết nối thiết bị gì cụ thể để mình kiểm tra nhé?",
+                "Nếu bạn đã có ống kính cũ, chỉ cần kiểm tra lại loại ngàm. Gửi mã lens để mình tra tương thích giúp bạn.",
+                "Máy dùng tốt với lens Sony ngàm E, ngàm FE đều được. Nếu bạn muốn dùng lens DSLR thì cần ngàm chuyển riêng nhé.",
+                "Máy này không hỗ trợ lens Canon ngàm EF trực tiếp, nhưng bạn có thể dùng ngàm chuyển để sử dụng được bình thường.",
+                "Dạ hiện máy chỉ tương thích với các lens ngàm E. Nếu bạn cần gợi ý lens phù hợp cho thể loại chụp cụ thể (chân dung, phong cảnh...), mình hỗ trợ liền nhé!",
+                "Máy có hỗ trợ Bluetooth, Wi-Fi để kết nối với smartphone và phụ kiện. Với mic ngoài, bạn chỉ cần jack 3.5mm là gắn được.",
+                "Bạn có thể dùng tripod chuẩn 1/4 inch là gắn vừa máy. Đây là loại phổ biến cho máy ảnh hiện nay."
+            ]
+        }
+    },
+    {
+        "processed_text": "Có hỗ trợ ống kính khẩu lớn không?",
+        "tokens": [
+            "hỗ_trợ",
+            "ống_kính",
+            "khẩu"
+        ],
+        "token_frequency": {
+            "hỗ_trợ": 1,
+            "ống_kính": 1,
+            "khẩu": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": [
+                "Dạ, máy hỗ trợ ống kính ngàm E của Sony. Bạn đang dùng loại lens nào để mình kiểm tra giúp nhé?",
+                "Sản phẩm tương thích với hầu hết các lens ngàm E. Nếu dùng lens Canon hoặc Nikon, bạn cần thêm ngàm chuyển phù hợp ạ.",
+                "Bạn có thể dùng lens chính hãng hoặc bên thứ ba như Sigma, Tamron miễn là ngàm E. Mình có thể gợi ý vài mẫu nếu bạn cần.",
+                "Dạ có ạ! Máy hỗ trợ kết nối với nhiều phụ kiện như mic, flash, tripod thông dụng. Bạn muốn kết nối thiết bị gì cụ thể để mình kiểm tra nhé?",
+                "Nếu bạn đã có ống kính cũ, chỉ cần kiểm tra lại loại ngàm. Gửi mã lens để mình tra tương thích giúp bạn.",
+                "Máy dùng tốt với lens Sony ngàm E, ngàm FE đều được. Nếu bạn muốn dùng lens DSLR thì cần ngàm chuyển riêng nhé.",
+                "Máy này không hỗ trợ lens Canon ngàm EF trực tiếp, nhưng bạn có thể dùng ngàm chuyển để sử dụng được bình thường.",
+                "Dạ hiện máy chỉ tương thích với các lens ngàm E. Nếu bạn cần gợi ý lens phù hợp cho thể loại chụp cụ thể (chân dung, phong cảnh...), mình hỗ trợ liền nhé!",
+                "Máy có hỗ trợ Bluetooth, Wi-Fi để kết nối với smartphone và phụ kiện. Với mic ngoài, bạn chỉ cần jack 3.5mm là gắn được.",
+                "Bạn có thể dùng tripod chuẩn 1/4 inch là gắn vừa máy. Đây là loại phổ biến cho máy ảnh hiện nay."
+            ]
+        }
+    },
+    {
+        "processed_text": "Dòng này có tương thích với ống kính góc rộng không?",
+        "tokens": [
+            "dòng",
+            "tương_thích",
+            "ống_kính",
+            "góc",
+            "rộng"
+        ],
+        "token_frequency": {
+            "dòng": 1,
+            "tương_thích": 1,
+            "ống_kính": 1,
+            "góc": 1,
+            "rộng": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": [
+                "Dạ, máy hỗ trợ ống kính ngàm E của Sony. Bạn đang dùng loại lens nào để mình kiểm tra giúp nhé?",
+                "Sản phẩm tương thích với hầu hết các lens ngàm E. Nếu dùng lens Canon hoặc Nikon, bạn cần thêm ngàm chuyển phù hợp ạ.",
+                "Bạn có thể dùng lens chính hãng hoặc bên thứ ba như Sigma, Tamron miễn là ngàm E. Mình có thể gợi ý vài mẫu nếu bạn cần.",
+                "Dạ có ạ! Máy hỗ trợ kết nối với nhiều phụ kiện như mic, flash, tripod thông dụng. Bạn muốn kết nối thiết bị gì cụ thể để mình kiểm tra nhé?",
+                "Nếu bạn đã có ống kính cũ, chỉ cần kiểm tra lại loại ngàm. Gửi mã lens để mình tra tương thích giúp bạn.",
+                "Máy dùng tốt với lens Sony ngàm E, ngàm FE đều được. Nếu bạn muốn dùng lens DSLR thì cần ngàm chuyển riêng nhé.",
+                "Máy này không hỗ trợ lens Canon ngàm EF trực tiếp, nhưng bạn có thể dùng ngàm chuyển để sử dụng được bình thường.",
+                "Dạ hiện máy chỉ tương thích với các lens ngàm E. Nếu bạn cần gợi ý lens phù hợp cho thể loại chụp cụ thể (chân dung, phong cảnh...), mình hỗ trợ liền nhé!",
+                "Máy có hỗ trợ Bluetooth, Wi-Fi để kết nối với smartphone và phụ kiện. Với mic ngoài, bạn chỉ cần jack 3.5mm là gắn được.",
+                "Bạn có thể dùng tripod chuẩn 1/4 inch là gắn vừa máy. Đây là loại phổ biến cho máy ảnh hiện nay."
+            ]
+        }
+    },
+    {
+        "processed_text": "Máy có tương thích với phụ kiện nào không?",
+        "tokens": [
+            "máy",
+            "tương_thích",
+            "phụ_kiện"
+        ],
+        "token_frequency": {
+            "máy": 1,
+            "tương_thích": 1,
+            "phụ_kiện": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": [
+                "Dạ, máy hỗ trợ ống kính ngàm E của Sony. Bạn đang dùng loại lens nào để mình kiểm tra giúp nhé?",
+                "Sản phẩm tương thích với hầu hết các lens ngàm E. Nếu dùng lens Canon hoặc Nikon, bạn cần thêm ngàm chuyển phù hợp ạ.",
+                "Bạn có thể dùng lens chính hãng hoặc bên thứ ba như Sigma, Tamron miễn là ngàm E. Mình có thể gợi ý vài mẫu nếu bạn cần.",
+                "Dạ có ạ! Máy hỗ trợ kết nối với nhiều phụ kiện như mic, flash, tripod thông dụng. Bạn muốn kết nối thiết bị gì cụ thể để mình kiểm tra nhé?",
+                "Nếu bạn đã có ống kính cũ, chỉ cần kiểm tra lại loại ngàm. Gửi mã lens để mình tra tương thích giúp bạn.",
+                "Máy dùng tốt với lens Sony ngàm E, ngàm FE đều được. Nếu bạn muốn dùng lens DSLR thì cần ngàm chuyển riêng nhé.",
+                "Máy này không hỗ trợ lens Canon ngàm EF trực tiếp, nhưng bạn có thể dùng ngàm chuyển để sử dụng được bình thường.",
+                "Dạ hiện máy chỉ tương thích với các lens ngàm E. Nếu bạn cần gợi ý lens phù hợp cho thể loại chụp cụ thể (chân dung, phong cảnh...), mình hỗ trợ liền nhé!",
+                "Máy có hỗ trợ Bluetooth, Wi-Fi để kết nối với smartphone và phụ kiện. Với mic ngoài, bạn chỉ cần jack 3.5mm là gắn được.",
+                "Bạn có thể dùng tripod chuẩn 1/4 inch là gắn vừa máy. Đây là loại phổ biến cho máy ảnh hiện nay."
+            ]
+        }
+    },
+    {
+        "processed_text": "Có hỗ trợ flash rời không?",
+        "tokens": [
+            "hỗ_trợ",
+            "rời"
+        ],
+        "token_frequency": {
+            "hỗ_trợ": 1,
+            "rời": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": [
+                "Dạ, máy hỗ trợ ống kính ngàm E của Sony. Bạn đang dùng loại lens nào để mình kiểm tra giúp nhé?",
+                "Sản phẩm tương thích với hầu hết các lens ngàm E. Nếu dùng lens Canon hoặc Nikon, bạn cần thêm ngàm chuyển phù hợp ạ.",
+                "Bạn có thể dùng lens chính hãng hoặc bên thứ ba như Sigma, Tamron miễn là ngàm E. Mình có thể gợi ý vài mẫu nếu bạn cần.",
+                "Dạ có ạ! Máy hỗ trợ kết nối với nhiều phụ kiện như mic, flash, tripod thông dụng. Bạn muốn kết nối thiết bị gì cụ thể để mình kiểm tra nhé?",
+                "Nếu bạn đã có ống kính cũ, chỉ cần kiểm tra lại loại ngàm. Gửi mã lens để mình tra tương thích giúp bạn.",
+                "Máy dùng tốt với lens Sony ngàm E, ngàm FE đều được. Nếu bạn muốn dùng lens DSLR thì cần ngàm chuyển riêng nhé.",
+                "Máy này không hỗ trợ lens Canon ngàm EF trực tiếp, nhưng bạn có thể dùng ngàm chuyển để sử dụng được bình thường.",
+                "Dạ hiện máy chỉ tương thích với các lens ngàm E. Nếu bạn cần gợi ý lens phù hợp cho thể loại chụp cụ thể (chân dung, phong cảnh...), mình hỗ trợ liền nhé!",
+                "Máy có hỗ trợ Bluetooth, Wi-Fi để kết nối với smartphone và phụ kiện. Với mic ngoài, bạn chỉ cần jack 3.5mm là gắn được.",
+                "Bạn có thể dùng tripod chuẩn 1/4 inch là gắn vừa máy. Đây là loại phổ biến cho máy ảnh hiện nay."
+            ]
+        }
+    },
+    {
+        "processed_text": "Có gắn mic ngoài được không?",
+        "tokens": [
+            "gắn"
+        ],
+        "token_frequency": {
+            "gắn": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": [
+                "Dạ, máy hỗ trợ ống kính ngàm E của Sony. Bạn đang dùng loại lens nào để mình kiểm tra giúp nhé?",
+                "Sản phẩm tương thích với hầu hết các lens ngàm E. Nếu dùng lens Canon hoặc Nikon, bạn cần thêm ngàm chuyển phù hợp ạ.",
+                "Bạn có thể dùng lens chính hãng hoặc bên thứ ba như Sigma, Tamron miễn là ngàm E. Mình có thể gợi ý vài mẫu nếu bạn cần.",
+                "Dạ có ạ! Máy hỗ trợ kết nối với nhiều phụ kiện như mic, flash, tripod thông dụng. Bạn muốn kết nối thiết bị gì cụ thể để mình kiểm tra nhé?",
+                "Nếu bạn đã có ống kính cũ, chỉ cần kiểm tra lại loại ngàm. Gửi mã lens để mình tra tương thích giúp bạn.",
+                "Máy dùng tốt với lens Sony ngàm E, ngàm FE đều được. Nếu bạn muốn dùng lens DSLR thì cần ngàm chuyển riêng nhé.",
+                "Máy này không hỗ trợ lens Canon ngàm EF trực tiếp, nhưng bạn có thể dùng ngàm chuyển để sử dụng được bình thường.",
+                "Dạ hiện máy chỉ tương thích với các lens ngàm E. Nếu bạn cần gợi ý lens phù hợp cho thể loại chụp cụ thể (chân dung, phong cảnh...), mình hỗ trợ liền nhé!",
+                "Máy có hỗ trợ Bluetooth, Wi-Fi để kết nối với smartphone và phụ kiện. Với mic ngoài, bạn chỉ cần jack 3.5mm là gắn được.",
+                "Bạn có thể dùng tripod chuẩn 1/4 inch là gắn vừa máy. Đây là loại phổ biến cho máy ảnh hiện nay."
+            ]
+        }
+    },
+    {
+        "processed_text": "Máy này có kết nối bluetooth với thiết bị khác được không?",
+        "tokens": [
+            "máy",
+            "kết_nối",
+            "thiết_bị"
+        ],
+        "token_frequency": {
+            "máy": 1,
+            "kết_nối": 1,
+            "thiết_bị": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": [
+                "Dạ, máy hỗ trợ ống kính ngàm E của Sony. Bạn đang dùng loại lens nào để mình kiểm tra giúp nhé?",
+                "Sản phẩm tương thích với hầu hết các lens ngàm E. Nếu dùng lens Canon hoặc Nikon, bạn cần thêm ngàm chuyển phù hợp ạ.",
+                "Bạn có thể dùng lens chính hãng hoặc bên thứ ba như Sigma, Tamron miễn là ngàm E. Mình có thể gợi ý vài mẫu nếu bạn cần.",
+                "Dạ có ạ! Máy hỗ trợ kết nối với nhiều phụ kiện như mic, flash, tripod thông dụng. Bạn muốn kết nối thiết bị gì cụ thể để mình kiểm tra nhé?",
+                "Nếu bạn đã có ống kính cũ, chỉ cần kiểm tra lại loại ngàm. Gửi mã lens để mình tra tương thích giúp bạn.",
+                "Máy dùng tốt với lens Sony ngàm E, ngàm FE đều được. Nếu bạn muốn dùng lens DSLR thì cần ngàm chuyển riêng nhé.",
+                "Máy này không hỗ trợ lens Canon ngàm EF trực tiếp, nhưng bạn có thể dùng ngàm chuyển để sử dụng được bình thường.",
+                "Dạ hiện máy chỉ tương thích với các lens ngàm E. Nếu bạn cần gợi ý lens phù hợp cho thể loại chụp cụ thể (chân dung, phong cảnh...), mình hỗ trợ liền nhé!",
+                "Máy có hỗ trợ Bluetooth, Wi-Fi để kết nối với smartphone và phụ kiện. Với mic ngoài, bạn chỉ cần jack 3.5mm là gắn được.",
+                "Bạn có thể dùng tripod chuẩn 1/4 inch là gắn vừa máy. Đây là loại phổ biến cho máy ảnh hiện nay."
+            ]
+        }
+    },
+    {
+        "processed_text": "Gắn tripod loại nào cũng được à?",
+        "tokens": [
+            "gắn"
+        ],
+        "token_frequency": {
+            "gắn": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": [
+                "Dạ, máy hỗ trợ ống kính ngàm E của Sony. Bạn đang dùng loại lens nào để mình kiểm tra giúp nhé?",
+                "Sản phẩm tương thích với hầu hết các lens ngàm E. Nếu dùng lens Canon hoặc Nikon, bạn cần thêm ngàm chuyển phù hợp ạ.",
+                "Bạn có thể dùng lens chính hãng hoặc bên thứ ba như Sigma, Tamron miễn là ngàm E. Mình có thể gợi ý vài mẫu nếu bạn cần.",
+                "Dạ có ạ! Máy hỗ trợ kết nối với nhiều phụ kiện như mic, flash, tripod thông dụng. Bạn muốn kết nối thiết bị gì cụ thể để mình kiểm tra nhé?",
+                "Nếu bạn đã có ống kính cũ, chỉ cần kiểm tra lại loại ngàm. Gửi mã lens để mình tra tương thích giúp bạn.",
+                "Máy dùng tốt với lens Sony ngàm E, ngàm FE đều được. Nếu bạn muốn dùng lens DSLR thì cần ngàm chuyển riêng nhé.",
+                "Máy này không hỗ trợ lens Canon ngàm EF trực tiếp, nhưng bạn có thể dùng ngàm chuyển để sử dụng được bình thường.",
+                "Dạ hiện máy chỉ tương thích với các lens ngàm E. Nếu bạn cần gợi ý lens phù hợp cho thể loại chụp cụ thể (chân dung, phong cảnh...), mình hỗ trợ liền nhé!",
+                "Máy có hỗ trợ Bluetooth, Wi-Fi để kết nối với smartphone và phụ kiện. Với mic ngoài, bạn chỉ cần jack 3.5mm là gắn được.",
+                "Bạn có thể dùng tripod chuẩn 1/4 inch là gắn vừa máy. Đây là loại phổ biến cho máy ảnh hiện nay."
+            ]
+        }
+    },
+    {
+        "processed_text": "Ống kính của máy khác hãng có dùng được không?",
+        "tokens": [
+            "ống_kính",
+            "máy",
+            "hãng",
+            "dùng"
+        ],
+        "token_frequency": {
+            "ống_kính": 1,
+            "máy": 1,
+            "hãng": 1,
+            "dùng": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": [
+                "Dạ, máy hỗ trợ ống kính ngàm E của Sony. Bạn đang dùng loại lens nào để mình kiểm tra giúp nhé?",
+                "Sản phẩm tương thích với hầu hết các lens ngàm E. Nếu dùng lens Canon hoặc Nikon, bạn cần thêm ngàm chuyển phù hợp ạ.",
+                "Bạn có thể dùng lens chính hãng hoặc bên thứ ba như Sigma, Tamron miễn là ngàm E. Mình có thể gợi ý vài mẫu nếu bạn cần.",
+                "Dạ có ạ! Máy hỗ trợ kết nối với nhiều phụ kiện như mic, flash, tripod thông dụng. Bạn muốn kết nối thiết bị gì cụ thể để mình kiểm tra nhé?",
+                "Nếu bạn đã có ống kính cũ, chỉ cần kiểm tra lại loại ngàm. Gửi mã lens để mình tra tương thích giúp bạn.",
+                "Máy dùng tốt với lens Sony ngàm E, ngàm FE đều được. Nếu bạn muốn dùng lens DSLR thì cần ngàm chuyển riêng nhé.",
+                "Máy này không hỗ trợ lens Canon ngàm EF trực tiếp, nhưng bạn có thể dùng ngàm chuyển để sử dụng được bình thường.",
+                "Dạ hiện máy chỉ tương thích với các lens ngàm E. Nếu bạn cần gợi ý lens phù hợp cho thể loại chụp cụ thể (chân dung, phong cảnh...), mình hỗ trợ liền nhé!",
+                "Máy có hỗ trợ Bluetooth, Wi-Fi để kết nối với smartphone và phụ kiện. Với mic ngoài, bạn chỉ cần jack 3.5mm là gắn được.",
+                "Bạn có thể dùng tripod chuẩn 1/4 inch là gắn vừa máy. Đây là loại phổ biến cho máy ảnh hiện nay."
+            ]
+        }
+    },
+    {
+        "processed_text": "Ngàm E khác gì ngàm EF? Có tương thích không?",
+        "tokens": [
+            "ngàm",
+            "ong_kinh_ef",
+            "tương_thích"
+        ],
+        "token_frequency": {
+            "ngàm": 2,
+            "ong_kinh_ef": 1,
+            "tương_thích": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": [
+                "Dạ, máy hỗ trợ ống kính ngàm E của Sony. Bạn đang dùng loại lens nào để mình kiểm tra giúp nhé?",
+                "Sản phẩm tương thích với hầu hết các lens ngàm E. Nếu dùng lens Canon hoặc Nikon, bạn cần thêm ngàm chuyển phù hợp ạ.",
+                "Bạn có thể dùng lens chính hãng hoặc bên thứ ba như Sigma, Tamron miễn là ngàm E. Mình có thể gợi ý vài mẫu nếu bạn cần.",
+                "Dạ có ạ! Máy hỗ trợ kết nối với nhiều phụ kiện như mic, flash, tripod thông dụng. Bạn muốn kết nối thiết bị gì cụ thể để mình kiểm tra nhé?",
+                "Nếu bạn đã có ống kính cũ, chỉ cần kiểm tra lại loại ngàm. Gửi mã lens để mình tra tương thích giúp bạn.",
+                "Máy dùng tốt với lens Sony ngàm E, ngàm FE đều được. Nếu bạn muốn dùng lens DSLR thì cần ngàm chuyển riêng nhé.",
+                "Máy này không hỗ trợ lens Canon ngàm EF trực tiếp, nhưng bạn có thể dùng ngàm chuyển để sử dụng được bình thường.",
+                "Dạ hiện máy chỉ tương thích với các lens ngàm E. Nếu bạn cần gợi ý lens phù hợp cho thể loại chụp cụ thể (chân dung, phong cảnh...), mình hỗ trợ liền nhé!",
+                "Máy có hỗ trợ Bluetooth, Wi-Fi để kết nối với smartphone và phụ kiện. Với mic ngoài, bạn chỉ cần jack 3.5mm là gắn được.",
+                "Bạn có thể dùng tripod chuẩn 1/4 inch là gắn vừa máy. Đây là loại phổ biến cho máy ảnh hiện nay."
+            ]
+        }
+    },
+    {
+        "processed_text": "Tôi đang dùng ống kính Sony, có cần mua ngàm chuyển không?",
+        "tokens": [
+            "dùng",
+            "ống_kính",
+            "sony",
+            "ngàm",
+            "chuyển"
+        ],
+        "token_frequency": {
+            "dùng": 1,
+            "ống_kính": 1,
+            "sony": 1,
+            "ngàm": 1,
+            "chuyển": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": [
+                "Dạ, máy hỗ trợ ống kính ngàm E của Sony. Bạn đang dùng loại lens nào để mình kiểm tra giúp nhé?",
+                "Sản phẩm tương thích với hầu hết các lens ngàm E. Nếu dùng lens Canon hoặc Nikon, bạn cần thêm ngàm chuyển phù hợp ạ.",
+                "Bạn có thể dùng lens chính hãng hoặc bên thứ ba như Sigma, Tamron miễn là ngàm E. Mình có thể gợi ý vài mẫu nếu bạn cần.",
+                "Dạ có ạ! Máy hỗ trợ kết nối với nhiều phụ kiện như mic, flash, tripod thông dụng. Bạn muốn kết nối thiết bị gì cụ thể để mình kiểm tra nhé?",
+                "Nếu bạn đã có ống kính cũ, chỉ cần kiểm tra lại loại ngàm. Gửi mã lens để mình tra tương thích giúp bạn.",
+                "Máy dùng tốt với lens Sony ngàm E, ngàm FE đều được. Nếu bạn muốn dùng lens DSLR thì cần ngàm chuyển riêng nhé.",
+                "Máy này không hỗ trợ lens Canon ngàm EF trực tiếp, nhưng bạn có thể dùng ngàm chuyển để sử dụng được bình thường.",
+                "Dạ hiện máy chỉ tương thích với các lens ngàm E. Nếu bạn cần gợi ý lens phù hợp cho thể loại chụp cụ thể (chân dung, phong cảnh...), mình hỗ trợ liền nhé!",
+                "Máy có hỗ trợ Bluetooth, Wi-Fi để kết nối với smartphone và phụ kiện. Với mic ngoài, bạn chỉ cần jack 3.5mm là gắn được.",
+                "Bạn có thể dùng tripod chuẩn 1/4 inch là gắn vừa máy. Đây là loại phổ biến cho máy ảnh hiện nay."
+            ]
+        }
+    },
+    {
+        "processed_text": "Phụ kiện cũ có xài chung với máy này được không?",
+        "tokens": [
+            "phụ_kiện",
+            "cũ",
+            "xài",
+            "máy"
+        ],
+        "token_frequency": {
+            "phụ_kiện": 1,
+            "cũ": 1,
+            "xài": 1,
+            "máy": 1
+        },
+        "original_item": {
+            "Intent": "ask_compatibility",
+            "Response": [
+                "Dạ, máy hỗ trợ ống kính ngàm E của Sony. Bạn đang dùng loại lens nào để mình kiểm tra giúp nhé?",
+                "Sản phẩm tương thích với hầu hết các lens ngàm E. Nếu dùng lens Canon hoặc Nikon, bạn cần thêm ngàm chuyển phù hợp ạ.",
+                "Bạn có thể dùng lens chính hãng hoặc bên thứ ba như Sigma, Tamron miễn là ngàm E. Mình có thể gợi ý vài mẫu nếu bạn cần.",
+                "Dạ có ạ! Máy hỗ trợ kết nối với nhiều phụ kiện như mic, flash, tripod thông dụng. Bạn muốn kết nối thiết bị gì cụ thể để mình kiểm tra nhé?",
+                "Nếu bạn đã có ống kính cũ, chỉ cần kiểm tra lại loại ngàm. Gửi mã lens để mình tra tương thích giúp bạn.",
+                "Máy dùng tốt với lens Sony ngàm E, ngàm FE đều được. Nếu bạn muốn dùng lens DSLR thì cần ngàm chuyển riêng nhé.",
+                "Máy này không hỗ trợ lens Canon ngàm EF trực tiếp, nhưng bạn có thể dùng ngàm chuyển để sử dụng được bình thường.",
+                "Dạ hiện máy chỉ tương thích với các lens ngàm E. Nếu bạn cần gợi ý lens phù hợp cho thể loại chụp cụ thể (chân dung, phong cảnh...), mình hỗ trợ liền nhé!",
+                "Máy có hỗ trợ Bluetooth, Wi-Fi để kết nối với smartphone và phụ kiện. Với mic ngoài, bạn chỉ cần jack 3.5mm là gắn được.",
+                "Bạn có thể dùng tripod chuẩn 1/4 inch là gắn vừa máy. Đây là loại phổ biến cho máy ảnh hiện nay."
+            ]
+        }
+    },
+    {
+        "processed_text": "So sánh ZV-E10 và ZV-1 giúp mình",
+        "tokens": [
+            "sánh",
+            "giúp"
+        ],
+        "token_frequency": {
+            "sánh": 1,
+            "giúp": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": [
+                "ZV-E10 có thể thay được ống kính, cảm biến lớn hơn – phù hợp chụp chuyên sâu. Còn ZV-1 nhỏ gọn, tiện vlog nhanh.",
+                "Nếu bạn thích quay video chất lượng cao, hậu kỳ tốt – nên chọn ZV-E10. ZV-1 thì gọn nhẹ, phù hợp mang đi du lịch.",
+                "ZV-E10 có cổng mic, jack tai nghe, hỗ trợ lens rời nên linh hoạt hơn. Tuy nhiên ZV-1 lại dễ dùng cho người mới bắt đầu.",
+                "Tùy mục đích sử dụng bạn nhé. Nếu bạn cần máy linh hoạt, nâng cấp được – ZV-E10 là lựa chọn tốt hơn.",
+                "ZV-1 là máy compact, còn ZV-E10 là mirrorless – nên chất lượng hình ảnh, tùy chỉnh của ZV-E10 sẽ nhỉnh hơn."
+            ]
+        }
+    },
+    {
+        "processed_text": "ZV-E10 tốt hơn ZV-1 không?",
+        "tokens": [
+            "tốt"
+        ],
+        "token_frequency": {
+            "tốt": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": [
+                "ZV-E10 có thể thay được ống kính, cảm biến lớn hơn – phù hợp chụp chuyên sâu. Còn ZV-1 nhỏ gọn, tiện vlog nhanh.",
+                "Nếu bạn thích quay video chất lượng cao, hậu kỳ tốt – nên chọn ZV-E10. ZV-1 thì gọn nhẹ, phù hợp mang đi du lịch.",
+                "ZV-E10 có cổng mic, jack tai nghe, hỗ trợ lens rời nên linh hoạt hơn. Tuy nhiên ZV-1 lại dễ dùng cho người mới bắt đầu.",
+                "Tùy mục đích sử dụng bạn nhé. Nếu bạn cần máy linh hoạt, nâng cấp được – ZV-E10 là lựa chọn tốt hơn.",
+                "ZV-1 là máy compact, còn ZV-E10 là mirrorless – nên chất lượng hình ảnh, tùy chỉnh của ZV-E10 sẽ nhỉnh hơn."
+            ]
+        }
+    },
+    {
+        "processed_text": "Cho mình biết sự khác biệt giữa hai máy này",
+        "tokens": [
+            "khác_biệt",
+            "máy"
+        ],
+        "token_frequency": {
+            "khác_biệt": 1,
+            "máy": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": [
+                "ZV-E10 có thể thay được ống kính, cảm biến lớn hơn – phù hợp chụp chuyên sâu. Còn ZV-1 nhỏ gọn, tiện vlog nhanh.",
+                "Nếu bạn thích quay video chất lượng cao, hậu kỳ tốt – nên chọn ZV-E10. ZV-1 thì gọn nhẹ, phù hợp mang đi du lịch.",
+                "ZV-E10 có cổng mic, jack tai nghe, hỗ trợ lens rời nên linh hoạt hơn. Tuy nhiên ZV-1 lại dễ dùng cho người mới bắt đầu.",
+                "Tùy mục đích sử dụng bạn nhé. Nếu bạn cần máy linh hoạt, nâng cấp được – ZV-E10 là lựa chọn tốt hơn.",
+                "ZV-1 là máy compact, còn ZV-E10 là mirrorless – nên chất lượng hình ảnh, tùy chỉnh của ZV-E10 sẽ nhỉnh hơn."
+            ]
+        }
+    },
+    {
+        "processed_text": "Máy nào chụp đẹp hơn, ZV-1 hay ZV-E10?",
+        "tokens": [
+            "máy",
+            "chụp",
+            "đẹp"
+        ],
+        "token_frequency": {
+            "máy": 1,
+            "chụp": 1,
+            "đẹp": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": [
+                "ZV-E10 có thể thay được ống kính, cảm biến lớn hơn – phù hợp chụp chuyên sâu. Còn ZV-1 nhỏ gọn, tiện vlog nhanh.",
+                "Nếu bạn thích quay video chất lượng cao, hậu kỳ tốt – nên chọn ZV-E10. ZV-1 thì gọn nhẹ, phù hợp mang đi du lịch.",
+                "ZV-E10 có cổng mic, jack tai nghe, hỗ trợ lens rời nên linh hoạt hơn. Tuy nhiên ZV-1 lại dễ dùng cho người mới bắt đầu.",
+                "Tùy mục đích sử dụng bạn nhé. Nếu bạn cần máy linh hoạt, nâng cấp được – ZV-E10 là lựa chọn tốt hơn.",
+                "ZV-1 là máy compact, còn ZV-E10 là mirrorless – nên chất lượng hình ảnh, tùy chỉnh của ZV-E10 sẽ nhỉnh hơn."
+            ]
+        }
+    },
+    {
+        "processed_text": "ZV-1 và ZV-E10 khác nhau chỗ nào?",
+        "tokens": [
+            "chỗ"
+        ],
+        "token_frequency": {
+            "chỗ": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": [
+                "ZV-E10 có thể thay được ống kính, cảm biến lớn hơn – phù hợp chụp chuyên sâu. Còn ZV-1 nhỏ gọn, tiện vlog nhanh.",
+                "Nếu bạn thích quay video chất lượng cao, hậu kỳ tốt – nên chọn ZV-E10. ZV-1 thì gọn nhẹ, phù hợp mang đi du lịch.",
+                "ZV-E10 có cổng mic, jack tai nghe, hỗ trợ lens rời nên linh hoạt hơn. Tuy nhiên ZV-1 lại dễ dùng cho người mới bắt đầu.",
+                "Tùy mục đích sử dụng bạn nhé. Nếu bạn cần máy linh hoạt, nâng cấp được – ZV-E10 là lựa chọn tốt hơn.",
+                "ZV-1 là máy compact, còn ZV-E10 là mirrorless – nên chất lượng hình ảnh, tùy chỉnh của ZV-E10 sẽ nhỉnh hơn."
+            ]
+        }
+    },
+    {
+        "processed_text": "Giữa ZV-E10 với ZV-1 nên chọn máy nào?",
+        "tokens": [
+            "chọn",
+            "máy"
+        ],
+        "token_frequency": {
+            "chọn": 1,
+            "máy": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": [
+                "ZV-E10 có thể thay được ống kính, cảm biến lớn hơn – phù hợp chụp chuyên sâu. Còn ZV-1 nhỏ gọn, tiện vlog nhanh.",
+                "Nếu bạn thích quay video chất lượng cao, hậu kỳ tốt – nên chọn ZV-E10. ZV-1 thì gọn nhẹ, phù hợp mang đi du lịch.",
+                "ZV-E10 có cổng mic, jack tai nghe, hỗ trợ lens rời nên linh hoạt hơn. Tuy nhiên ZV-1 lại dễ dùng cho người mới bắt đầu.",
+                "Tùy mục đích sử dụng bạn nhé. Nếu bạn cần máy linh hoạt, nâng cấp được – ZV-E10 là lựa chọn tốt hơn.",
+                "ZV-1 là máy compact, còn ZV-E10 là mirrorless – nên chất lượng hình ảnh, tùy chỉnh của ZV-E10 sẽ nhỉnh hơn."
+            ]
+        }
+    },
+    {
+        "processed_text": "So sánh hai mẫu máy này giùm mình",
+        "tokens": [
+            "sánh",
+            "mẫu",
+            "máy",
+            "giùm"
+        ],
+        "token_frequency": {
+            "sánh": 1,
+            "mẫu": 1,
+            "máy": 1,
+            "giùm": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": [
+                "ZV-E10 có thể thay được ống kính, cảm biến lớn hơn – phù hợp chụp chuyên sâu. Còn ZV-1 nhỏ gọn, tiện vlog nhanh.",
+                "Nếu bạn thích quay video chất lượng cao, hậu kỳ tốt – nên chọn ZV-E10. ZV-1 thì gọn nhẹ, phù hợp mang đi du lịch.",
+                "ZV-E10 có cổng mic, jack tai nghe, hỗ trợ lens rời nên linh hoạt hơn. Tuy nhiên ZV-1 lại dễ dùng cho người mới bắt đầu.",
+                "Tùy mục đích sử dụng bạn nhé. Nếu bạn cần máy linh hoạt, nâng cấp được – ZV-E10 là lựa chọn tốt hơn.",
+                "ZV-1 là máy compact, còn ZV-E10 là mirrorless – nên chất lượng hình ảnh, tùy chỉnh của ZV-E10 sẽ nhỉnh hơn."
+            ]
+        }
+    },
+    {
+        "processed_text": "Mình phân vân giữa ZV-E10 và ZV-1, bạn tư vấn giúp được không?",
+        "tokens": [
+            "phân_vân",
+            "tư_vấn",
+            "giúp"
+        ],
+        "token_frequency": {
+            "phân_vân": 1,
+            "tư_vấn": 1,
+            "giúp": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": [
+                "ZV-E10 có thể thay được ống kính, cảm biến lớn hơn – phù hợp chụp chuyên sâu. Còn ZV-1 nhỏ gọn, tiện vlog nhanh.",
+                "Nếu bạn thích quay video chất lượng cao, hậu kỳ tốt – nên chọn ZV-E10. ZV-1 thì gọn nhẹ, phù hợp mang đi du lịch.",
+                "ZV-E10 có cổng mic, jack tai nghe, hỗ trợ lens rời nên linh hoạt hơn. Tuy nhiên ZV-1 lại dễ dùng cho người mới bắt đầu.",
+                "Tùy mục đích sử dụng bạn nhé. Nếu bạn cần máy linh hoạt, nâng cấp được – ZV-E10 là lựa chọn tốt hơn.",
+                "ZV-1 là máy compact, còn ZV-E10 là mirrorless – nên chất lượng hình ảnh, tùy chỉnh của ZV-E10 sẽ nhỉnh hơn."
+            ]
+        }
+    },
+    {
+        "processed_text": "Cấu hình ZV-1 có thua ZV-E10 không?",
+        "tokens": [
+            "cấu_hình"
+        ],
+        "token_frequency": {
+            "cấu_hình": 1
+        },
+        "original_item": {
+            "Intent": "ask_compare",
+            "Response": [
+                "ZV-E10 có thể thay được ống kính, cảm biến lớn hơn – phù hợp chụp chuyên sâu. Còn ZV-1 nhỏ gọn, tiện vlog nhanh.",
+                "Nếu bạn thích quay video chất lượng cao, hậu kỳ tốt – nên chọn ZV-E10. ZV-1 thì gọn nhẹ, phù hợp mang đi du lịch.",
+                "ZV-E10 có cổng mic, jack tai nghe, hỗ trợ lens rời nên linh hoạt hơn. Tuy nhiên ZV-1 lại dễ dùng cho người mới bắt đầu.",
+                "Tùy mục đích sử dụng bạn nhé. Nếu bạn cần máy linh hoạt, nâng cấp được – ZV-E10 là lựa chọn tốt hơn.",
+                "ZV-1 là máy compact, còn ZV-E10 là mirrorless – nên chất lượng hình ảnh, tùy chỉnh của ZV-E10 sẽ nhỉnh hơn."
+            ]
+        }
+    },
+    {
+        "processed_text": "Máy này phù hợp chụp phong cách nào?",
+        "tokens": [
+            "máy",
+            "phù_hợp",
+            "chụp"
+        ],
+        "token_frequency": {
+            "máy": 1,
+            "phù_hợp": 1,
+            "chụp": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": [
+                "Dòng máy này phù hợp với phong cách quay vlog, chụp chân dung và street photography.",
+                "Nếu bạn muốn chụp thể thao hoặc hành động nhanh, máy có tốc độ lấy nét và chụp liên tiếp rất tốt.",
+                "Máy ảnh này có chế độ chụp đêm và khả năng xử lý nhiễu ổn, phù hợp với chụp ảnh trong điều kiện ánh sáng yếu.",
+                "Bạn nên dùng lens macro để chụp cận cảnh, hoa lá hoặc vật thể nhỏ.",
+                "Máy rất thích hợp cho quay phim YouTube với khả năng ghi hình 4K và microphone ngoài.",
+                "Với máy này, bạn có thể thoải mái sáng tạo các phong cách chụp khác nhau nhờ nhiều chế độ hỗ trợ."
+            ]
+        }
+    },
+    {
+        "processed_text": "Loại máy này chụp chân dung có tốt không?",
+        "tokens": [
+            "máy",
+            "chụp",
+            "chân",
+            "tốt"
+        ],
+        "token_frequency": {
+            "máy": 1,
+            "chụp": 1,
+            "chân": 1,
+            "tốt": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": [
+                "Dòng máy này phù hợp với phong cách quay vlog, chụp chân dung và street photography.",
+                "Nếu bạn muốn chụp thể thao hoặc hành động nhanh, máy có tốc độ lấy nét và chụp liên tiếp rất tốt.",
+                "Máy ảnh này có chế độ chụp đêm và khả năng xử lý nhiễu ổn, phù hợp với chụp ảnh trong điều kiện ánh sáng yếu.",
+                "Bạn nên dùng lens macro để chụp cận cảnh, hoa lá hoặc vật thể nhỏ.",
+                "Máy rất thích hợp cho quay phim YouTube với khả năng ghi hình 4K và microphone ngoài.",
+                "Với máy này, bạn có thể thoải mái sáng tạo các phong cách chụp khác nhau nhờ nhiều chế độ hỗ trợ."
+            ]
+        }
+    },
+    {
+        "processed_text": "Máy ảnh này quay vlog được không?",
+        "tokens": [
+            "máy_ảnh"
+        ],
+        "token_frequency": {
+            "máy_ảnh": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": [
+                "Dòng máy này phù hợp với phong cách quay vlog, chụp chân dung và street photography.",
+                "Nếu bạn muốn chụp thể thao hoặc hành động nhanh, máy có tốc độ lấy nét và chụp liên tiếp rất tốt.",
+                "Máy ảnh này có chế độ chụp đêm và khả năng xử lý nhiễu ổn, phù hợp với chụp ảnh trong điều kiện ánh sáng yếu.",
+                "Bạn nên dùng lens macro để chụp cận cảnh, hoa lá hoặc vật thể nhỏ.",
+                "Máy rất thích hợp cho quay phim YouTube với khả năng ghi hình 4K và microphone ngoài.",
+                "Với máy này, bạn có thể thoải mái sáng tạo các phong cách chụp khác nhau nhờ nhiều chế độ hỗ trợ."
+            ]
+        }
+    },
+    {
+        "processed_text": "Tôi muốn chụp phong cảnh, nên dùng máy nào?",
+        "tokens": [
+            "chụp",
+            "cảnh",
+            "dùng",
+            "máy"
+        ],
+        "token_frequency": {
+            "chụp": 1,
+            "cảnh": 1,
+            "dùng": 1,
+            "máy": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": [
+                "Dòng máy này phù hợp với phong cách quay vlog, chụp chân dung và street photography.",
+                "Nếu bạn muốn chụp thể thao hoặc hành động nhanh, máy có tốc độ lấy nét và chụp liên tiếp rất tốt.",
+                "Máy ảnh này có chế độ chụp đêm và khả năng xử lý nhiễu ổn, phù hợp với chụp ảnh trong điều kiện ánh sáng yếu.",
+                "Bạn nên dùng lens macro để chụp cận cảnh, hoa lá hoặc vật thể nhỏ.",
+                "Máy rất thích hợp cho quay phim YouTube với khả năng ghi hình 4K và microphone ngoài.",
+                "Với máy này, bạn có thể thoải mái sáng tạo các phong cách chụp khác nhau nhờ nhiều chế độ hỗ trợ."
+            ]
+        }
+    },
+    {
+        "processed_text": "Máy này có phù hợp chụp macro không?",
+        "tokens": [
+            "máy",
+            "phù_hợp",
+            "chụp"
+        ],
+        "token_frequency": {
+            "máy": 1,
+            "phù_hợp": 1,
+            "chụp": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": [
+                "Dòng máy này phù hợp với phong cách quay vlog, chụp chân dung và street photography.",
+                "Nếu bạn muốn chụp thể thao hoặc hành động nhanh, máy có tốc độ lấy nét và chụp liên tiếp rất tốt.",
+                "Máy ảnh này có chế độ chụp đêm và khả năng xử lý nhiễu ổn, phù hợp với chụp ảnh trong điều kiện ánh sáng yếu.",
+                "Bạn nên dùng lens macro để chụp cận cảnh, hoa lá hoặc vật thể nhỏ.",
+                "Máy rất thích hợp cho quay phim YouTube với khả năng ghi hình 4K và microphone ngoài.",
+                "Với máy này, bạn có thể thoải mái sáng tạo các phong cách chụp khác nhau nhờ nhiều chế độ hỗ trợ."
+            ]
+        }
+    },
+    {
+        "processed_text": "Bạn tư vấn cho mình máy phù hợp chụp sự kiện được không?",
+        "tokens": [
+            "tư_vấn",
+            "máy",
+            "phù_hợp",
+            "chụp",
+            "sự_kiện"
+        ],
+        "token_frequency": {
+            "tư_vấn": 1,
+            "máy": 1,
+            "phù_hợp": 1,
+            "chụp": 1,
+            "sự_kiện": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": [
+                "Dòng máy này phù hợp với phong cách quay vlog, chụp chân dung và street photography.",
+                "Nếu bạn muốn chụp thể thao hoặc hành động nhanh, máy có tốc độ lấy nét và chụp liên tiếp rất tốt.",
+                "Máy ảnh này có chế độ chụp đêm và khả năng xử lý nhiễu ổn, phù hợp với chụp ảnh trong điều kiện ánh sáng yếu.",
+                "Bạn nên dùng lens macro để chụp cận cảnh, hoa lá hoặc vật thể nhỏ.",
+                "Máy rất thích hợp cho quay phim YouTube với khả năng ghi hình 4K và microphone ngoài.",
+                "Với máy này, bạn có thể thoải mái sáng tạo các phong cách chụp khác nhau nhờ nhiều chế độ hỗ trợ."
+            ]
+        }
+    },
+    {
+        "processed_text": "Nên dùng lens nào để quay video chân dung?",
+        "tokens": [
+            "dùng",
+            "chân"
+        ],
+        "token_frequency": {
+            "dùng": 1,
+            "chân": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": [
+                "Dòng máy này phù hợp với phong cách quay vlog, chụp chân dung và street photography.",
+                "Nếu bạn muốn chụp thể thao hoặc hành động nhanh, máy có tốc độ lấy nét và chụp liên tiếp rất tốt.",
+                "Máy ảnh này có chế độ chụp đêm và khả năng xử lý nhiễu ổn, phù hợp với chụp ảnh trong điều kiện ánh sáng yếu.",
+                "Bạn nên dùng lens macro để chụp cận cảnh, hoa lá hoặc vật thể nhỏ.",
+                "Máy rất thích hợp cho quay phim YouTube với khả năng ghi hình 4K và microphone ngoài.",
+                "Với máy này, bạn có thể thoải mái sáng tạo các phong cách chụp khác nhau nhờ nhiều chế độ hỗ trợ."
+            ]
+        }
+    },
+    {
+        "processed_text": "Máy ảnh nào tốt cho chụp thể thao?",
+        "tokens": [
+            "máy_ảnh",
+            "tốt",
+            "chụp"
+        ],
+        "token_frequency": {
+            "máy_ảnh": 1,
+            "tốt": 1,
+            "chụp": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": [
+                "Dòng máy này phù hợp với phong cách quay vlog, chụp chân dung và street photography.",
+                "Nếu bạn muốn chụp thể thao hoặc hành động nhanh, máy có tốc độ lấy nét và chụp liên tiếp rất tốt.",
+                "Máy ảnh này có chế độ chụp đêm và khả năng xử lý nhiễu ổn, phù hợp với chụp ảnh trong điều kiện ánh sáng yếu.",
+                "Bạn nên dùng lens macro để chụp cận cảnh, hoa lá hoặc vật thể nhỏ.",
+                "Máy rất thích hợp cho quay phim YouTube với khả năng ghi hình 4K và microphone ngoài.",
+                "Với máy này, bạn có thể thoải mái sáng tạo các phong cách chụp khác nhau nhờ nhiều chế độ hỗ trợ."
+            ]
+        }
+    },
+    {
+        "processed_text": "Máy này chụp đêm có ổn không?",
+        "tokens": [
+            "máy",
+            "chụp",
+            "đêm",
+            "ổn"
+        ],
+        "token_frequency": {
+            "máy": 1,
+            "chụp": 1,
+            "đêm": 1,
+            "ổn": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": [
+                "Dòng máy này phù hợp với phong cách quay vlog, chụp chân dung và street photography.",
+                "Nếu bạn muốn chụp thể thao hoặc hành động nhanh, máy có tốc độ lấy nét và chụp liên tiếp rất tốt.",
+                "Máy ảnh này có chế độ chụp đêm và khả năng xử lý nhiễu ổn, phù hợp với chụp ảnh trong điều kiện ánh sáng yếu.",
+                "Bạn nên dùng lens macro để chụp cận cảnh, hoa lá hoặc vật thể nhỏ.",
+                "Máy rất thích hợp cho quay phim YouTube với khả năng ghi hình 4K và microphone ngoài.",
+                "Với máy này, bạn có thể thoải mái sáng tạo các phong cách chụp khác nhau nhờ nhiều chế độ hỗ trợ."
+            ]
+        }
+    },
+    {
+        "processed_text": "Có máy nào quay phim chất lượng cao không?",
+        "tokens": [
+            "máy",
+            "chất_lượng"
+        ],
+        "token_frequency": {
+            "máy": 1,
+            "chất_lượng": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": [
+                "Dòng máy này phù hợp với phong cách quay vlog, chụp chân dung và street photography.",
+                "Nếu bạn muốn chụp thể thao hoặc hành động nhanh, máy có tốc độ lấy nét và chụp liên tiếp rất tốt.",
+                "Máy ảnh này có chế độ chụp đêm và khả năng xử lý nhiễu ổn, phù hợp với chụp ảnh trong điều kiện ánh sáng yếu.",
+                "Bạn nên dùng lens macro để chụp cận cảnh, hoa lá hoặc vật thể nhỏ.",
+                "Máy rất thích hợp cho quay phim YouTube với khả năng ghi hình 4K và microphone ngoài.",
+                "Với máy này, bạn có thể thoải mái sáng tạo các phong cách chụp khác nhau nhờ nhiều chế độ hỗ trợ."
+            ]
+        }
+    },
+    {
+        "processed_text": "Loại máy này có phù hợp quay vlog YouTube không?",
+        "tokens": [
+            "máy",
+            "phù_hợp"
+        ],
+        "token_frequency": {
+            "máy": 1,
+            "phù_hợp": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": [
+                "Dòng máy này phù hợp với phong cách quay vlog, chụp chân dung và street photography.",
+                "Nếu bạn muốn chụp thể thao hoặc hành động nhanh, máy có tốc độ lấy nét và chụp liên tiếp rất tốt.",
+                "Máy ảnh này có chế độ chụp đêm và khả năng xử lý nhiễu ổn, phù hợp với chụp ảnh trong điều kiện ánh sáng yếu.",
+                "Bạn nên dùng lens macro để chụp cận cảnh, hoa lá hoặc vật thể nhỏ.",
+                "Máy rất thích hợp cho quay phim YouTube với khả năng ghi hình 4K và microphone ngoài.",
+                "Với máy này, bạn có thể thoải mái sáng tạo các phong cách chụp khác nhau nhờ nhiều chế độ hỗ trợ."
+            ]
+        }
+    },
+    {
+        "processed_text": "Máy có hỗ trợ chụp ảnh chân dung xóa phông không?",
+        "tokens": [
+            "máy",
+            "hỗ_trợ",
+            "chụp",
+            "ảnh",
+            "chân",
+            "xóa_phông"
+        ],
+        "token_frequency": {
+            "máy": 1,
+            "hỗ_trợ": 1,
+            "chụp": 1,
+            "ảnh": 1,
+            "chân": 1,
+            "xóa_phông": 1
+        },
+        "original_item": {
+            "Intent": "ask_shooting_style",
+            "Response": [
+                "Dòng máy này phù hợp với phong cách quay vlog, chụp chân dung và street photography.",
+                "Nếu bạn muốn chụp thể thao hoặc hành động nhanh, máy có tốc độ lấy nét và chụp liên tiếp rất tốt.",
+                "Máy ảnh này có chế độ chụp đêm và khả năng xử lý nhiễu ổn, phù hợp với chụp ảnh trong điều kiện ánh sáng yếu.",
+                "Bạn nên dùng lens macro để chụp cận cảnh, hoa lá hoặc vật thể nhỏ.",
+                "Máy rất thích hợp cho quay phim YouTube với khả năng ghi hình 4K và microphone ngoài.",
+                "Với máy này, bạn có thể thoải mái sáng tạo các phong cách chụp khác nhau nhờ nhiều chế độ hỗ trợ."
+            ]
+        }
+    },
+    {
+        "processed_text": "Giá bao nhiêu vậy?",
+        "tokens": [
+            "giá"
+        ],
+        "token_frequency": {
+            "giá": 1
+        },
+        "original_item": {
+            "Intent": "ask_price",
+            "Response": [
+                "Xin lỗi, mình chưa rõ bạn hỏi gì. Bạn có thể hỏi về sản phẩm, bảo hành hoặc tương thích ống kính nhé!",
+                "Giá hiện tại của sản phẩm là 12.500.000₫, bạn có muốn mình gửi bảng giá chi tiết không?",
+                "Máy ảnh đang được bán với giá ưu đãi 12.500.000₫, bạn có muốn mình tư vấn thêm?",
+                "Giá này đã bao gồm VAT và phí vận chuyển trong khu vực Hà Nội rồi nhé!",
+                "Bạn có thể mua trả góp với lãi suất 0% trong 6 tháng nếu muốn.",
+                "Hiện tại bên mình đang có chương trình giảm giá 10% cho khách hàng mới.",
+                "Giá sản phẩm dao động tùy theo phụ kiện đi kèm và chính sách khuyến mãi tại từng thời điểm."
+            ]
+        }
+    },
+    {
+        "processed_text": "Máy này giá bao nhiêu?",
+        "tokens": [
+            "máy",
+            "giá"
+        ],
+        "token_frequency": {
+            "máy": 1,
+            "giá": 1
+        },
+        "original_item": {
+            "Intent": "ask_price",
+            "Response": [
+                "Xin lỗi, mình chưa rõ bạn hỏi gì. Bạn có thể hỏi về sản phẩm, bảo hành hoặc tương thích ống kính nhé!",
+                "Giá hiện tại của sản phẩm là 12.500.000₫, bạn có muốn mình gửi bảng giá chi tiết không?",
+                "Máy ảnh đang được bán với giá ưu đãi 12.500.000₫, bạn có muốn mình tư vấn thêm?",
+                "Giá này đã bao gồm VAT và phí vận chuyển trong khu vực Hà Nội rồi nhé!",
+                "Bạn có thể mua trả góp với lãi suất 0% trong 6 tháng nếu muốn.",
+                "Hiện tại bên mình đang có chương trình giảm giá 10% cho khách hàng mới.",
+                "Giá sản phẩm dao động tùy theo phụ kiện đi kèm và chính sách khuyến mãi tại từng thời điểm."
+            ]
+        }
+    },
+    {
+        "processed_text": "Cho mình hỏi giá sản phẩm này?",
+        "tokens": [
+            "giá",
+            "sản_phẩm"
+        ],
+        "token_frequency": {
+            "giá": 1,
+            "sản_phẩm": 1
+        },
+        "original_item": {
+            "Intent": "ask_price",
+            "Response": [
+                "Xin lỗi, mình chưa rõ bạn hỏi gì. Bạn có thể hỏi về sản phẩm, bảo hành hoặc tương thích ống kính nhé!",
+                "Giá hiện tại của sản phẩm là 12.500.000₫, bạn có muốn mình gửi bảng giá chi tiết không?",
+                "Máy ảnh đang được bán với giá ưu đãi 12.500.000₫, bạn có muốn mình tư vấn thêm?",
+                "Giá này đã bao gồm VAT và phí vận chuyển trong khu vực Hà Nội rồi nhé!",
+                "Bạn có thể mua trả góp với lãi suất 0% trong 6 tháng nếu muốn.",
+                "Hiện tại bên mình đang có chương trình giảm giá 10% cho khách hàng mới.",
+                "Giá sản phẩm dao động tùy theo phụ kiện đi kèm và chính sách khuyến mãi tại từng thời điểm."
+            ]
+        }
+    },
+    {
+        "processed_text": "Sản phẩm bán với giá bao nhiêu?",
+        "tokens": [
+            "sản_phẩm",
+            "bán",
+            "giá"
+        ],
+        "token_frequency": {
+            "sản_phẩm": 1,
+            "bán": 1,
+            "giá": 1
+        },
+        "original_item": {
+            "Intent": "ask_price",
+            "Response": [
+                "Xin lỗi, mình chưa rõ bạn hỏi gì. Bạn có thể hỏi về sản phẩm, bảo hành hoặc tương thích ống kính nhé!",
+                "Giá hiện tại của sản phẩm là 12.500.000₫, bạn có muốn mình gửi bảng giá chi tiết không?",
+                "Máy ảnh đang được bán với giá ưu đãi 12.500.000₫, bạn có muốn mình tư vấn thêm?",
+                "Giá này đã bao gồm VAT và phí vận chuyển trong khu vực Hà Nội rồi nhé!",
+                "Bạn có thể mua trả góp với lãi suất 0% trong 6 tháng nếu muốn.",
+                "Hiện tại bên mình đang có chương trình giảm giá 10% cho khách hàng mới.",
+                "Giá sản phẩm dao động tùy theo phụ kiện đi kèm và chính sách khuyến mãi tại từng thời điểm."
+            ]
+        }
+    },
+    {
+        "processed_text": "Cái này giá nhiêu?",
+        "tokens": [
+            "giá"
+        ],
+        "token_frequency": {
+            "giá": 1
+        },
+        "original_item": {
+            "Intent": "ask_price",
+            "Response": [
+                "Xin lỗi, mình chưa rõ bạn hỏi gì. Bạn có thể hỏi về sản phẩm, bảo hành hoặc tương thích ống kính nhé!",
+                "Giá hiện tại của sản phẩm là 12.500.000₫, bạn có muốn mình gửi bảng giá chi tiết không?",
+                "Máy ảnh đang được bán với giá ưu đãi 12.500.000₫, bạn có muốn mình tư vấn thêm?",
+                "Giá này đã bao gồm VAT và phí vận chuyển trong khu vực Hà Nội rồi nhé!",
+                "Bạn có thể mua trả góp với lãi suất 0% trong 6 tháng nếu muốn.",
+                "Hiện tại bên mình đang có chương trình giảm giá 10% cho khách hàng mới.",
+                "Giá sản phẩm dao động tùy theo phụ kiện đi kèm và chính sách khuyến mãi tại từng thời điểm."
+            ]
+        }
+    },
+    {
+        "processed_text": "Có giảm giá không?",
+        "tokens": [
+            "giảm_giá"
+        ],
+        "token_frequency": {
+            "giảm_giá": 1
+        },
+        "original_item": {
+            "Intent": "ask_price",
+            "Response": [
+                "Xin lỗi, mình chưa rõ bạn hỏi gì. Bạn có thể hỏi về sản phẩm, bảo hành hoặc tương thích ống kính nhé!",
+                "Giá hiện tại của sản phẩm là 12.500.000₫, bạn có muốn mình gửi bảng giá chi tiết không?",
+                "Máy ảnh đang được bán với giá ưu đãi 12.500.000₫, bạn có muốn mình tư vấn thêm?",
+                "Giá này đã bao gồm VAT và phí vận chuyển trong khu vực Hà Nội rồi nhé!",
+                "Bạn có thể mua trả góp với lãi suất 0% trong 6 tháng nếu muốn.",
+                "Hiện tại bên mình đang có chương trình giảm giá 10% cho khách hàng mới.",
+                "Giá sản phẩm dao động tùy theo phụ kiện đi kèm và chính sách khuyến mãi tại từng thời điểm."
+            ]
+        }
+    },
+    {
+        "processed_text": "Giá hiện tại là bao nhiêu?",
+        "tokens": [
+            "giá",
+            "hiện_tại"
+        ],
+        "token_frequency": {
+            "giá": 1,
+            "hiện_tại": 1
+        },
+        "original_item": {
+            "Intent": "ask_price",
+            "Response": [
+                "Xin lỗi, mình chưa rõ bạn hỏi gì. Bạn có thể hỏi về sản phẩm, bảo hành hoặc tương thích ống kính nhé!",
+                "Giá hiện tại của sản phẩm là 12.500.000₫, bạn có muốn mình gửi bảng giá chi tiết không?",
+                "Máy ảnh đang được bán với giá ưu đãi 12.500.000₫, bạn có muốn mình tư vấn thêm?",
+                "Giá này đã bao gồm VAT và phí vận chuyển trong khu vực Hà Nội rồi nhé!",
+                "Bạn có thể mua trả góp với lãi suất 0% trong 6 tháng nếu muốn.",
+                "Hiện tại bên mình đang có chương trình giảm giá 10% cho khách hàng mới.",
+                "Giá sản phẩm dao động tùy theo phụ kiện đi kèm và chính sách khuyến mãi tại từng thời điểm."
+            ]
+        }
+    },
+    {
+        "processed_text": "Bán với giá thế nào?",
+        "tokens": [
+            "bán",
+            "giá"
+        ],
+        "token_frequency": {
+            "bán": 1,
+            "giá": 1
+        },
+        "original_item": {
+            "Intent": "ask_price",
+            "Response": [
+                "Xin lỗi, mình chưa rõ bạn hỏi gì. Bạn có thể hỏi về sản phẩm, bảo hành hoặc tương thích ống kính nhé!",
+                "Giá hiện tại của sản phẩm là 12.500.000₫, bạn có muốn mình gửi bảng giá chi tiết không?",
+                "Máy ảnh đang được bán với giá ưu đãi 12.500.000₫, bạn có muốn mình tư vấn thêm?",
+                "Giá này đã bao gồm VAT và phí vận chuyển trong khu vực Hà Nội rồi nhé!",
+                "Bạn có thể mua trả góp với lãi suất 0% trong 6 tháng nếu muốn.",
+                "Hiện tại bên mình đang có chương trình giảm giá 10% cho khách hàng mới.",
+                "Giá sản phẩm dao động tùy theo phụ kiện đi kèm và chính sách khuyến mãi tại từng thời điểm."
+            ]
+        }
+    },
+    {
+        "processed_text": "Sản phẩm này bao nhiêu tiền?",
+        "tokens": [
+            "sản_phẩm",
+            "tiền"
+        ],
+        "token_frequency": {
+            "sản_phẩm": 1,
+            "tiền": 1
+        },
+        "original_item": {
+            "Intent": "ask_price",
+            "Response": [
+                "Xin lỗi, mình chưa rõ bạn hỏi gì. Bạn có thể hỏi về sản phẩm, bảo hành hoặc tương thích ống kính nhé!",
+                "Giá hiện tại của sản phẩm là 12.500.000₫, bạn có muốn mình gửi bảng giá chi tiết không?",
+                "Máy ảnh đang được bán với giá ưu đãi 12.500.000₫, bạn có muốn mình tư vấn thêm?",
+                "Giá này đã bao gồm VAT và phí vận chuyển trong khu vực Hà Nội rồi nhé!",
+                "Bạn có thể mua trả góp với lãi suất 0% trong 6 tháng nếu muốn.",
+                "Hiện tại bên mình đang có chương trình giảm giá 10% cho khách hàng mới.",
+                "Giá sản phẩm dao động tùy theo phụ kiện đi kèm và chính sách khuyến mãi tại từng thời điểm."
+            ]
+        }
+    },
+    {
+        "processed_text": "Bạn cho biết giá máy ảnh này nhé",
+        "tokens": [
+            "giá",
+            "máy_ảnh"
+        ],
+        "token_frequency": {
+            "giá": 1,
+            "máy_ảnh": 1
+        },
+        "original_item": {
+            "Intent": "ask_price",
+            "Response": [
+                "Xin lỗi, mình chưa rõ bạn hỏi gì. Bạn có thể hỏi về sản phẩm, bảo hành hoặc tương thích ống kính nhé!",
+                "Giá hiện tại của sản phẩm là 12.500.000₫, bạn có muốn mình gửi bảng giá chi tiết không?",
+                "Máy ảnh đang được bán với giá ưu đãi 12.500.000₫, bạn có muốn mình tư vấn thêm?",
+                "Giá này đã bao gồm VAT và phí vận chuyển trong khu vực Hà Nội rồi nhé!",
+                "Bạn có thể mua trả góp với lãi suất 0% trong 6 tháng nếu muốn.",
+                "Hiện tại bên mình đang có chương trình giảm giá 10% cho khách hàng mới.",
+                "Giá sản phẩm dao động tùy theo phụ kiện đi kèm và chính sách khuyến mãi tại từng thời điểm."
+            ]
+        }
+    },
+    {
+        "processed_text": "Giá đã gồm thuế chưa?",
+        "tokens": [
+            "giá",
+            "gồm",
+            "thuế"
+        ],
+        "token_frequency": {
+            "giá": 1,
+            "gồm": 1,
+            "thuế": 1
+        },
+        "original_item": {
+            "Intent": "ask_price",
+            "Response": [
+                "Xin lỗi, mình chưa rõ bạn hỏi gì. Bạn có thể hỏi về sản phẩm, bảo hành hoặc tương thích ống kính nhé!",
+                "Giá hiện tại của sản phẩm là 12.500.000₫, bạn có muốn mình gửi bảng giá chi tiết không?",
+                "Máy ảnh đang được bán với giá ưu đãi 12.500.000₫, bạn có muốn mình tư vấn thêm?",
+                "Giá này đã bao gồm VAT và phí vận chuyển trong khu vực Hà Nội rồi nhé!",
+                "Bạn có thể mua trả góp với lãi suất 0% trong 6 tháng nếu muốn.",
+                "Hiện tại bên mình đang có chương trình giảm giá 10% cho khách hàng mới.",
+                "Giá sản phẩm dao động tùy theo phụ kiện đi kèm và chính sách khuyến mãi tại từng thời điểm."
+            ]
+        }
+    },
+    {
+        "processed_text": "Có chương trình khuyến mãi nào không?",
+        "tokens": [
+            "chương_trình",
+            "khuyến_mãi"
+        ],
+        "token_frequency": {
+            "chương_trình": 1,
+            "khuyến_mãi": 1
+        },
+        "original_item": {
+            "Intent": "ask_price",
+            "Response": [
+                "Xin lỗi, mình chưa rõ bạn hỏi gì. Bạn có thể hỏi về sản phẩm, bảo hành hoặc tương thích ống kính nhé!",
+                "Giá hiện tại của sản phẩm là 12.500.000₫, bạn có muốn mình gửi bảng giá chi tiết không?",
+                "Máy ảnh đang được bán với giá ưu đãi 12.500.000₫, bạn có muốn mình tư vấn thêm?",
+                "Giá này đã bao gồm VAT và phí vận chuyển trong khu vực Hà Nội rồi nhé!",
+                "Bạn có thể mua trả góp với lãi suất 0% trong 6 tháng nếu muốn.",
+                "Hiện tại bên mình đang có chương trình giảm giá 10% cho khách hàng mới.",
+                "Giá sản phẩm dao động tùy theo phụ kiện đi kèm và chính sách khuyến mãi tại từng thời điểm."
+            ]
+        }
+    },
+    {
+        "processed_text": "Mình muốn biết giá chi tiết",
+        "tokens": [
+            "giá",
+            "tiết"
+        ],
+        "token_frequency": {
+            "giá": 1,
+            "tiết": 1
+        },
+        "original_item": {
+            "Intent": "ask_price",
+            "Response": [
+                "Xin lỗi, mình chưa rõ bạn hỏi gì. Bạn có thể hỏi về sản phẩm, bảo hành hoặc tương thích ống kính nhé!",
+                "Giá hiện tại của sản phẩm là 12.500.000₫, bạn có muốn mình gửi bảng giá chi tiết không?",
+                "Máy ảnh đang được bán với giá ưu đãi 12.500.000₫, bạn có muốn mình tư vấn thêm?",
+                "Giá này đã bao gồm VAT và phí vận chuyển trong khu vực Hà Nội rồi nhé!",
+                "Bạn có thể mua trả góp với lãi suất 0% trong 6 tháng nếu muốn.",
+                "Hiện tại bên mình đang có chương trình giảm giá 10% cho khách hàng mới.",
+                "Giá sản phẩm dao động tùy theo phụ kiện đi kèm và chính sách khuyến mãi tại từng thời điểm."
+            ]
+        }
+    },
+    {
+        "processed_text": "Máy này có cảm biến loại gì?",
+        "tokens": [
+            "máy",
+            "cảm_biến"
+        ],
+        "token_frequency": {
+            "máy": 1,
+            "cảm_biến": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": [
+                "Sản phẩm này trang bị cảm biến CMOS APS-C, độ phân giải 24MP, hỗ trợ quay video 4K 30fps.",
+                "Máy có chống rung quang học tích hợp, giúp giảm mờ khi chụp hoặc quay.",
+                "Thời lượng pin trung bình khoảng 400-450 tấm ảnh hoặc 1.5 giờ quay video liên tục.",
+                "Máy hỗ trợ kết nối Wi-Fi, Bluetooth để chia sẻ ảnh nhanh chóng.",
+                "Màn hình cảm ứng xoay lật tiện lợi cho việc quay vlog và selfie.",
+                "Máy tương thích với thẻ nhớ SD, SDHC và SDXC với dung lượng tối đa 256GB.",
+                "Thời gian sạc pin khoảng 2 giờ để đạt 100% dung lượng.",
+                "Độ nhạy ISO từ 100 đến 32000, mở rộng lên đến 51200.",
+                "Máy hỗ trợ lấy nét tự động theo pha và tương phản, lấy nét nhanh và chính xác."
+            ]
+        }
+    },
+    {
+        "processed_text": "Thông số kỹ thuật của sản phẩm là gì?",
+        "tokens": [
+            "thông_số",
+            "kỹ_thuật",
+            "sản_phẩm"
+        ],
+        "token_frequency": {
+            "thông_số": 1,
+            "kỹ_thuật": 1,
+            "sản_phẩm": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": [
+                "Sản phẩm này trang bị cảm biến CMOS APS-C, độ phân giải 24MP, hỗ trợ quay video 4K 30fps.",
+                "Máy có chống rung quang học tích hợp, giúp giảm mờ khi chụp hoặc quay.",
+                "Thời lượng pin trung bình khoảng 400-450 tấm ảnh hoặc 1.5 giờ quay video liên tục.",
+                "Máy hỗ trợ kết nối Wi-Fi, Bluetooth để chia sẻ ảnh nhanh chóng.",
+                "Màn hình cảm ứng xoay lật tiện lợi cho việc quay vlog và selfie.",
+                "Máy tương thích với thẻ nhớ SD, SDHC và SDXC với dung lượng tối đa 256GB.",
+                "Thời gian sạc pin khoảng 2 giờ để đạt 100% dung lượng.",
+                "Độ nhạy ISO từ 100 đến 32000, mở rộng lên đến 51200.",
+                "Máy hỗ trợ lấy nét tự động theo pha và tương phản, lấy nét nhanh và chính xác."
+            ]
+        }
+    },
+    {
+        "processed_text": "Máy có chống rung không?",
+        "tokens": [
+            "máy",
+            "chống"
+        ],
+        "token_frequency": {
+            "máy": 1,
+            "chống": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": [
+                "Sản phẩm này trang bị cảm biến CMOS APS-C, độ phân giải 24MP, hỗ trợ quay video 4K 30fps.",
+                "Máy có chống rung quang học tích hợp, giúp giảm mờ khi chụp hoặc quay.",
+                "Thời lượng pin trung bình khoảng 400-450 tấm ảnh hoặc 1.5 giờ quay video liên tục.",
+                "Máy hỗ trợ kết nối Wi-Fi, Bluetooth để chia sẻ ảnh nhanh chóng.",
+                "Màn hình cảm ứng xoay lật tiện lợi cho việc quay vlog và selfie.",
+                "Máy tương thích với thẻ nhớ SD, SDHC và SDXC với dung lượng tối đa 256GB.",
+                "Thời gian sạc pin khoảng 2 giờ để đạt 100% dung lượng.",
+                "Độ nhạy ISO từ 100 đến 32000, mở rộng lên đến 51200.",
+                "Máy hỗ trợ lấy nét tự động theo pha và tương phản, lấy nét nhanh và chính xác."
+            ]
+        }
+    },
+    {
+        "processed_text": "Độ phân giải ảnh của máy là bao nhiêu?",
+        "tokens": [
+            "phân_giải",
+            "ảnh",
+            "máy"
+        ],
+        "token_frequency": {
+            "phân_giải": 1,
+            "ảnh": 1,
+            "máy": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": [
+                "Sản phẩm này trang bị cảm biến CMOS APS-C, độ phân giải 24MP, hỗ trợ quay video 4K 30fps.",
+                "Máy có chống rung quang học tích hợp, giúp giảm mờ khi chụp hoặc quay.",
+                "Thời lượng pin trung bình khoảng 400-450 tấm ảnh hoặc 1.5 giờ quay video liên tục.",
+                "Máy hỗ trợ kết nối Wi-Fi, Bluetooth để chia sẻ ảnh nhanh chóng.",
+                "Màn hình cảm ứng xoay lật tiện lợi cho việc quay vlog và selfie.",
+                "Máy tương thích với thẻ nhớ SD, SDHC và SDXC với dung lượng tối đa 256GB.",
+                "Thời gian sạc pin khoảng 2 giờ để đạt 100% dung lượng.",
+                "Độ nhạy ISO từ 100 đến 32000, mở rộng lên đến 51200.",
+                "Máy hỗ trợ lấy nét tự động theo pha và tương phản, lấy nét nhanh và chính xác."
+            ]
+        }
+    },
+    {
+        "processed_text": "Thời lượng pin của máy là bao lâu?",
+        "tokens": [
+            "thời_lượng",
+            "máy"
+        ],
+        "token_frequency": {
+            "thời_lượng": 1,
+            "máy": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": [
+                "Sản phẩm này trang bị cảm biến CMOS APS-C, độ phân giải 24MP, hỗ trợ quay video 4K 30fps.",
+                "Máy có chống rung quang học tích hợp, giúp giảm mờ khi chụp hoặc quay.",
+                "Thời lượng pin trung bình khoảng 400-450 tấm ảnh hoặc 1.5 giờ quay video liên tục.",
+                "Máy hỗ trợ kết nối Wi-Fi, Bluetooth để chia sẻ ảnh nhanh chóng.",
+                "Màn hình cảm ứng xoay lật tiện lợi cho việc quay vlog và selfie.",
+                "Máy tương thích với thẻ nhớ SD, SDHC và SDXC với dung lượng tối đa 256GB.",
+                "Thời gian sạc pin khoảng 2 giờ để đạt 100% dung lượng.",
+                "Độ nhạy ISO từ 100 đến 32000, mở rộng lên đến 51200.",
+                "Máy hỗ trợ lấy nét tự động theo pha và tương phản, lấy nét nhanh và chính xác."
+            ]
+        }
+    },
+    {
+        "processed_text": "Máy có quay video 4K được không?",
+        "tokens": [
+            "máy"
+        ],
+        "token_frequency": {
+            "máy": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": [
+                "Sản phẩm này trang bị cảm biến CMOS APS-C, độ phân giải 24MP, hỗ trợ quay video 4K 30fps.",
+                "Máy có chống rung quang học tích hợp, giúp giảm mờ khi chụp hoặc quay.",
+                "Thời lượng pin trung bình khoảng 400-450 tấm ảnh hoặc 1.5 giờ quay video liên tục.",
+                "Máy hỗ trợ kết nối Wi-Fi, Bluetooth để chia sẻ ảnh nhanh chóng.",
+                "Màn hình cảm ứng xoay lật tiện lợi cho việc quay vlog và selfie.",
+                "Máy tương thích với thẻ nhớ SD, SDHC và SDXC với dung lượng tối đa 256GB.",
+                "Thời gian sạc pin khoảng 2 giờ để đạt 100% dung lượng.",
+                "Độ nhạy ISO từ 100 đến 32000, mở rộng lên đến 51200.",
+                "Máy hỗ trợ lấy nét tự động theo pha và tương phản, lấy nét nhanh và chính xác."
+            ]
+        }
+    },
+    {
+        "processed_text": "Ống kính đi kèm có tiêu cự bao nhiêu?",
+        "tokens": [
+            "ống_kính",
+            "kèm",
+            "tiêu_cự"
+        ],
+        "token_frequency": {
+            "ống_kính": 1,
+            "kèm": 1,
+            "tiêu_cự": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": [
+                "Sản phẩm này trang bị cảm biến CMOS APS-C, độ phân giải 24MP, hỗ trợ quay video 4K 30fps.",
+                "Máy có chống rung quang học tích hợp, giúp giảm mờ khi chụp hoặc quay.",
+                "Thời lượng pin trung bình khoảng 400-450 tấm ảnh hoặc 1.5 giờ quay video liên tục.",
+                "Máy hỗ trợ kết nối Wi-Fi, Bluetooth để chia sẻ ảnh nhanh chóng.",
+                "Màn hình cảm ứng xoay lật tiện lợi cho việc quay vlog và selfie.",
+                "Máy tương thích với thẻ nhớ SD, SDHC và SDXC với dung lượng tối đa 256GB.",
+                "Thời gian sạc pin khoảng 2 giờ để đạt 100% dung lượng.",
+                "Độ nhạy ISO từ 100 đến 32000, mở rộng lên đến 51200.",
+                "Máy hỗ trợ lấy nét tự động theo pha và tương phản, lấy nét nhanh và chính xác."
+            ]
+        }
+    },
+    {
+        "processed_text": "Máy hỗ trợ thẻ nhớ loại nào?",
+        "tokens": [
+            "máy",
+            "hỗ_trợ",
+            "thẻ_nhớ"
+        ],
+        "token_frequency": {
+            "máy": 1,
+            "hỗ_trợ": 1,
+            "thẻ_nhớ": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": [
+                "Sản phẩm này trang bị cảm biến CMOS APS-C, độ phân giải 24MP, hỗ trợ quay video 4K 30fps.",
+                "Máy có chống rung quang học tích hợp, giúp giảm mờ khi chụp hoặc quay.",
+                "Thời lượng pin trung bình khoảng 400-450 tấm ảnh hoặc 1.5 giờ quay video liên tục.",
+                "Máy hỗ trợ kết nối Wi-Fi, Bluetooth để chia sẻ ảnh nhanh chóng.",
+                "Màn hình cảm ứng xoay lật tiện lợi cho việc quay vlog và selfie.",
+                "Máy tương thích với thẻ nhớ SD, SDHC và SDXC với dung lượng tối đa 256GB.",
+                "Thời gian sạc pin khoảng 2 giờ để đạt 100% dung lượng.",
+                "Độ nhạy ISO từ 100 đến 32000, mở rộng lên đến 51200.",
+                "Máy hỗ trợ lấy nét tự động theo pha và tương phản, lấy nét nhanh và chính xác."
+            ]
+        }
+    },
+    {
+        "processed_text": "Có thể kết nối Bluetooth hoặc Wi-Fi không?",
+        "tokens": [
+            "kết_nối"
+        ],
+        "token_frequency": {
+            "kết_nối": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": [
+                "Sản phẩm này trang bị cảm biến CMOS APS-C, độ phân giải 24MP, hỗ trợ quay video 4K 30fps.",
+                "Máy có chống rung quang học tích hợp, giúp giảm mờ khi chụp hoặc quay.",
+                "Thời lượng pin trung bình khoảng 400-450 tấm ảnh hoặc 1.5 giờ quay video liên tục.",
+                "Máy hỗ trợ kết nối Wi-Fi, Bluetooth để chia sẻ ảnh nhanh chóng.",
+                "Màn hình cảm ứng xoay lật tiện lợi cho việc quay vlog và selfie.",
+                "Máy tương thích với thẻ nhớ SD, SDHC và SDXC với dung lượng tối đa 256GB.",
+                "Thời gian sạc pin khoảng 2 giờ để đạt 100% dung lượng.",
+                "Độ nhạy ISO từ 100 đến 32000, mở rộng lên đến 51200.",
+                "Máy hỗ trợ lấy nét tự động theo pha và tương phản, lấy nét nhanh và chính xác."
+            ]
+        }
+    },
+    {
+        "processed_text": "Trọng lượng máy là bao nhiêu?",
+        "tokens": [
+            "trọng_lượng",
+            "máy"
+        ],
+        "token_frequency": {
+            "trọng_lượng": 1,
+            "máy": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": [
+                "Sản phẩm này trang bị cảm biến CMOS APS-C, độ phân giải 24MP, hỗ trợ quay video 4K 30fps.",
+                "Máy có chống rung quang học tích hợp, giúp giảm mờ khi chụp hoặc quay.",
+                "Thời lượng pin trung bình khoảng 400-450 tấm ảnh hoặc 1.5 giờ quay video liên tục.",
+                "Máy hỗ trợ kết nối Wi-Fi, Bluetooth để chia sẻ ảnh nhanh chóng.",
+                "Màn hình cảm ứng xoay lật tiện lợi cho việc quay vlog và selfie.",
+                "Máy tương thích với thẻ nhớ SD, SDHC và SDXC với dung lượng tối đa 256GB.",
+                "Thời gian sạc pin khoảng 2 giờ để đạt 100% dung lượng.",
+                "Độ nhạy ISO từ 100 đến 32000, mở rộng lên đến 51200.",
+                "Máy hỗ trợ lấy nét tự động theo pha và tương phản, lấy nét nhanh và chính xác."
+            ]
+        }
+    },
+    {
+        "processed_text": "Máy có màn hình cảm ứng không?",
+        "tokens": [
+            "máy",
+            "màn_hình",
+            "cảm_ứng"
+        ],
+        "token_frequency": {
+            "máy": 1,
+            "màn_hình": 1,
+            "cảm_ứng": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": [
+                "Sản phẩm này trang bị cảm biến CMOS APS-C, độ phân giải 24MP, hỗ trợ quay video 4K 30fps.",
+                "Máy có chống rung quang học tích hợp, giúp giảm mờ khi chụp hoặc quay.",
+                "Thời lượng pin trung bình khoảng 400-450 tấm ảnh hoặc 1.5 giờ quay video liên tục.",
+                "Máy hỗ trợ kết nối Wi-Fi, Bluetooth để chia sẻ ảnh nhanh chóng.",
+                "Màn hình cảm ứng xoay lật tiện lợi cho việc quay vlog và selfie.",
+                "Máy tương thích với thẻ nhớ SD, SDHC và SDXC với dung lượng tối đa 256GB.",
+                "Thời gian sạc pin khoảng 2 giờ để đạt 100% dung lượng.",
+                "Độ nhạy ISO từ 100 đến 32000, mở rộng lên đến 51200.",
+                "Máy hỗ trợ lấy nét tự động theo pha và tương phản, lấy nét nhanh và chính xác."
+            ]
+        }
+    },
+    {
+        "processed_text": "Độ nhạy ISO tối đa là bao nhiêu?",
+        "tokens": [
+            "nhạy",
+            "do_nhay_sang_iso",
+            "tối_đa"
+        ],
+        "token_frequency": {
+            "nhạy": 1,
+            "do_nhay_sang_iso": 1,
+            "tối_đa": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": [
+                "Sản phẩm này trang bị cảm biến CMOS APS-C, độ phân giải 24MP, hỗ trợ quay video 4K 30fps.",
+                "Máy có chống rung quang học tích hợp, giúp giảm mờ khi chụp hoặc quay.",
+                "Thời lượng pin trung bình khoảng 400-450 tấm ảnh hoặc 1.5 giờ quay video liên tục.",
+                "Máy hỗ trợ kết nối Wi-Fi, Bluetooth để chia sẻ ảnh nhanh chóng.",
+                "Màn hình cảm ứng xoay lật tiện lợi cho việc quay vlog và selfie.",
+                "Máy tương thích với thẻ nhớ SD, SDHC và SDXC với dung lượng tối đa 256GB.",
+                "Thời gian sạc pin khoảng 2 giờ để đạt 100% dung lượng.",
+                "Độ nhạy ISO từ 100 đến 32000, mở rộng lên đến 51200.",
+                "Máy hỗ trợ lấy nét tự động theo pha và tương phản, lấy nét nhanh và chính xác."
+            ]
+        }
+    },
+    {
+        "processed_text": "Máy có micro ngoài được không?",
+        "tokens": [
+            "máy"
+        ],
+        "token_frequency": {
+            "máy": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": [
+                "Sản phẩm này trang bị cảm biến CMOS APS-C, độ phân giải 24MP, hỗ trợ quay video 4K 30fps.",
+                "Máy có chống rung quang học tích hợp, giúp giảm mờ khi chụp hoặc quay.",
+                "Thời lượng pin trung bình khoảng 400-450 tấm ảnh hoặc 1.5 giờ quay video liên tục.",
+                "Máy hỗ trợ kết nối Wi-Fi, Bluetooth để chia sẻ ảnh nhanh chóng.",
+                "Màn hình cảm ứng xoay lật tiện lợi cho việc quay vlog và selfie.",
+                "Máy tương thích với thẻ nhớ SD, SDHC và SDXC với dung lượng tối đa 256GB.",
+                "Thời gian sạc pin khoảng 2 giờ để đạt 100% dung lượng.",
+                "Độ nhạy ISO từ 100 đến 32000, mở rộng lên đến 51200.",
+                "Máy hỗ trợ lấy nét tự động theo pha và tương phản, lấy nét nhanh và chính xác."
+            ]
+        }
+    },
+    {
+        "processed_text": "Thời gian sạc pin mất bao lâu?",
+        "tokens": [
+            "sạc",
+            "mất"
+        ],
+        "token_frequency": {
+            "sạc": 1,
+            "mất": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": [
+                "Sản phẩm này trang bị cảm biến CMOS APS-C, độ phân giải 24MP, hỗ trợ quay video 4K 30fps.",
+                "Máy có chống rung quang học tích hợp, giúp giảm mờ khi chụp hoặc quay.",
+                "Thời lượng pin trung bình khoảng 400-450 tấm ảnh hoặc 1.5 giờ quay video liên tục.",
+                "Máy hỗ trợ kết nối Wi-Fi, Bluetooth để chia sẻ ảnh nhanh chóng.",
+                "Màn hình cảm ứng xoay lật tiện lợi cho việc quay vlog và selfie.",
+                "Máy tương thích với thẻ nhớ SD, SDHC và SDXC với dung lượng tối đa 256GB.",
+                "Thời gian sạc pin khoảng 2 giờ để đạt 100% dung lượng.",
+                "Độ nhạy ISO từ 100 đến 32000, mở rộng lên đến 51200.",
+                "Máy hỗ trợ lấy nét tự động theo pha và tương phản, lấy nét nhanh và chính xác."
+            ]
+        }
+    },
+    {
+        "processed_text": "Máy có hỗ trợ lấy nét tự động không?",
+        "tokens": [
+            "máy",
+            "hỗ_trợ",
+            "lấy",
+            "nét",
+            "tự_động"
+        ],
+        "token_frequency": {
+            "máy": 1,
+            "hỗ_trợ": 1,
+            "lấy": 1,
+            "nét": 1,
+            "tự_động": 1
+        },
+        "original_item": {
+            "Intent": "ask_technical",
+            "Response": [
+                "Sản phẩm này trang bị cảm biến CMOS APS-C, độ phân giải 24MP, hỗ trợ quay video 4K 30fps.",
+                "Máy có chống rung quang học tích hợp, giúp giảm mờ khi chụp hoặc quay.",
+                "Thời lượng pin trung bình khoảng 400-450 tấm ảnh hoặc 1.5 giờ quay video liên tục.",
+                "Máy hỗ trợ kết nối Wi-Fi, Bluetooth để chia sẻ ảnh nhanh chóng.",
+                "Màn hình cảm ứng xoay lật tiện lợi cho việc quay vlog và selfie.",
+                "Máy tương thích với thẻ nhớ SD, SDHC và SDXC với dung lượng tối đa 256GB.",
+                "Thời gian sạc pin khoảng 2 giờ để đạt 100% dung lượng.",
+                "Độ nhạy ISO từ 100 đến 32000, mở rộng lên đến 51200.",
+                "Máy hỗ trợ lấy nét tự động theo pha và tương phản, lấy nét nhanh và chính xác."
+            ]
+        }
+    },
+    {
+        "processed_text": "Hiện có khuyến mãi gì không?",
+        "tokens": [
+            "hiện",
+            "khuyến_mãi"
+        ],
+        "token_frequency": {
+            "hiện": 1,
+            "khuyến_mãi": 1
+        },
+        "original_item": {
+            "Intent": "ask_promotion",
+            "Response": [
+                "Chương trình khuyến mãi hiện tại kéo dài đến hết ngày 30/6 với ưu đãi giảm 15%.",
+                "Bạn sẽ được tặng kèm bộ phụ kiện trị giá 500.000₫ khi mua sản phẩm này.",
+                "Có mã giảm giá 5% áp dụng cho đơn hàng trên 5 triệu đồng.",
+                "Ưu đãi trả góp lãi suất 0% áp dụng cho thẻ tín dụng một số ngân hàng.",
+                "Khuyến mãi này chỉ áp dụng khi mua hàng trực tiếp tại cửa hàng.",
+                "Bạn có thể tích điểm để đổi quà hoặc giảm giá cho lần mua sau.",
+                "Chương trình hoàn tiền 3% khi thanh toán qua ví điện tử XYZ."
+            ]
+        }
+    },
+    {
+        "processed_text": "Có giảm giá cho sản phẩm này không?",
+        "tokens": [
+            "giảm_giá",
+            "sản_phẩm"
+        ],
+        "token_frequency": {
+            "giảm_giá": 1,
+            "sản_phẩm": 1
+        },
+        "original_item": {
+            "Intent": "ask_promotion",
+            "Response": [
+                "Chương trình khuyến mãi hiện tại kéo dài đến hết ngày 30/6 với ưu đãi giảm 15%.",
+                "Bạn sẽ được tặng kèm bộ phụ kiện trị giá 500.000₫ khi mua sản phẩm này.",
+                "Có mã giảm giá 5% áp dụng cho đơn hàng trên 5 triệu đồng.",
+                "Ưu đãi trả góp lãi suất 0% áp dụng cho thẻ tín dụng một số ngân hàng.",
+                "Khuyến mãi này chỉ áp dụng khi mua hàng trực tiếp tại cửa hàng.",
+                "Bạn có thể tích điểm để đổi quà hoặc giảm giá cho lần mua sau.",
+                "Chương trình hoàn tiền 3% khi thanh toán qua ví điện tử XYZ."
+            ]
+        }
+    },
+    {
+        "processed_text": "Chương trình ưu đãi đang áp dụng là gì?",
+        "tokens": [
+            "chương_trình",
+            "ưu_đãi",
+            "áp_dụng"
+        ],
+        "token_frequency": {
+            "chương_trình": 1,
+            "ưu_đãi": 1,
+            "áp_dụng": 1
+        },
+        "original_item": {
+            "Intent": "ask_promotion",
+            "Response": [
+                "Chương trình khuyến mãi hiện tại kéo dài đến hết ngày 30/6 với ưu đãi giảm 15%.",
+                "Bạn sẽ được tặng kèm bộ phụ kiện trị giá 500.000₫ khi mua sản phẩm này.",
+                "Có mã giảm giá 5% áp dụng cho đơn hàng trên 5 triệu đồng.",
+                "Ưu đãi trả góp lãi suất 0% áp dụng cho thẻ tín dụng một số ngân hàng.",
+                "Khuyến mãi này chỉ áp dụng khi mua hàng trực tiếp tại cửa hàng.",
+                "Bạn có thể tích điểm để đổi quà hoặc giảm giá cho lần mua sau.",
+                "Chương trình hoàn tiền 3% khi thanh toán qua ví điện tử XYZ."
+            ]
+        }
+    },
+    {
+        "processed_text": "Có quà tặng khi mua hàng không?",
+        "tokens": [
+            "quà",
+            "tặng",
+            "hàng_không"
+        ],
+        "token_frequency": {
+            "quà": 1,
+            "tặng": 1,
+            "hàng_không": 1
+        },
+        "original_item": {
+            "Intent": "ask_promotion",
+            "Response": [
+                "Chương trình khuyến mãi hiện tại kéo dài đến hết ngày 30/6 với ưu đãi giảm 15%.",
+                "Bạn sẽ được tặng kèm bộ phụ kiện trị giá 500.000₫ khi mua sản phẩm này.",
+                "Có mã giảm giá 5% áp dụng cho đơn hàng trên 5 triệu đồng.",
+                "Ưu đãi trả góp lãi suất 0% áp dụng cho thẻ tín dụng một số ngân hàng.",
+                "Khuyến mãi này chỉ áp dụng khi mua hàng trực tiếp tại cửa hàng.",
+                "Bạn có thể tích điểm để đổi quà hoặc giảm giá cho lần mua sau.",
+                "Chương trình hoàn tiền 3% khi thanh toán qua ví điện tử XYZ."
+            ]
+        }
+    },
+    {
+        "processed_text": "Giảm giá trong dịp lễ như thế nào?",
+        "tokens": [
+            "giảm_giá",
+            "lễ"
+        ],
+        "token_frequency": {
+            "giảm_giá": 1,
+            "lễ": 1
+        },
+        "original_item": {
+            "Intent": "ask_promotion",
+            "Response": [
+                "Chương trình khuyến mãi hiện tại kéo dài đến hết ngày 30/6 với ưu đãi giảm 15%.",
+                "Bạn sẽ được tặng kèm bộ phụ kiện trị giá 500.000₫ khi mua sản phẩm này.",
+                "Có mã giảm giá 5% áp dụng cho đơn hàng trên 5 triệu đồng.",
+                "Ưu đãi trả góp lãi suất 0% áp dụng cho thẻ tín dụng một số ngân hàng.",
+                "Khuyến mãi này chỉ áp dụng khi mua hàng trực tiếp tại cửa hàng.",
+                "Bạn có thể tích điểm để đổi quà hoặc giảm giá cho lần mua sau.",
+                "Chương trình hoàn tiền 3% khi thanh toán qua ví điện tử XYZ."
+            ]
+        }
+    },
+    {
+        "processed_text": "Mình có được giảm giá nếu mua nhiều không?",
+        "tokens": [
+            "giảm_giá"
+        ],
+        "token_frequency": {
+            "giảm_giá": 1
+        },
+        "original_item": {
+            "Intent": "ask_promotion",
+            "Response": [
+                "Chương trình khuyến mãi hiện tại kéo dài đến hết ngày 30/6 với ưu đãi giảm 15%.",
+                "Bạn sẽ được tặng kèm bộ phụ kiện trị giá 500.000₫ khi mua sản phẩm này.",
+                "Có mã giảm giá 5% áp dụng cho đơn hàng trên 5 triệu đồng.",
+                "Ưu đãi trả góp lãi suất 0% áp dụng cho thẻ tín dụng một số ngân hàng.",
+                "Khuyến mãi này chỉ áp dụng khi mua hàng trực tiếp tại cửa hàng.",
+                "Bạn có thể tích điểm để đổi quà hoặc giảm giá cho lần mua sau.",
+                "Chương trình hoàn tiền 3% khi thanh toán qua ví điện tử XYZ."
+            ]
+        }
+    },
+    {
+        "processed_text": "Có voucher hay mã giảm giá nào không?",
+        "tokens": [
+            "mã",
+            "giảm_giá"
+        ],
+        "token_frequency": {
+            "mã": 1,
+            "giảm_giá": 1
+        },
+        "original_item": {
+            "Intent": "ask_promotion",
+            "Response": [
+                "Chương trình khuyến mãi hiện tại kéo dài đến hết ngày 30/6 với ưu đãi giảm 15%.",
+                "Bạn sẽ được tặng kèm bộ phụ kiện trị giá 500.000₫ khi mua sản phẩm này.",
+                "Có mã giảm giá 5% áp dụng cho đơn hàng trên 5 triệu đồng.",
+                "Ưu đãi trả góp lãi suất 0% áp dụng cho thẻ tín dụng một số ngân hàng.",
+                "Khuyến mãi này chỉ áp dụng khi mua hàng trực tiếp tại cửa hàng.",
+                "Bạn có thể tích điểm để đổi quà hoặc giảm giá cho lần mua sau.",
+                "Chương trình hoàn tiền 3% khi thanh toán qua ví điện tử XYZ."
+            ]
+        }
+    },
+    {
+        "processed_text": "Ưu đãi trả góp có áp dụng không?",
+        "tokens": [
+            "ưu_đãi",
+            "trả_góp",
+            "áp_dụng"
+        ],
+        "token_frequency": {
+            "ưu_đãi": 1,
+            "trả_góp": 1,
+            "áp_dụng": 1
+        },
+        "original_item": {
+            "Intent": "ask_promotion",
+            "Response": [
+                "Chương trình khuyến mãi hiện tại kéo dài đến hết ngày 30/6 với ưu đãi giảm 15%.",
+                "Bạn sẽ được tặng kèm bộ phụ kiện trị giá 500.000₫ khi mua sản phẩm này.",
+                "Có mã giảm giá 5% áp dụng cho đơn hàng trên 5 triệu đồng.",
+                "Ưu đãi trả góp lãi suất 0% áp dụng cho thẻ tín dụng một số ngân hàng.",
+                "Khuyến mãi này chỉ áp dụng khi mua hàng trực tiếp tại cửa hàng.",
+                "Bạn có thể tích điểm để đổi quà hoặc giảm giá cho lần mua sau.",
+                "Chương trình hoàn tiền 3% khi thanh toán qua ví điện tử XYZ."
+            ]
+        }
+    },
+    {
+        "processed_text": "Sản phẩm này có giá tốt hơn khi mua online không?",
+        "tokens": [
+            "sản_phẩm",
+            "có_giá",
+            "tốt"
+        ],
+        "token_frequency": {
+            "sản_phẩm": 1,
+            "có_giá": 1,
+            "tốt": 1
+        },
+        "original_item": {
+            "Intent": "ask_promotion",
+            "Response": [
+                "Chương trình khuyến mãi hiện tại kéo dài đến hết ngày 30/6 với ưu đãi giảm 15%.",
+                "Bạn sẽ được tặng kèm bộ phụ kiện trị giá 500.000₫ khi mua sản phẩm này.",
+                "Có mã giảm giá 5% áp dụng cho đơn hàng trên 5 triệu đồng.",
+                "Ưu đãi trả góp lãi suất 0% áp dụng cho thẻ tín dụng một số ngân hàng.",
+                "Khuyến mãi này chỉ áp dụng khi mua hàng trực tiếp tại cửa hàng.",
+                "Bạn có thể tích điểm để đổi quà hoặc giảm giá cho lần mua sau.",
+                "Chương trình hoàn tiền 3% khi thanh toán qua ví điện tử XYZ."
+            ]
+        }
+    },
+    {
+        "processed_text": "Có chương trình hoàn tiền hay tích điểm không?",
+        "tokens": [
+            "chương_trình",
+            "tiền",
+            "tích",
+            "điểm"
+        ],
+        "token_frequency": {
+            "chương_trình": 1,
+            "tiền": 1,
+            "tích": 1,
+            "điểm": 1
+        },
+        "original_item": {
+            "Intent": "ask_promotion",
+            "Response": [
+                "Chương trình khuyến mãi hiện tại kéo dài đến hết ngày 30/6 với ưu đãi giảm 15%.",
+                "Bạn sẽ được tặng kèm bộ phụ kiện trị giá 500.000₫ khi mua sản phẩm này.",
+                "Có mã giảm giá 5% áp dụng cho đơn hàng trên 5 triệu đồng.",
+                "Ưu đãi trả góp lãi suất 0% áp dụng cho thẻ tín dụng một số ngân hàng.",
+                "Khuyến mãi này chỉ áp dụng khi mua hàng trực tiếp tại cửa hàng.",
+                "Bạn có thể tích điểm để đổi quà hoặc giảm giá cho lần mua sau.",
+                "Chương trình hoàn tiền 3% khi thanh toán qua ví điện tử XYZ."
+            ]
+        }
+    },
+    {
+        "processed_text": "Khuyến mãi có giới hạn thời gian không?",
+        "tokens": [
+            "khuyến_mãi",
+            "giới_hạn"
+        ],
+        "token_frequency": {
+            "khuyến_mãi": 1,
+            "giới_hạn": 1
+        },
+        "original_item": {
+            "Intent": "ask_promotion",
+            "Response": [
+                "Chương trình khuyến mãi hiện tại kéo dài đến hết ngày 30/6 với ưu đãi giảm 15%.",
+                "Bạn sẽ được tặng kèm bộ phụ kiện trị giá 500.000₫ khi mua sản phẩm này.",
+                "Có mã giảm giá 5% áp dụng cho đơn hàng trên 5 triệu đồng.",
+                "Ưu đãi trả góp lãi suất 0% áp dụng cho thẻ tín dụng một số ngân hàng.",
+                "Khuyến mãi này chỉ áp dụng khi mua hàng trực tiếp tại cửa hàng.",
+                "Bạn có thể tích điểm để đổi quà hoặc giảm giá cho lần mua sau.",
+                "Chương trình hoàn tiền 3% khi thanh toán qua ví điện tử XYZ."
+            ]
+        }
+    },
+    {
+        "processed_text": "Mua sản phẩm này có được tặng phụ kiện không?",
+        "tokens": [
+            "sản_phẩm",
+            "tặng",
+            "phụ_kiện"
+        ],
+        "token_frequency": {
+            "sản_phẩm": 1,
+            "tặng": 1,
+            "phụ_kiện": 1
+        },
+        "original_item": {
+            "Intent": "ask_promotion",
+            "Response": [
+                "Chương trình khuyến mãi hiện tại kéo dài đến hết ngày 30/6 với ưu đãi giảm 15%.",
+                "Bạn sẽ được tặng kèm bộ phụ kiện trị giá 500.000₫ khi mua sản phẩm này.",
+                "Có mã giảm giá 5% áp dụng cho đơn hàng trên 5 triệu đồng.",
+                "Ưu đãi trả góp lãi suất 0% áp dụng cho thẻ tín dụng một số ngân hàng.",
+                "Khuyến mãi này chỉ áp dụng khi mua hàng trực tiếp tại cửa hàng.",
+                "Bạn có thể tích điểm để đổi quà hoặc giảm giá cho lần mua sau.",
+                "Chương trình hoàn tiền 3% khi thanh toán qua ví điện tử XYZ."
+            ]
+        }
+    }
+]

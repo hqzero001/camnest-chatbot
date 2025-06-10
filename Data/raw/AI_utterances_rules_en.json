@@ -1,0 +1,210 @@
+[
+  {
+    "intent": "ask_warranty",
+    "examples": [
+    "Does the product come with a warranty?",
+      "How long is the warranty?",
+      "What is the warranty policy?",
+      "Is there an official warranty?",
+      "What is the warranty duration?",
+      "If it breaks, will it be covered by the warranty?",
+      "Where can I get it warranted?",
+      "Can I get a replacement during the warranty period?",
+      "Does it come with a warranty card?",
+      "How does the warranty for this product work?",
+      "I need information about the warranty.",
+      "How many months is the warranty?",
+      "Is warranty support available?",
+      "What happens if the product is defective?",
+      "Is there a warranty center in Ho Chi Minh City?",
+      "Can it be repaired after the warranty expires?",
+      "Is my device still under warranty?",
+      "Can I bring it to a store for warranty service?",
+      "What documents are needed for warranty claims?",
+      "Do I need an invoice for the warranty?",
+      "Is damage from drops or impacts covered by the warranty?",
+      "Can the warranty be extended?",
+      "Does the warranty start from the purchase date or activation date?",
+      "Is there an international warranty?"
+    ],
+"response":
+    "The camera comes with a 24-month warranty, and lenses have a 12-month official warranty. Which product are you interested in?",
+      "The product comes with a 12-month official warranty nationwide!",
+      "Warranty duration varies by product. Please provide the product code for specific details.",
+      "We offer a 1-to-1 exchange within 7 days if the product has a manufacturing defect.",
+      "The product includes an official warranty card. You can bring it to a service center or contact us for support.",
+      "The warranty starts from the purchase date. Please keep your invoice or order details for easy processing!",
+      "12-month warranty at all authorized service centers. Would you like me to send you the address of the nearest center?",
+      "Cameras and lenses come with an official warranty. Some accessories like batteries and chargers have a 3–6 month warranty depending on the type.",
+      "In case of technical issues, just contact us or bring the device to a warranty center for the fastest support.",
+      "You can extend the warranty by 6–12 months with an extended package. Would you like me to provide more details?",
+      "We can check the warranty status using the serial number. Please send the device code, and I’ll check for you!"
+    ]
+    ]
+
+  },
+  {
+    "intent": "ask_compatibility",
+    "examples": [
+      "Which lenses can be used with the Sony ZV-E10?",
+      "What lenses are compatible with this camera?",
+      "Can I use Canon lenses?",
+      "Does the camera support Sony lenses?",
+      "I want to know which lenses this camera can use.",
+      "Is the camera compatible with E-mount lenses?",
+      "Can it use EF-mount lenses?",
+      "I have an old lens; can it be used with this camera?",
+      "Do I need an adapter for lenses from other brands?",
+      "Does it support large-aperture lenses?",
+      "Is this model compatible with wide-angle lenses?",
+      "What accessories are compatible with the camera?",
+      "Does it support an external flash?",
+      "Can I attach an external microphone?",
+      "Can the camera connect to other devices via Bluetooth?",
+      "Can I use any tripod with it?",
+      "Can lenses from other brands be used?",
+      "What’s the difference between E-mount and EF-mount? Are they compatible?",
+      "I’m using Sony lenses; do I need an adapter?",
+      "Can old accessories be used with this camera?"
+    ],
+    "response": 
+    "The camera supports Sony E-mount lenses. Which lens are you using so I can check for you?",
+      "The product is compatible with most E-mount lenses. If you use Canon or Nikon lenses, you’ll need a suitable adapter.",
+      "You can use official or third-party lenses like Sigma or Tamron as long as they’re E-mount. I can suggest some models if you need.",
+      "Yes, the camera supports various accessories like microphones, flashes, and standard tripods. Which device would you like to connect? I can check for you.",
+      "If you have an old lens, just check the mount type. Send me the lens code, and I’ll verify compatibility for you.",
+      "The camera works well with Sony E-mount and FE-mount lenses. For DSLR lenses, you’ll need a separate adapter.",
+      "The camera doesn’t directly support Canon EF-mount lenses, but you can use an adapter for normal operation.",
+      "Currently, the camera is only compatible with E-mount lenses. If you need lens suggestions for specific shooting styles (portrait, landscape...), I can help right away!",
+      "The camera supports Bluetooth and Wi-Fi for connecting to smartphones and accessories. For external microphones, a 3.5mm jack is all you need.",
+      "You can use a standard 1/4-inch tripod, which is common for cameras today."
+  },
+  {
+    "intent": "ask_compare",
+    "examples": [    
+      "Compare the ZV-E10 and ZV-1 for me.",
+      "What’s the difference between the ZV-E10 and ZV-1?",
+      "Is the ZV-E10 better than the ZV-1?",
+      "Tell me the differences between these two cameras.",
+      "Which takes better photos, the ZV-1 or ZV-E10?",
+      "What does the ZV-E10 have that the ZV-1 doesn’t?",
+      "How are the ZV-1 and ZV-E10 different?",
+      "Between the ZV-E10 and ZV-1, which should I choose?",
+      "Compare these two camera models for me.",
+      "I’m torn between the ZV-E10 and ZV-1; can you advise me?",
+      "Does the ZV-1 have weaker specs compared to the ZV-E10?" 
+]
+    "response":
+      "The ZV-E10 has interchangeable lenses and a larger sensor, suitable for in-depth photography. The ZV-1 is compact and convenient for quick vlogging.",
+      "If you want high-quality video with good post-production, choose the ZV-E10. The ZV-1 is lightweight and ideal for travel.",
+      "The ZV-E10 has a mic input, headphone jack, and supports interchangeable lenses, making it more versatile. However, the ZV-1 is easier for beginners.",
+      "It depends on your needs. If you want a versatile, upgradable camera, the ZV-E10 is the better choice.",
+      "The ZV-1 is a compact camera, while the ZV-E10 is a mirrorless camera, so the ZV-E10 offers better image quality and customization."
+},
+  {
+    "intent": "ask_shooting_style",
+    "examples": [
+    "What shooting style is this camera suitable for?",
+      "Is this camera good for portrait photography?",
+      "Can this camera be used for vlogging?",
+      "I want to shoot landscapes; which camera should I use?",
+      "Is this camera suitable for macro photography?",
+      "Can you recommend a camera for event photography?",
+      "Which lens should I use for portrait video recording?",
+      "Which camera is good for sports photography?",
+      "Is this camera good for night photography?",
+      "Is there a camera good for high-quality video recording?",
+      "Is this camera suitable for YouTube vlogging?",
+      "Does this camera support portrait photography with background blur?"
+]
+    "response": 
+"This camera is suitable for vlogging, portrait photography, and street photography.",
+      "If you want to shoot sports or fast action, the camera has excellent autofocus speed and continuous shooting.",
+      "This camera has a night mode and good noise handling, making it suitable for low-light photography.",
+      "You should use a macro lens for close-up shots of flowers or small objects.",
+      "The camera is great for YouTube filming with 4K recording and external microphone support.",
+      "With this camera, you can creatively explore various shooting styles thanks to its multiple supported modes."  },
+  {
+    "intent": "ask_price",
+    "examples": [
+    "How much is it?",
+      "What’s the price of this camera?",
+      "Can you tell me the price of this product?",
+      "How much does the product cost?",
+      "What’s the price?",
+      "Is there a discount?",
+      "What’s the current price?",
+      "How much is it being sold for?",
+      "How much is this product?",
+      "Please tell me the price of this camera.",
+      "Does the price include tax?",
+      "Are there any promotions?",
+      "I want to know the detailed price."],
+    "response": 
+    "Sorry, I’m not sure what you’re asking. You can ask about the product, warranty, or lens compatibility!",
+      "The current price of the product is 12,500,000 VND. Would you like me to send a detailed price list?",
+      "The camera is on sale for a discounted price of 12,500,000 VND. Would you like more advice?",
+      "This price includes VAT and shipping fees within Hanoi!",
+      "You can buy it with 0% interest installments over 6 months if you want.",
+      "We currently have a 10% discount program for new customers.",
+      "The product price varies depending on the included accessories and promotional policies at the time."  },
+  {
+    "intent": "ask_technical",
+    "examples": [
+      "What type of sensor does this camera have?",
+      "What are the technical specifications of the product?",
+      "Does the camera have image stabilization?",
+      "What is the image resolution of the camera?",
+      "How long is the battery life?",
+      "Can the camera record 4K video?",
+      "What is the focal length of the included lens?",
+      "What type of memory card does the camera support?",
+      "Can it connect via Bluetooth or Wi-Fi?",
+      "How much does the camera weigh?",
+      "Does the camera have a touchscreen?",
+      "What is the maximum ISO sensitivity?",
+      "Can it use an external microphone?",
+      "How long does it take to charge the battery?",
+      "Does the camera support autofocus?"
+    "response": 
+    "This product is equipped with an APS-C CMOS sensor, 24MP resolution, and supports 4K 30fps video recording.",
+      "The camera has built-in optical image stabilization to reduce blur during shooting or recording.",
+      "The battery life is approximately 400–450 shots or 1.5 hours of continuous video recording.",
+      "The camera supports Wi-Fi and Bluetooth for quick photo sharing.",
+      "The flip-out touchscreen is convenient for vlogging and selfies.",
+      "The camera is compatible with SD, SDHC, and SDXC memory cards with a maximum capacity of 256GB.",
+      "Battery charging time is about 2 hours to reach 100% capacity.",
+      "ISO sensitivity ranges from 100 to 32,000, expandable to 51,200.",
+      "The camera supports phase-detection and contrast-detection autofocus, providing fast and accurate focusing."
+    ]
+  },
+  {
+    "intent": "ask_promotion",
+    "examples": [
+      "Are there any current promotions?",
+      "Is there a discount for this product?",
+      "What promotions are currently available?",
+      "Are there any gifts included with the purchase?",
+      "What are the discounts during holidays?",
+      "Can I get a discount if I buy in bulk?",
+      "Are there any vouchers or discount codes?",
+      "Is there a promotion for installment payments?",
+      "Is the price better when buying online?",
+      "Is there a cashback or loyalty points program?",
+      "Is the promotion time-limited?",
+      "Does buying this product come with free accessories?"],
+    "response":  
+      "The current promotion lasts until June 30 with a 15% discount.",
+      "You’ll receive a free accessory kit worth 500,000 VND when purchasing this product.",
+      "There’s a 5% discount code for orders over 5 million VND.",
+      "0% interest installment offers are available for certain bank credit cards.",
+      "This promotion applies only to in-store purchases.",
+      "You can earn points to redeem gifts or discounts on your next purchase.",
+      "There’s a 3% cashback program when paying via the XYZ e-wallet."
+  },
+  {
+    "intent": "fallback",
+    "examples": [],
+    "response": "Sorry, I’m not sure what you’re asking. You can ask about the product, warranty, or lens compatibility!"
+  }
+]
